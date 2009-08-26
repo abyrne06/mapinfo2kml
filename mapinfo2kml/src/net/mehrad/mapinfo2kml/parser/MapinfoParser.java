@@ -9,12 +9,12 @@ import net.mehrad.mapinfo2kml.exception.ParserException;
 public class MapinfoParser extends Parser{
 
 	protected MidModel model;
-	protected File midfFile;
-	protected File miffiFile;
+	protected File midFile;
+	protected File mifFile;
 	
 	public MapinfoParser(File midFile, File mifFile) {
-		this.midfFile=midFile;
-		this.miffiFile=mifFile;
+		this.midFile=midFile;
+		this.mifFile=mifFile;
 	}
 
 	public DataModel parse() throws ParserException{

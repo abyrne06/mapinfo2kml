@@ -8,10 +8,10 @@ import net.mehrad.mapinfo2kml.XlsModel;
 public class XlsParser extends Parser{
 
 	protected XlsModel xlsModel;
-	protected File xlsdFile;
+	protected File xlsFile;
 	
 	public XlsParser(File xlsFile) {
-		this.xlsdFile=xlsFile;
+		this.xlsFile=xlsFile;
 	}
 
 	@Override
