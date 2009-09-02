@@ -47,7 +47,9 @@ public class Translator {
 	 *	2) initializing parsers
 	 *	3) parsing.
 	 *	4) filling KML model
-	 * @return
+	 *  . precondition: midFile, mifFile, xlsFile must be initialized first
+	 *  . postcondition: The output file can be generated using the generated Kml model
+	 * @return Kml
 	 * @throws ParserException
 	 * @throws ValidationException
 	 */
@@ -68,6 +70,8 @@ public class Translator {
 	/**
 	 * fill KML model from Xls Model (Election data) and Mid model
 	 * by knowing the mapping between fields.
+	 * @precondition midModel and xlsModel must be prepared by their responsible parsers.
+	 * @postcondition
 	 * @param midModel
 	 * @param xlsModel
 	 * @return

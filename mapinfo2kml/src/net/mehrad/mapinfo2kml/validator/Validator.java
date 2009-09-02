@@ -17,6 +17,10 @@ public abstract class Validator {
 	 * a success/fail code, changes program flow 
 	 * by throwing a ValidationException
 	 *   
+	 * . precondition the translate method of the Tranlate class should be called, and also the input file
+	 * needs to be initialized.
+	 * . postcondition The file is either valid so translation process can go on, or its invalid and then an
+	 * input validation exception will be thrown. 
 	 * @param mifFile
 	 * @throws ValidationException
 	 */

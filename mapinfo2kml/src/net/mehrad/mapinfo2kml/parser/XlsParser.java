@@ -14,6 +14,11 @@ public class XlsParser extends Parser{
 		this.xlsFile=xlsFile;
 	}
 
+	/**
+	 * . precondition xlsFile needs to be initialized
+	 * . postcondition xlsModel is created
+	 * @return DataModel 
+	 */
 	@Override
 	public DataModel parse() {
 		// TODO Auto-generated method stub

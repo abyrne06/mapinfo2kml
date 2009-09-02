@@ -17,6 +17,12 @@ public class MapinfoParser extends Parser{
 		this.mifFile=mifFile;
 	}
 
+	/**
+	 * . precondition midfile and miffile properties need be initialized
+	 * . postcondition
+	 * @return DataModel
+	 * 
+	 */
 	public DataModel parse() throws ParserException{
 		// TODO Auto-generated method stub
 		throw new UnsupportedOperationException("Method not implemented");

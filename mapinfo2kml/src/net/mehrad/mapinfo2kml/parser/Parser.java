@@ -12,7 +12,9 @@ public abstract class Parser {
 
 	/**
 	 * parses the files and throws exception if any errors occur
-	 * @return
+	 * . precondition The input files need to be set
+	 * . postcondition DataModel can be converted to KML file
+	 * @return DataModel
 	 * @throws ParserException
 	 */
 	public abstract DataModel parse() throws ParserException;
