@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class keeps the rectangle properties.
  * @author Mehrad
  *
  */

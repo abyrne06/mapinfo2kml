@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class can be used to draw a line. It basically will be used by MifLine class. 
  * @author Mehrad
  *
  */

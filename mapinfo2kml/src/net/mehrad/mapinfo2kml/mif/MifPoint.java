@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class is responsible for showing a point using a MifCoordinate class and a MifSymbol class.
  * @author Mehrad
  *
  */

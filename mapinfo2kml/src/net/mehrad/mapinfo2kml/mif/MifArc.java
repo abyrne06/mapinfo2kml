@@ -1,9 +1,8 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * The mif model Arc property class type.
  * @author Mehrad
- *
  */
 public class MifArc extends MifData{
 

@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This Class Type is basically used in the point class whcih hold the x, y properties of the Point class.
  * @author Mehrad
  *
  */

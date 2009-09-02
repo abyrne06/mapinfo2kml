@@ -3,7 +3,7 @@ package net.mehrad.mapinfo2kml.mif;
 import java.util.List;
 
 /**
- * 
+ * This class is responsible for connection a collection of points to each other.
  * @author Mehrad
  *
  */

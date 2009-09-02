@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * The mif model Column property class type.
  * @author Mehrad
  *
  */

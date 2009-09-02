@@ -1,5 +1,11 @@
 package net.mehrad.mapinfo2kml.mif;
 
+/**
+ * 
+ * This class is the Eclipse property type of the Mif model. 
+ * @author Mehrad
+ *
+ */
 public class MifElipse extends MifData{
 
 	private MifCoordinate coordinate1;

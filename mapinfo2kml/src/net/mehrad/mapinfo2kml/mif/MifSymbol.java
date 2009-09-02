@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class holds the symbol properties.
  * @author Mehrad
  *
  */

@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class is the Line property type of the Mif model. It contains a MifPen property to draw the line.
  * @author Mehrad
  *
  */

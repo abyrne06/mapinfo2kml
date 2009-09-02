@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * This class hold the Round Rectangle properties.
  * @author Mehrad
  *
  */

@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.mif;
 
 /**
- * 
+ * Using this class a string can be shown between to points. 
  * @author Mehrad
  *
  */

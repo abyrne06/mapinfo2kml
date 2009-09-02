@@ -3,7 +3,7 @@ package net.mehrad.mapinfo2kml.mif;
 import java.util.List;
 
 /**
- * 
+ * This class can be used to specify a region using a collection of points.
  * @author Mehrad
  *
  */
