@@ -3,8 +3,8 @@ package net.mehrad.mapinfo2kml.parser;
 import java.io.File;
 
 import net.mehrad.mapinfo2kml.DataModel;
-import net.mehrad.mapinfo2kml.MidModel;
 import net.mehrad.mapinfo2kml.exception.ParserException;
+import net.mehrad.mapinfo2kml.mid.MidModel;
 
 public class MapinfoParser extends Parser{
 

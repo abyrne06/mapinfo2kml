@@ -4,11 +4,13 @@ import java.io.File;
 
 import net.mehrad.mapinfo2kml.exception.ParserException;
 import net.mehrad.mapinfo2kml.exception.ValidationException;
+import net.mehrad.mapinfo2kml.mid.MidModel;
 import net.mehrad.mapinfo2kml.parser.MapinfoParser;
 import net.mehrad.mapinfo2kml.parser.XlsParser;
 import net.mehrad.mapinfo2kml.validator.MidValidator;
 import net.mehrad.mapinfo2kml.validator.MifValidator;
 import net.mehrad.mapinfo2kml.validator.XlsValidator;
+import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 import org.boehn.kmlframework.kml.Kml;
 

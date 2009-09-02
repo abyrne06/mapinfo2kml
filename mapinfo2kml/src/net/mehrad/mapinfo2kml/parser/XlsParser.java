@@ -3,7 +3,7 @@ package net.mehrad.mapinfo2kml.parser;
 import java.io.File;
 
 import net.mehrad.mapinfo2kml.DataModel;
-import net.mehrad.mapinfo2kml.XlsModel;
+import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 public class XlsParser extends Parser{
 
