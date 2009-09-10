@@ -9,6 +9,7 @@ import net.mehrad.mapinfo2kml.exception.ValidationException;
 import net.mehrad.mapinfo2kml.mif.MifCoordinate;
 import net.mehrad.mapinfo2kml.mif.MifData;
 import net.mehrad.mapinfo2kml.mif.MifModel;
+import net.mehrad.mapinfo2kml.mif.MifPoint;
 import net.mehrad.mapinfo2kml.mif.MifRegion;
 import net.mehrad.mapinfo2kml.parser.MapinfoParser;
 import net.mehrad.mapinfo2kml.parser.XlsParser;
@@ -18,6 +19,7 @@ import net.mehrad.mapinfo2kml.validator.XlsValidator;
 import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 import org.boehn.kmlframework.kml.Document;
+import org.boehn.kmlframework.kml.Feature;
 import org.boehn.kmlframework.kml.Kml;
 import org.boehn.kmlframework.kml.LinearRing;
 import org.boehn.kmlframework.kml.Placemark;
@@ -100,10 +102,18 @@ public class Translator {
 			if (mifData instanceof MifRegion) {
 				document.addFeature(getPlaceMarkForRegion((MifRegion) mifData));
 			}
+			else if (mifData instanceof MifPoint) {
+				document.addFeature(getPlaceMarkForPoint((MifPoint) mifData));
+			}
 
 		}
 
 		return kml;
+	}
+
+	//TODO: pass the text
+	private Feature getPlaceMarkForPoint(MifPoint mifData) {
+		throw new UnsupportedOperationException("Method not implemented");
 	}
 
 	/**
