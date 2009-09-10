@@ -12,5 +12,8 @@ public class MifData {
 	/**
 	 * This method translates itself to its mapped property in the kml model.
 	 * */
-	public void tranlate(){};	
+	public Object tranlate()
+	{
+		throw new UnsupportedOperationException("Method not implemented");
+	};	
 }

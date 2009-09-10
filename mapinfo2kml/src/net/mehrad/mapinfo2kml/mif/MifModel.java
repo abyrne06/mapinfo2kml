@@ -1,5 +1,6 @@
 package net.mehrad.mapinfo2kml.mif;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import net.mehrad.mapinfo2kml.DataModel;
@@ -15,9 +16,19 @@ public class MifModel extends DataModel{
 	private String version;
 	private String charset;
 	private String delimiter;
-	private List<MifColumns> columns;
-	private List<MifData> mifDatas;
+	private List<MifColumn> columns=new ArrayList<MifColumn>();
+	private List<MifData> mifDatas=new ArrayList<MifData>();
+
 	
+	public void addMifData(MifData mifData)
+	{
+		mifDatas.add(mifData);
+	}
+
+	public void addMifColumn(MifColumn mifColumn)
+	{
+		columns.add(mifColumn);
+	}
 	public String getVersion() {
 		return version;
 	}
@@ -36,10 +47,10 @@ public class MifModel extends DataModel{
 	public void setDelimiter(String delimiter) {
 		this.delimiter = delimiter;
 	}
-	public List<MifColumns> getColumns() {
+	public List<MifColumn> getColumns() {
 		return columns;
 	}
-	public void setColumns(List<MifColumns> columns) {
+	public void setColumns(List<MifColumn> columns) {
 		this.columns = columns;
 	}
 	public List<MifData> getMifDatas() {

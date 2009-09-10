@@ -1,5 +1,6 @@
 package net.mehrad.mapinfo2kml.mif;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -9,16 +10,22 @@ import java.util.List;
  */
 public class MifRegion extends MifData{
 
-	private List<List<MifCoordinate>> points;
+	private List<List<MifCoordinate>> regions=new ArrayList<List<MifCoordinate>>();
 	private MifPen pen;
 	private MifBrush mifBrush;
 	private MifPoint center;
-	public List<List<MifCoordinate>> getPoints() {
-		return points;
+	
+	public void addRegion(List<MifCoordinate> mifCoordinates)
+	{
+		regions.add(mifCoordinates);
 	}
 	
-	public void setPoints(List<List<MifCoordinate>> points) {
-		this.points = points;
+	public List<List<MifCoordinate>> getRegions() {
+		return regions;
+	}
+	
+	public void setRegions(List<List<MifCoordinate>> regions) {
+		this.regions = regions;
 	}
 	public MifPen getPen() {
 		return pen;
