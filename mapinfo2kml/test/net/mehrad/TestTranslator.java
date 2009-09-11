@@ -28,7 +28,7 @@ public class TestTranslator {
 	@Test
 	public void testTranslate() {
 
-		Translator translator = new Translator(null, new File(
+		Translator translator = new Translator(new File("QLD_Federal_Electoral_Boundaries.mid"), new File(
 				"QLD_Federal_Electoral_Boundaries.mif"));
 		try {
 			Kml result = translator.translate();

@@ -7,10 +7,14 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.StringTokenizer;
 
 import net.mehrad.mapinfo2kml.DataModel;
 import net.mehrad.mapinfo2kml.exception.ParserException;
+import net.mehrad.mapinfo2kml.mid.MidModel;
 import net.mehrad.mapinfo2kml.mif.MifColumn;
 import net.mehrad.mapinfo2kml.mif.MifCoordinate;
 import net.mehrad.mapinfo2kml.mif.MifLine;
@@ -36,8 +40,11 @@ public class MapinfoParser extends Parser {
 	private static final String MIF_POINT_KEYWORD = "POINT";
 	private static final String MIF_LINE_KEYWORD = "LINE";
 	private static final String MIF_PLINE_KEYWORD = "PLINE";
+	private static final String MIF_POLYLINE_KEYWORD = "POLYLINE";
 	private static final String MIF_RECTANGLE_KEYWORD = "RECTANGLE";
 	private static final String MIF_ROUNDRECT_KEYWORD = "ROUNDRECT";
+	private static final String MIF_ELLIPSE_KEYWORD = "ELLIPSE";
+	private static final String MIF_ARC_KEYWORD = "ARC";
 	private static final String MIF_TEXT_KEYWORD = "TEXT";
 	private static final String MIF_VERSION_KEYWORD = "VERSION";
 	private static final String MIF_CHARSET_KEYWORD = "Charset";
@@ -61,42 +68,73 @@ public class MapinfoParser extends Parser {
 	 */
 	public DataModel parse() throws ParserException {
 
-		MifModel mifModel = new MifModel();
-		int linePointer = 0;
-
 		try {
 
-			List<String> mifFileLines = getReadedLines(mifFile);
-			//parse header part
-			linePointer = handleMifHeader(mifFileLines, linePointer, mifModel);
-			//go to DATA line
-			linePointer++;
-
-			while (linePointer < mifFileLines.size()) {
-				String line = (String) mifFileLines.get(linePointer);
-				//TODO: make it look good
-				if (ParseStringUtils.startsWithIgnoreCase(line,MIF_REGION_KEYWORD)) {
-					linePointer = handleRegion(mifFileLines, linePointer,mifModel);
-				} else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_POINT_KEYWORD)) {
-					linePointer = handlePoint(mifFileLines, linePointer,mifModel);
-				}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_LINE_KEYWORD)) {
-					linePointer = handleLine(mifFileLines, linePointer,mifModel);
-				}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_PLINE_KEYWORD)) {
-					linePointer = handlePLine(mifFileLines, linePointer,mifModel);
-				}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_RECTANGLE_KEYWORD)) {
-					linePointer = handleRectangle(mifFileLines, linePointer,mifModel);
-				}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_ROUNDRECT_KEYWORD)) {
-					linePointer = handleRectangle(mifFileLines, linePointer,mifModel);
-				}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_TEXT_KEYWORD)) {
-					linePointer = handleText(mifFileLines, linePointer,mifModel);
-				}
-
-				linePointer++;
-			}
+			MidModel midModel=new MidModel();
+			midModel.setMidFileLines(getReadedLines(midFile));
+			
+			
+			
+			return parseMif(midModel);
 
 		} catch (IOException e) {
 			throw new ParserException(e);
 		}
+		
+	}
+
+	private DataModel parseMif(MidModel midModel) throws IOException {
+		MifModel mifModel = new MifModel();
+		int linePointer = 0;
+
+
+		List<String> mifFileLines = getReadedLines(mifFile);
+		//parse header part
+		linePointer = handleMifHeader(mifFileLines, linePointer, mifModel);
+		//go to DATA line
+		linePointer++;
+
+		List<MifColumn> columns = mifModel.getColumns();
+		String delimiter = mifModel.getDelimiter();
+		
+		int shapeCounter=0; //this will be used for mapping MID lines to proper Object
+		while (linePointer < mifFileLines.size()) {
+			String line = (String) mifFileLines.get(linePointer);
+			//TODO: make it look good
+			if (ParseStringUtils.startsWithIgnoreCase(line,MIF_REGION_KEYWORD)) {
+				linePointer = handleRegion(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			} else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_POINT_KEYWORD)) {
+				linePointer = handlePoint(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_LINE_KEYWORD)) {
+				linePointer = handleLine(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (
+						ParseStringUtils.startsWithIgnoreCase(line,MIF_PLINE_KEYWORD) ||
+						ParseStringUtils.startsWithIgnoreCase(line,MIF_POLYLINE_KEYWORD)) 
+			{
+				linePointer = handlePLine(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_RECTANGLE_KEYWORD)) {
+				linePointer = handleRectangle(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_ROUNDRECT_KEYWORD)) {
+				//TODO: handle round rectangle seperately
+				linePointer = handleRectangle(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_TEXT_KEYWORD)) {
+				linePointer = handleText(mifFileLines, linePointer,mifModel,
+						getMidRecord(++shapeCounter, midModel, delimiter, columns));
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_ELLIPSE_KEYWORD)) {
+				shapeCounter++;
+			}else if (ParseStringUtils.startsWithIgnoreCase(line,MIF_ARC_KEYWORD)) {
+				shapeCounter++;
+			}
+
+			linePointer++;
+		}
+
 
 		return mifModel;
 	}
@@ -107,16 +145,17 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 
 	private int handleText(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 
 		MifText mifText=new MifText();
 		
 		String firstLine = mifFileLines.get(linePointer);
-		mifText.setText(ParseStringUtils.getStringPart(firstLine.trim(), 2));
+		mifText.setText(ParseStringUtils.getStringPart(firstLine.trim(), 2,true));//TODO: needs support for  -> ""
 		
 		String secondLine = mifFileLines.get(++linePointer);
 		
@@ -132,6 +171,7 @@ public class MapinfoParser extends Parser {
 		mifText.setCoordinate1(coordinate1);
 		mifText.setCoordinate2(coordinate2);
 		
+		mifText.setObjectData(map);
 		mifModel.addMifData(mifText);
 
 		return linePointer;
@@ -145,10 +185,11 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 	private int handleRectangle(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 
 		MifRectangle mifRectangle=new MifRectangle();
 		String firstLine = mifFileLines.get(linePointer);
@@ -163,6 +204,7 @@ public class MapinfoParser extends Parser {
 
 		mifRectangle.setCoordinate1(coordinate1);
 		mifRectangle.setCoordinate2(coordinate2);
+		mifRectangle.setObjectData(map);
 		mifModel.addMifData(mifRectangle);
 
 		return linePointer;
@@ -176,10 +218,11 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 	private int handlePLine(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 		
 		MifPLine mifPLine = new MifPLine();
 
@@ -214,6 +257,7 @@ public class MapinfoParser extends Parser {
 			}
 			mifPLine.addSection(mifCoordinates);
 		}
+		mifPLine.setObjectData(map);
 		mifModel.addMifData(mifPLine);
 
 		return linePointer;
@@ -225,11 +269,12 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 
 	private int handleLine(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 		MifLine mifLine=new MifLine();
 		String firstLine = mifFileLines.get(linePointer);
 		MifCoordinate coordinate1=new MifCoordinate();
@@ -243,6 +288,7 @@ public class MapinfoParser extends Parser {
 
 		mifLine.setCoordinate1(coordinate1);
 		mifLine.setCoordinate2(coordinate2);
+		mifLine.setObjectData(map);
 		mifModel.addMifData(mifLine);
 
 		return linePointer;
@@ -254,10 +300,11 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 	private int handlePoint(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 
 		MifPoint mifPoint=new MifPoint();
 		String firstLine = mifFileLines.get(linePointer);
@@ -266,8 +313,9 @@ public class MapinfoParser extends Parser {
 		coordinate.setY(Double.parseDouble(ParseStringUtils.getStringPart(firstLine.trim(), 3)));
 		
 		mifPoint.setCoordinate(coordinate);
+		mifPoint.setObjectData(map);
 		mifModel.addMifData(mifPoint);
-
+		
 		return linePointer;
 	}
 
@@ -292,11 +340,11 @@ public class MapinfoParser extends Parser {
 			}
 			if (ParseStringUtils
 					.startsWithIgnoreCase(line, MIF_CHARSET_KEYWORD)) {
-				mifModel.setCharset(ParseStringUtils.getStringPart(line, 2));
+				mifModel.setCharset(ParseStringUtils.getStringPart(line, 2,true));
 			}
 			if (ParseStringUtils.startsWithIgnoreCase(line,
 					MIF_DELIMITER_KEYWORD)) {
-				mifModel.setDelimiter(ParseStringUtils.getStringPart(line, 2));
+				mifModel.setDelimiter(ParseStringUtils.getStringPart(line, 2,true));
 			}
 			if (ParseStringUtils
 					.startsWithIgnoreCase(line, MIF_COLUMNS_KEYWORD)) {
@@ -343,10 +391,11 @@ public class MapinfoParser extends Parser {
 	 * @param mifFileLines
 	 * @param linePointer
 	 * @param mifModel
+	 * @param map 
 	 * @return
 	 */
 	private int handleRegion(List<String> mifFileLines, int linePointer,
-			MifModel mifModel) {
+			MifModel mifModel, Map<String, Object> map) {
 
 		MifRegion mifRegion = new MifRegion();
 
@@ -375,6 +424,7 @@ public class MapinfoParser extends Parser {
 			}
 			mifRegion.addRegion(mifCoordinates);
 		}
+		mifRegion.setObjectData(map);
 		mifModel.addMifData(mifRegion);
 
 		return linePointer;
@@ -402,4 +452,18 @@ public class MapinfoParser extends Parser {
 		return lines;
 	}
 
+	private Map<String,Object> getMidRecord(int shapeIndex,MidModel midModel,String delimiter,List<MifColumn> mifColumns)
+	{
+		Map<String,Object> objectData=new HashMap<String, Object>();
+		String recordStr=midModel.getMidFileLines().get(shapeIndex-1);
+		
+		StringTokenizer tokenizer=new StringTokenizer(recordStr, delimiter);
+		
+		for(int i=0;tokenizer.hasMoreTokens();i++)
+		{
+			objectData.put(mifColumns.get(i).getName(), tokenizer.nextToken());
+		}
+		return objectData;
+		
+	}
 }

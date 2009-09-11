@@ -3,6 +3,7 @@ package net.mehrad.mapinfo2kml;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 import net.mehrad.mapinfo2kml.exception.ParserException;
 import net.mehrad.mapinfo2kml.exception.ValidationException;
@@ -24,7 +25,10 @@ import org.boehn.kmlframework.kml.Kml;
 import org.boehn.kmlframework.kml.LinearRing;
 import org.boehn.kmlframework.kml.Placemark;
 import org.boehn.kmlframework.kml.Point;
+import org.boehn.kmlframework.kml.PolyStyle;
 import org.boehn.kmlframework.kml.Polygon;
+import org.boehn.kmlframework.kml.Style;
+import org.boehn.kmlframework.kml.StyleSelector;
 
 /**
  * main translation controller. its dependent to mid and mif files meanwhile its
@@ -71,6 +75,7 @@ public class Translator {
 		XlsParser xlsParser = new XlsParser(xlsFile);
 
 		MifModel mifModel = (MifModel) mapinfoParser.parse();
+
 		XlsModel xlsModel=null;
 		if (xlsFile != null)
 			xlsModel = (XlsModel) xlsParser.parse();
@@ -93,17 +98,32 @@ public class Translator {
 	private Kml fillKmlFromMifAndXls(MifModel mifModel, XlsModel xlsModel) {
 		//TODO: handle XLS and MID
 		Kml kml = new Kml();
-
+		
 		Document document = new Document();
 		kml.setFeature(document);
+		
+		//TODO: clean this shit
+		Style style=new Style();
+		PolyStyle polyStyle=new PolyStyle();
+		polyStyle.setFill(true);
+		polyStyle.setColor("ff7fff55");
+		style.setPolyStyle(polyStyle);
+		style.setId("mehrad");
+		List<StyleSelector> styles=new ArrayList<StyleSelector>();
+		styles.add(style);
+		document.setStyleSelectors(styles);
 		
 		for (MifData mifData : mifModel.getMifDatas()) {
 			
 			if (mifData instanceof MifRegion) {
-				document.addFeature(getPlaceMarkForRegion((MifRegion) mifData));
+				Placemark placeMarkForRegion = getPlaceMarkForRegion((MifRegion) mifData);
+				placeMarkForRegion.setStyleUrl("#mehrad");
+				document.addFeature(placeMarkForRegion);
 			}
 			else if (mifData instanceof MifPoint) {
-				document.addFeature(getPlaceMarkForPoint((MifPoint) mifData));
+				Feature placeMarkForPoint = getPlaceMarkForPoint((MifPoint) mifData);
+				placeMarkForPoint.setStyleUrl("#mehrad");
+				document.addFeature(placeMarkForPoint);
 			}
 
 		}
@@ -123,9 +143,8 @@ public class Translator {
 	 */
 	private Placemark getPlaceMarkForRegion(MifRegion mifRegion)
 	{
-		Placemark ifi = new Placemark("Polygon# ");
-		ifi.setDescription("Description#");
-
+		Placemark ifi = new Placemark();
+		ifi.setDescription(getPresentableDescription(mifRegion));
 		for (List<MifCoordinate> region : mifRegion.getRegions()) {
 
 			List<Point> points = new ArrayList<Point>();
@@ -172,6 +191,16 @@ public class Translator {
 			xlsValidator.validate(mifFile);
 	}
 
+	private String getPresentableDescription(MifData mifData)
+	{
+		StringBuffer buffer=new StringBuffer();
+		Map<String, Object> objectData = mifData.getObjectData();
+		for(String key:objectData.keySet())
+		{
+			buffer.append(key).append(": ").append(objectData.get(key)).append("<br/>");
+		}
+		return buffer.toString();
+	}
 	public MidValidator getMidValidator() {
 		return midValidator;
 	}
