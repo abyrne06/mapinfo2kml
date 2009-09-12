@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="ce0b8b3f-a517-4518-b95c-c1067907e9c6">
+<Style id="mehrad">
+<PolyStyle id="6031c6dd-eead-4ab1-89d3-dd59c57e634d">
+<color>ff7fff55</color>
+<fill>1</fill>
+</PolyStyle>
+</Style>
+<Placemark id="29690205-d392-45a5-99cc-41e995724a0c">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           1<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           2<br/>G5615RLD_:           1<br/>LENGTH:  9.94323269778873628E-03<br/>UFI: BB09907893<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b6879d04-b67c-43fb-8376-b34cfee5b8fe">
+<coordinates>153.00978,-27.31968 153.00934,-27.3194 153.00722,-27.31896 153.00629,-27.31896 153.00369,-27.3189 153.00317,-27.3189 153.00117,-27.31888 153.00105,-27.31885 153.00104,-27.31885 153.00053,-27.31874 153.00006,-27.31863 153.00003,-27.31861 153.0,-27.3186</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a739b733-7677-475e-8275-c05fead687d2">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           3<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           4<br/>G5615RLD_:           2<br/>LENGTH:  1.21757747737551991E-02<br/>UFI: BB09907894<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c6fbbeae-e170-4e97-a29c-5332352d5e3f">
+<coordinates>153.08,-27.32618 153.07975,-27.32605 153.07909,-27.32571 153.07648,-27.32443 153.07531,-27.3237 153.07403,-27.3229 153.07191,-27.3221 153.07134,-27.32205 153.06981,-27.32193 153.06883,-27.32185</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="5c023d64-b860-4cdc-b69c-30095372dae8">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           5<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           3<br/>G5615RLD_:           3<br/>LENGTH:  7.95030034970381320E-03<br/>UFI: BB09907895<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2cd8dec9-6f59-4817-a9d5-b55a546863ac">
+<coordinates>153.06883,-27.32185 153.06856,-27.32185 153.06683,-27.3221 153.06622,-27.32254 153.06589,-27.3229 153.06473,-27.32399 153.06334,-27.32607 153.06306,-27.3266</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="3382b38c-2c0d-41f3-ac6a-2676c8b1c2a0">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           4<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           6<br/>G5615RLD_:           4<br/>LENGTH:  2.34919565120019543E-03<br/>UFI: BB09907896<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="247c7556-55a4-47ec-8895-a95f6619dfa6">
+<coordinates>153.08173,-27.32768 153.08102,-27.32671 153.08,-27.32618</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="288369ba-64c5-4a1d-a35e-3c9e2ee10a45">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           7<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           5<br/>G5615RLD_:           5<br/>LENGTH:  1.14115834187239282E-02<br/>UFI: BB09907897<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="3daec4e6-8e3c-4f02-8174-fc6589a12ee4">
+<coordinates>153.06306,-27.3266 153.0623,-27.32796 153.06212,-27.32843 153.06142,-27.33004 153.0605,-27.3324 153.05995,-27.33457 153.05986,-27.33485 153.05981,-27.3351 153.05992,-27.33593 153.06,-27.33646 153.06014,-27.33735</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="47e10d96-8216-452e-9a74-6cd4ee050680">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           8<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           7<br/>G5615RLD_:           6<br/>LENGTH:  1.27417347801082603E-02<br/>UFI: BB09907898<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="fa113008-fc81-4969-8db3-bf1a5d136ec3">
+<coordinates>153.06014,-27.33735 153.0602,-27.33771 153.06081,-27.33882 153.06157,-27.33964 153.06223,-27.34035 153.06648,-27.34441 153.06784,-27.34587 153.06862,-27.34671</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="d1d3fab6-f8a2-4caf-b63e-3109485b5d15">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           2<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           9<br/>G5615RLD_:           7<br/>LENGTH:  3.44372243651936485E-02<br/>UFI: BB09907899<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a2873aa8-13b1-4feb-8297-452de067f6c2">
+<coordinates>153.02891,-27.34777 153.02856,-27.34676 153.02745,-27.34396 153.02611,-27.34251 153.0238,-27.33935 153.0219,-27.33646 153.01895,-27.33249 153.01804,-27.33104 153.01703,-27.32913 153.01381,-27.32293 153.01167,-27.32085 153.0112,-27.32057 153.00978,-27.31968</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="8d863ad2-5912-4cd4-8ef9-0d4478a557fd">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:           9<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          10<br/>G5615RLD_:           8<br/>LENGTH:  1.30269937039321840E-02<br/>UFI: BB09907900<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="995e0bf0-b68b-4c93-a25d-2b3485010667">
+<coordinates>153.03622,-27.35771 153.03615,-27.35757 153.03564,-27.35679 153.03534,-27.35552 153.03442,-27.35407 153.03342,-27.35307 153.03247,-27.35252 153.03236,-27.35246 153.0322,-27.35238 153.0309,-27.35182 153.03009,-27.35099 153.02936,-27.35001 153.02917,-27.34849 153.02891,-27.34777</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="091f89b1-1ffc-47b0-b153-e6540f4fff3e">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          11<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:           8<br/>G5615RLD_:           9<br/>LENGTH:  2.52328351158510288E-02<br/>UFI: BB09907901<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a63ff911-5e9f-42b1-8dbe-95bbe5f8a1a9">
+<coordinates>153.06862,-27.34671 153.06893,-27.34704 153.06956,-27.34771 153.06995,-27.34812 153.07062,-27.34882 153.07194,-27.35001 153.07252,-27.35107 153.07308,-27.35178 153.07387,-27.35279 153.07468,-27.35424 153.07536,-27.35621 153.07636,-27.35812 153.0778,-27.35946 153.07892,-27.36038 153.08064,-27.36118 153.08098,-27.36135 153.08194,-27.36182 153.08317,-27.36246 153.08379,-27.36343 153.08366,-27.36443 153.08334,-27.36532</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2556eabc-c59d-45bd-87d7-95882691be35">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          10<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          12<br/>G5615RLD_:          10<br/>LENGTH:  1.46956558634806448E-02<br/>UFI: BB09907902<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="5e9cebca-853c-471e-8ba2-6db7e25da117">
+<coordinates>153.04695,-27.36746 153.04672,-27.36732 153.04591,-27.36685 153.04445,-27.36599 153.04417,-27.36582 153.0437,-27.36549 153.04248,-27.36471 153.04181,-27.36426 153.04028,-27.36274 153.03988,-27.36233 153.03867,-27.3611 153.03819,-27.36046 153.03772,-27.35982 153.03683,-27.3586 153.03656,-27.35821 153.03622,-27.35771</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="1472d093-137b-4a65-b038-3cdaec9597e5">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          13<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          11<br/>G5615RLD_:          11<br/>LENGTH:  1.09026157828429268E-02<br/>UFI: BB09907903<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e6159814-dc4b-4b78-8319-9e973d045de0">
+<coordinates>153.08334,-27.36532 153.08325,-27.36552 153.08308,-27.36579 153.08278,-27.36622 153.08237,-27.36679 153.08148,-27.36799 153.08044,-27.36941 153.07973,-27.3704 153.07742,-27.37382 153.07716,-27.37429</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="3afd7d9e-0030-441b-b6b5-50f79276dfe0">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          12<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          14<br/>G5615RLD_:          12<br/>LENGTH:  1.13295800029112517E-02<br/>UFI: BB09907904<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="89432863-d7e4-4310-b54b-7a8230423e4e">
+<coordinates>153.05589,-27.37438 153.05457,-27.3731 153.05261,-27.37149 153.05119,-27.37038 153.04959,-27.36915 153.04764,-27.36788 153.04736,-27.36771 153.04695,-27.36746</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="b9f44b31-0acc-44dc-8507-667d173fe46c">
+<description>NAME: FISHERMAN ISLAND BRANCH RAILWAY                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          15<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          15<br/>G5615RLD_:          13<br/>LENGTH:  1.35208520367833505E-02<br/>UFI: BB09907905<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0256c260-4587-4262-8939-9e6e0752fab1">
+<coordinates>153.17351,-27.37757 153.17362,-27.3774 153.17374,-27.37724 153.17487,-27.37567 153.17604,-27.3746 153.17727,-27.37414 153.17824,-27.37426 153.17862,-27.37459 153.17864,-27.37561 153.17787,-27.3764 153.17611,-27.37648 153.17496,-27.37656 153.17351,-27.37757</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="c1061e27-a876-40fe-b6d7-e0b6289b9764">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          14<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          16<br/>G5615RLD_:          14<br/>LENGTH:  8.56592297367387602E-03<br/>UFI: BB09907906<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="747293ac-e682-4e95-98a7-38a8dbee9116">
+<coordinates>153.06131,-27.38096 153.06104,-27.3806 153.0609,-27.3804 153.05942,-27.37807 153.05759,-27.37599 153.05589,-27.37438</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f8096585-ff2c-4c89-99b5-b6fa735b991b">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          17<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          13<br/>G5615RLD_:          15<br/>LENGTH:  8.39930071929508026E-03<br/>UFI: BB09907907<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0ee97fe4-8625-43fb-b10d-0188dc71fd5f">
+<coordinates>153.07716,-27.37429 153.07678,-27.37502 153.07547,-27.37743 153.07333,-27.38177</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="eb7504ef-3a2b-417c-972b-c5ec89ab9053">
+<description>NAME: SHORNCLIFFE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          19<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          17<br/>G5615RLD_:          16<br/>LENGTH:  1.01794530993223713E-02<br/>UFI: BB09907908<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="93c9a361-7e86-4124-b2a3-c88da7e4659d">
+<coordinates>153.07333,-27.38177 153.07266,-27.38313 153.07114,-27.38577 153.07008,-27.38832 153.07004,-27.38846 153.06981,-27.38927 153.06958,-27.39002 153.06934,-27.39107</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="207c41cb-0da5-47f2-b0c0-76a22a8b2fc8">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          16<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          19<br/>G5615RLD_:          17<br/>LENGTH:  1.30422562558515226E-02<br/>UFI: BB09907909<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="5cdeda39-e379-4f92-866d-c43fd168ac99">
+<coordinates>153.06934,-27.39107 153.06883,-27.38971 153.06812,-27.38854 153.067,-27.38718 153.06508,-27.38549 153.06345,-27.38376 153.06245,-27.38252 153.06216,-27.38215 153.06131,-27.38096</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="087f3efc-9121-43f8-b1e3-34bd2d972e02">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          20<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          19<br/>G5615RLD_:          18<br/>LENGTH:  1.87455898330491397E-03<br/>UFI: BB09907910<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ad4013f1-26ac-4331-b14d-f7efaf3e6196">
+<coordinates>153.06934,-27.39107 153.06934,-27.39271 153.06926,-27.39293</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2ba06c73-9336-4dd9-b369-382ff73ce214">
+<description>NAME: FISHERMAN ISLAND BRANCH RAILWAY                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          15<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          21<br/>G5615RLD_:          19<br/>LENGTH:  2.38282849761701394E-02<br/>UFI: BB09907911<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="51a88f0a-ddec-4dc9-bb07-d02fe3c2c990">
+<coordinates>153.16541,-27.39863 153.16452,-27.3937 153.16452,-27.39202 153.16475,-27.39091 153.16548,-27.38913 153.16826,-27.38527 153.172,-27.37993 153.17351,-27.37757</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="114a0cde-a291-4464-85d1-6c89c5927e0c">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          22<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          20<br/>G5615RLD_:          20<br/>LENGTH:  9.37090353335781959E-03<br/>UFI: BB09907912<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b66d5c65-7eef-491f-8a59-fb2efae6cdaa">
+<coordinates>153.06926,-27.39293 153.06892,-27.39396 153.06781,-27.3954 153.06287,-27.39957</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="347cb228-ed14-4480-b1fa-09cc68913659">
+<description>NAME: FISHERMAN ISLAND BRANCH RAILWAY                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          21<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          23<br/>G5615RLD_:          21<br/>LENGTH:  2.21400823758526087E-03<br/>UFI: BB09907913<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="253b2696-961e-4d1b-9345-007f5c0a92fa">
+<coordinates>153.1658,-27.40081 153.16541,-27.39863</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="50d210fd-0e5e-4399-874e-868095b9f603">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          25<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          22<br/>G5615RLD_:          22<br/>LENGTH:  9.34811381231133443E-03<br/>UFI: BB09907914<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c99358b7-b804-44d6-b42e-2bf7d06cc82e">
+<coordinates>153.06287,-27.39957 153.06226,-27.40038 153.06206,-27.40165 153.06165,-27.4031 153.05911,-27.40671 153.05904,-27.40685 153.05853,-27.40768</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="75c17f71-7beb-466f-96cc-4d9710297c6f">
+<description>NAME: AIRPORT RAIL LINK                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          27<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          26<br/>G5615RLD_:          23<br/>LENGTH:  2.52415053263661338E-03<br/>UFI: BB09907915<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="63d63db8-e3ad-4718-b491-f6ce599fe885">
+<coordinates>153.07444,-27.40847 153.07579,-27.40841 153.07638,-27.40868 153.07686,-27.40889</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="386a2530-d1ee-44b9-817d-13fcbed9f42e">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          28<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          25<br/>G5615RLD_:          24<br/>LENGTH:  4.13832006311128792E-03<br/>UFI: BB09907916<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9a8272df-215f-4d39-8fd7-21498548481e">
+<coordinates>153.05853,-27.40768 153.05789,-27.40874 153.05751,-27.40935 153.05688,-27.41038 153.05658,-27.41085 153.05633,-27.41118</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="7c9dac7f-77b4-4065-9ae0-9f3db0656c31">
+<description>NAME: AIRPORT RAIL LINK                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          29<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          28<br/>G5615RLD_:          25<br/>LENGTH:  5.09851467511498492E-03<br/>UFI: BB09907917<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="099b473e-cedc-4bc1-b445-4b9432bc036c">
+<coordinates>153.05633,-27.41118 153.05944,-27.41104 153.06141,-27.4113</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f4fe3203-bde1-4785-aca8-4d3ac452208f">
+<description>NAME: AIRPORT RAIL LINK                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          26<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          29<br/>G5615RLD_:          26<br/>LENGTH:  1.39312686365704250E-02<br/>UFI: BB09907918<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ec1b6107-922d-4582-b1cc-a7e9d1d2e7bc">
+<coordinates>153.06141,-27.4113 153.06328,-27.41163 153.06502,-27.41192 153.06694,-27.41177 153.06923,-27.41046 153.07045,-27.4096 153.07098,-27.40924 153.0736,-27.4085 153.07444,-27.40847</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="82188def-5753-4a8f-a659-511cabda7a17">
+<description>NAME: AIRPORT RAIL LINK                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          18<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          27<br/>G5615RLD_:          27<br/>LENGTH:  5.86405997802289802E-02<br/>UFI: BB09907919<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1f7715bf-bf99-48d7-9201-b243d98c437d">
+<coordinates>153.07686,-27.40889 153.07825,-27.40953 153.07956,-27.4106 153.08169,-27.41279 153.08355,-27.4145 153.08519,-27.41523 153.08759,-27.41552 153.09016,-27.41532 153.09218,-27.414 153.09524,-27.41134 153.09863,-27.40856 153.10086,-27.40676 153.10327,-27.4051 153.10594,-27.40339 153.10753,-27.40251 153.10976,-27.40056 153.11642,-27.38882 153.11796,-27.38726 153.11919,-27.38478</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="7bac5e50-25b5-4681-9749-8f320196e2e7">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          31<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          28<br/>G5615RLD_:          28<br/>LENGTH:  6.03804443213031700E-03<br/>UFI: BB09907920<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a8b50102-dc5d-4f72-a6cd-b5c93d38e612">
+<coordinates>153.05633,-27.41118 153.05325,-27.41521 153.05267,-27.41599</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2ddf469a-6c8d-4e16-bb72-30027d0548db">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          31<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          30<br/>G5615RLD_:          29<br/>LENGTH:  1.83888358230648290E-03<br/>UFI: BB09907921<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9994d55f-fb4f-4397-aab2-ddf549b35f29">
+<coordinates>153.05084,-27.41582 153.05267,-27.41599</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4c00dfe8-5766-452a-b141-fac59449db44">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          33<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          31<br/>G5615RLD_:          30<br/>LENGTH:  5.12117192778224501E-03<br/>UFI: BB09907922<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e9b7509d-988b-4fa8-bb7d-c934fdca0423">
+<coordinates>153.05267,-27.41599 153.05417,-27.41671 153.05579,-27.41741 153.05609,-27.41754 153.05731,-27.41815</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f33c8b65-1a71-4cc0-bfb4-c9164bf608ba">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          30<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          34<br/>G5615RLD_:          31<br/>LENGTH:  8.70516482124035658E-03<br/>UFI: BB09907923<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9a24ef6f-9630-40a3-b59b-de65cfa1b47f">
+<coordinates>153.04391,-27.41979 153.04417,-27.4189 153.04506,-27.41763 153.04678,-27.41646 153.04861,-27.4159 153.05084,-27.41582</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="5acbf004-db28-403b-a101-c90104475a4c">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          35<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          33<br/>G5615RLD_:          32<br/>LENGTH:  6.31005690747147262E-03<br/>UFI: BB09907924<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="6df21967-9254-4d2c-b415-2b8bd3725820">
+<coordinates>153.05731,-27.41815 153.05922,-27.41988 153.06145,-27.4216 153.06209,-27.42226</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="3da92220-ac8c-463c-af91-bbac86124f53">
+<description>NAME: FISHERMAN ISLAND BRANCH RAILWAY                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          23<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          37<br/>G5615RLD_:          33<br/>LENGTH:  2.38219073695999720E-02<br/>UFI: BB09907925<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a18a2a7c-a53b-4bb7-bddb-71896bb1e4ee">
+<coordinates>153.16376,-27.4231 153.16394,-27.42296 153.16414,-27.42274 153.16428,-27.42257 153.16492,-27.4216 153.16566,-27.42052 153.16681,-27.41882 153.16701,-27.41854 153.16772,-27.41693 153.16822,-27.41585 153.16827,-27.41453 153.1675,-27.41026 153.1658,-27.40081</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="40a097a4-5149-4b9a-976e-fa9e3c1d5e9b">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          37<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          32<br/>G5615RLD_:          34<br/>LENGTH:  6.54415205921765608E-03<br/>UFI: BB09907926<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2be5a2e6-9f96-4a38-afca-e8a3fc1b9a93">
+<coordinates>153.16193,-27.41699 153.16225,-27.41785 153.16272,-27.41907 153.16353,-27.4206 153.16383,-27.4216 153.16394,-27.42196 153.16383,-27.42296 153.16379,-27.42304 153.16376,-27.4231</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="67ba7f0f-874d-4508-91a1-5da5e310c086">
+<description>NAME: FERNY GROVE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          36<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          39<br/>G5615RLD_:          35<br/>LENGTH:  1.44218886573071179E-03<br/>UFI: BB09907927<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c6220895-a9f2-44d6-8e24-bfff693e18c5">
+<coordinates>153.00105,-27.42377 153.00067,-27.42343 153.0003,-27.42307 153.0002,-27.42299 153.00003,-27.42282 153.0,-27.42278</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="dd0452ac-13f4-480d-86a8-db099070927c">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          38<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          41<br/>G5615RLD_:          36<br/>LENGTH:  6.30755497662228819E-03<br/>UFI: BB09907928<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b0b46d26-0fd2-4e7b-b743-ac92dac54829">
+<coordinates>153.12122,-27.42643 153.12321,-27.42557 153.12687,-27.42364</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a8fe8de7-a7fa-48aa-b8b5-9910ee7db3e2">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          41<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          24<br/>G5615RLD_:          37<br/>LENGTH:  2.97848710717112525E-02<br/>UFI: BB09907929<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8979cc3d-2e37-4ee0-98a6-8b1c73bbdd1d">
+<coordinates>153.14075,-27.40593 153.13792,-27.4109 153.13489,-27.41613 153.13397,-27.41729 153.12692,-27.42102 153.12256,-27.4231 153.12195,-27.4239 153.12196,-27.42494 153.12163,-27.42594 153.12122,-27.42643</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ed2e8d7c-6017-4ae2-b0e2-3f4b0902adec">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          43<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          35<br/>G5615RLD_:          38<br/>LENGTH:  6.93223636328989951E-03<br/>UFI: BB09907930<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ae52e25e-be87-4cac-b43b-382aebee000f">
+<coordinates>153.06209,-27.42226 153.06264,-27.42285 153.06297,-27.42324 153.06308,-27.42457 153.06277,-27.4271 153.06297,-27.42882</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="10c48035-bafb-4a58-b326-7652d9c70783">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          34<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          44<br/>G5615RLD_:          39<br/>LENGTH:  9.56081605319322909E-03<br/>UFI: BB09907931<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a460dd9e-239d-4c17-880f-b75379aab55e">
+<coordinates>153.04106,-27.42885 153.04134,-27.42829 153.04153,-27.42685 153.04245,-27.42485 153.04248,-27.42474 153.04333,-27.42249 153.04364,-27.42071 153.04391,-27.41979</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="9ffccb1f-a0d1-4e8d-8800-a50e0a56ea0a">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          45<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          42<br/>G5615RLD_:          40<br/>LENGTH:  1.03224718119676959E-02<br/>UFI: BB09907932<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="71e38a3d-5d95-486b-8378-e40f517c67f3">
+<coordinates>153.09798,-27.42802 153.09889,-27.42791 153.09956,-27.42795 153.1,-27.42798 153.10123,-27.42807 153.10394,-27.42843 153.10678,-27.42907 153.10817,-27.42932</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="76cb694e-e3a4-45f6-a8d3-a4958dd0c59f">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          42<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          46<br/>G5615RLD_:          41<br/>LENGTH:  1.37168753958029424E-02<br/>UFI: BB09907933<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="fe339b2a-52aa-4284-8ad0-c7dc257feb80">
+<coordinates>153.08443,-27.42979 153.08612,-27.42927 153.08675,-27.42907 153.08998,-27.42885 153.09433,-27.42854 153.09686,-27.42815 153.09798,-27.42802</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="6331e9a3-4906-4f9a-bfbf-a742b71b930b">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          40<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          47<br/>G5615RLD_:          42<br/>LENGTH:  5.49245965740243446E-03<br/>UFI: BB09907934<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="f3c76565-29cd-4b94-a778-468da8766801">
+<coordinates>153.11328,-27.42982 153.11592,-27.42704 153.11691,-27.42571</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="b6251750-a526-4ec8-871b-be53f209ac5d">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          47<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          45<br/>G5615RLD_:          43<br/>LENGTH:  5.13873826305764111E-03<br/>UFI: BB09907935<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="4c2cc66a-7802-45fd-9ca9-ecdaac90f074">
+<coordinates>153.10817,-27.42932 153.10881,-27.42943 153.10982,-27.42952 153.11217,-27.42971 153.11328,-27.42982</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="566c534c-e02e-48e9-8fac-0062c3a97376">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          41<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          47<br/>G5615RLD_:          44<br/>LENGTH:  8.76232861174809467E-03<br/>UFI: BB09907936<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9727ddae-1dcb-461b-8f54-1084e66ebe8e">
+<coordinates>153.11328,-27.42982 153.11386,-27.42988 153.11539,-27.42949 153.1162,-27.42924 153.11812,-27.42825 153.1206,-27.42682 153.12122,-27.42643</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="7f87549b-87cd-4723-846d-4c2c39006949">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          48<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          43<br/>G5615RLD_:          45<br/>LENGTH:  1.28615565245051230E-02<br/>UFI: BB09907937<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="cf36617d-e430-474f-8f64-d5c77c147dcf">
+<coordinates>153.06297,-27.42882 153.06367,-27.42965 153.06453,-27.43004 153.06741,-27.43046 153.07059,-27.43096 153.0714,-27.43099 153.07167,-27.43099 153.07205,-27.43102 153.074,-27.43127 153.07526,-27.43145</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="63526f23-5fb6-4bdb-a19d-d4c46b3acc22">
+<description>NAME: FERNY GROVE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          39<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          50<br/>G5615RLD_:          46<br/>LENGTH:  1.19314122863977759E-02<br/>UFI: BB09907938<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="00fc3bd2-31d2-4dfd-930d-ada37a514794">
+<coordinates>153.00995,-27.43168 153.0097,-27.43138 153.00925,-27.43082 153.00681,-27.4286 153.00572,-27.4276 153.00459,-27.42657 153.00298,-27.42521 153.00105,-27.42377</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="50de1251-0325-41ca-9459-bf8bb9cf60ae">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          46<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          51<br/>G5615RLD_:          47<br/>LENGTH:  6.23362601204658761E-03<br/>UFI: BB09907939<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ef7723f3-1457-41d6-b51e-79e7902546d1">
+<coordinates>153.07855,-27.43179 153.08047,-27.43143 153.08108,-27.43118 153.08443,-27.42979</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="aace2814-46ac-49a9-932e-ea0e6f75dd32">
+<description>NAME: PINKENBA BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          51<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          48<br/>G5615RLD_:          48<br/>LENGTH:  3.31017786825996835E-03<br/>UFI: BB09907940<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="640793eb-e9d3-4fd2-b533-ca5ea563a29a">
+<coordinates>153.07526,-27.43145 153.07645,-27.43163 153.07736,-27.43168 153.07855,-27.43179</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ccf8d421-c111-40af-b510-9974ffd1eb4f">
+<description>NAME: FERNY GROVE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          50<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          52<br/>G5615RLD_:          49<br/>LENGTH:  1.00924094822405774E-02<br/>UFI: BB09907941<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b9c7e5f8-c291-46d7-86dd-3a0557a8a892">
+<coordinates>153.01848,-27.43538 153.0137,-27.43479 153.01178,-27.43432 153.01076,-27.43343 153.01025,-27.43207 153.00995,-27.43168</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2bf14b56-9961-4a7f-a4c3-fc191b2dd41f">
+<description>NAME: FERNY GROVE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          52<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          53<br/>G5615RLD_:          50<br/>LENGTH:  1.00116493895600449E-02<br/>UFI: BB09907942<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b73470da-aec7-4f9e-815c-9acc1db63ad9">
+<coordinates>153.02834,-27.43557 153.02705,-27.43604 153.02495,-27.43624 153.02231,-27.43599 153.02211,-27.43596 153.01947,-27.43552 153.01848,-27.43538</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="df05bc5c-f757-4792-979a-8d743d4873e8">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          51<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          55<br/>G5615RLD_:          51<br/>LENGTH:  5.94890531758439107E-03<br/>UFI: BB09907943<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="80aa9064-be85-4b1b-86de-61a4e4ddcd9e">
+<coordinates>153.07561,-27.43629 153.07745,-27.4354 153.07817,-27.43449 153.07828,-27.43402 153.07845,-27.4334 153.07854,-27.43257 153.07855,-27.4321 153.07855,-27.43179</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="e9d05b78-1c74-4697-b984-e55b1a89ef6a">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          55<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          54<br/>G5615RLD_:          52<br/>LENGTH:  8.98439169484041913E-03<br/>UFI: BB09907944<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="39ce1035-fb1c-4dd6-994d-26e46414dcbf">
+<coordinates>153.08444,-27.43565 153.0802,-27.43657 153.07787,-27.43674 153.07675,-27.43654 153.07614,-27.43638 153.07561,-27.43629</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2c315c06-2861-492a-a58d-ea0b1d5e1755">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          57<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          56<br/>G5615RLD_:          53<br/>LENGTH:  5.07420368407825000E-03<br/>UFI: BB09907945<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="05aca0ed-487c-4b29-abe2-4d225fc591f4">
+<coordinates>153.15819,-27.43716 153.15599,-27.43703 153.15492,-27.43707 153.15449,-27.43716 153.15395,-27.43741 153.1533,-27.43782</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="9e052dd5-960d-4fe0-b047-e8096bff4995">
+<description>NAME: FISHERMAN ISLAND BRANCH RAILWAY                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          37<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          57<br/>G5615RLD_:          54<br/>LENGTH:  1.99162646045828451E-02<br/>UFI: BB09907946<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="7745e953-548c-408a-9518-61860cdc82ce">
+<coordinates>153.1533,-27.43782 153.15375,-27.43715 153.15392,-27.43593 153.15425,-27.43371 153.15466,-27.43124 153.1552,-27.42835 153.15604,-27.42715 153.15778,-27.42618 153.15804,-27.4261 153.15936,-27.4254 153.16342,-27.42332 153.16362,-27.42321 153.16376,-27.4231</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="68523ca2-e5c9-44f3-829c-34284ff98f34">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          56<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          58<br/>G5615RLD_:          55<br/>LENGTH:  7.53797154520496719E-03<br/>UFI: BB09907947<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8dd13107-0198-436e-92f8-957fb9b02c34">
+<coordinates>153.16534,-27.43843 153.16499,-27.43793 153.16378,-27.43738 153.16186,-27.43729 153.15892,-27.43721 153.15819,-27.43716</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4df2fb44-eeeb-4673-b093-ad27eb097613">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          44<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          59<br/>G5615RLD_:          56<br/>LENGTH:  1.14022092395840661E-02<br/>UFI: BB09907948<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="655db018-698e-4347-9925-cfcc7c037c07">
+<coordinates>153.03828,-27.4394 153.04028,-27.43615 153.0405,-27.43488 153.04022,-27.43354 153.04015,-27.43315 153.04012,-27.43307 153.04001,-27.43127 153.04042,-27.43018 153.04062,-27.42977 153.04106,-27.42885</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ba8be193-9e5e-4810-9ed3-b1ac7812673e">
+<description>NAME: FERNY GROVE BRANCH RAILWAY                        <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          53<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          59<br/>G5615RLD_:          57<br/>LENGTH:  1.20363922511033672E-02<br/>UFI: BB09907949<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="66a644b0-af04-4dd0-a8de-2b4cf015cbb5">
+<coordinates>153.03828,-27.4394 153.03822,-27.43932 153.03815,-27.43921 153.03692,-27.43785 153.03667,-27.43757 153.03365,-27.43488 153.03243,-27.43452 153.03114,-27.4346 153.03091,-27.4346 153.02834,-27.43557</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="04a6d5c3-c411-4aeb-8cb0-16d2f0edcc8a">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          57<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          60<br/>G5615RLD_:          58<br/>LENGTH:  9.21319402698036853E-03<br/>UFI: BB09907950<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="4e912ac8-8527-4206-a11e-6b86ba97cc0f">
+<coordinates>153.1449,-27.4411 153.14676,-27.44051 153.15028,-27.43957 153.15172,-27.43913 153.15225,-27.43882 153.15295,-27.43841 153.1533,-27.43782</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a81a2630-3f94-4dc8-bd07-95b959b30d28">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          61<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          55<br/>G5615RLD_:          59<br/>LENGTH:  2.10800665017015221E-02<br/>UFI: BB09907951<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="f73261f8-4406-475b-bc1a-565d4f6d75bf">
+<coordinates>153.07561,-27.43629 153.0742,-27.43668 153.07198,-27.43729 153.07034,-27.43785 153.06941,-27.43816 153.06856,-27.43857 153.06822,-27.43896 153.06825,-27.4394 153.06869,-27.43996 153.07022,-27.4406 153.07188,-27.44118 153.07472,-27.44191 153.0802,-27.44326</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="dcdc8508-c333-44fe-a666-2b32f1daa4d9">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          59<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          62<br/>G5615RLD_:          60<br/>LENGTH:  4.39835822796791516E-03<br/>UFI: BB09907952<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="573e1c04-2e67-4cbe-b69d-c7d683c6a072">
+<coordinates>153.03748,-27.44371 153.0377,-27.44202 153.03789,-27.44057 153.03828,-27.4394</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="37bc2005-0e86-45a7-8e97-43f5dd8d7b99">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          58<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          63<br/>G5615RLD_:          61<br/>LENGTH:  7.48486639094970204E-03<br/>UFI: BB09907953<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b6fc4ac0-00c1-485a-8491-d9c4faee0e04">
+<coordinates>153.16926,-27.44479 153.16905,-27.4446 153.16847,-27.44361 153.16773,-27.44234 153.1677,-27.44229 153.16591,-27.43927 153.16534,-27.43843</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="11324d9a-e1d8-4b03-a05c-9938160f6755">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          60<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          64<br/>G5615RLD_:          62<br/>LENGTH:  1.85381305160877731E-02<br/>UFI: BB09907954<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="7212a1ca-56b4-4658-adcc-3b75b87800bb">
+<coordinates>153.12743,-27.44729 153.13144,-27.44587 153.13235,-27.44555 153.1333,-27.44521 153.13631,-27.44415 153.14236,-27.44196 153.14311,-27.44171 153.14325,-27.44166 153.14442,-27.44124 153.1449,-27.4411</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="812ebd6e-eafb-4065-a71c-04f98e57fa08">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          66<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          59<br/>G5615RLD_:          63<br/>LENGTH:  1.38807004997790785E-02<br/>UFI: BB09907955<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="01ff3f78-ba36-494b-970d-905c3a8da995">
+<coordinates>153.03828,-27.4394 153.03819,-27.43943 153.03812,-27.43946 153.03667,-27.4401 153.03568,-27.44082 153.03476,-27.4421 153.03395,-27.44463 153.03395,-27.44465 153.03375,-27.44615 153.03273,-27.44804 153.03172,-27.44916 153.0305,-27.44999</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4367c9ee-e8ac-4459-9119-a937a55c5b16">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          64<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          67<br/>G5615RLD_:          64<br/>LENGTH:  1.43613091631789834E-02<br/>UFI: BB09907956<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ba849c53-0cd2-47e7-8db9-d06001d60bae">
+<coordinates>153.1147,-27.45335 153.11642,-27.4529 153.11772,-27.45224 153.11887,-27.45099 153.12077,-27.44954 153.12303,-27.44863 153.12392,-27.44827 153.12645,-27.44754 153.12743,-27.44729</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4ce7d412-2878-4d19-b017-eaad090114d2">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          62<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          68<br/>G5615RLD_:          65<br/>LENGTH:  1.25943434576635763E-02<br/>UFI: BB09907957<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="6e18b54c-72ed-4ad0-9f21-36d35f755a00">
+<coordinates>153.03368,-27.45477 153.03445,-27.45402 153.0352,-27.45324 153.03595,-27.45221 153.0372,-27.45046 153.03737,-27.45013 153.03784,-27.44938 153.03801,-27.44779 153.03801,-27.44729 153.03801,-27.44554 153.03764,-27.44427 153.03748,-27.44371</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="bd89c3fa-af1d-4833-85ac-23d443dee074">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          63<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          69<br/>G5615RLD_:          66<br/>LENGTH:  1.54091013717610453E-02<br/>UFI: BB09907958<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="a3278599-c489-4df9-9b57-e83998975197">
+<coordinates>153.18,-27.4556 153.17878,-27.45461 153.17686,-27.45325 153.17677,-27.45317 153.17554,-27.45208 153.17477,-27.4508 153.17381,-27.44919 153.173,-27.44811 153.17077,-27.44622 153.16926,-27.44479</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="c1520256-2124-4be3-bb57-b0e2ceaef237">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          68<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          70<br/>G5615RLD_:          67<br/>LENGTH:  5.94082063550323888E-03<br/>UFI: BB09907959<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2ab67107-9a2c-4fe0-9aff-5bbcc5d9b107">
+<coordinates>153.03017,-27.45952 153.03125,-27.45771 153.03142,-27.45746 153.03206,-27.45652 153.03261,-27.45579 153.0332,-27.45515 153.03368,-27.45477</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="b4952e82-a4dd-4d16-a250-8fad6bf05412">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          67<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          71<br/>G5615RLD_:          68<br/>LENGTH:  8.02608551701531996E-03<br/>UFI: BB09907960<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="74bf4ea0-8889-486a-846d-b1006231ee75">
+<coordinates>153.11058,-27.45993 153.11067,-27.4594 153.11186,-27.4564 153.11328,-27.45424 153.1147,-27.45335</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="e7739bc7-f603-4bce-8697-f1d378a3a458">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          71<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          49<br/>G5615RLD_:          69<br/>LENGTH:  3.92723839041833195E-02<br/>UFI: BB09907961<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2f114d47-3432-492e-bdd6-9b46cc15ec78">
+<coordinates>153.12347,-27.43157 153.12462,-27.43418 153.12492,-27.43563 153.1245,-27.43663 153.1237,-27.43771 153.12216,-27.4389 153.12045,-27.43979 153.11823,-27.44032 153.116,-27.44079 153.11366,-27.4416 153.11186,-27.44279 153.10973,-27.44432 153.10892,-27.44585 153.10872,-27.44793 153.10884,-27.45027 153.10861,-27.45154 153.10793,-27.45299 153.10786,-27.45421 153.10783,-27.45515 153.10854,-27.45713 153.10919,-27.45821 153.10983,-27.45893 153.11041,-27.45954 153.11058,-27.45993</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="dc49e072-7240-4481-b05c-09f59012ae88">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          72<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: tunnel_rl_l <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          70<br/>G5615RLD_:          70<br/>LENGTH:  7.19889875020542080E-03<br/>UFI: BB09907962<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="863866d1-430c-40eb-9255-0be68a7fe2c9">
+<coordinates>153.03017,-27.45952 153.02456,-27.46403</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="89ab9644-5e9f-4cff-af57-9a4d980c6386">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          74<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          73<br/>G5615RLD_:          71<br/>LENGTH:  4.50189346090303208E-04<br/>UFI: BB09907963<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e1626c33-e013-464c-8472-fa81c3a6603f">
+<coordinates>153.01787,-27.46432 153.01831,-27.4644</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="8ae83d38-f8cb-419f-94a7-ea89485f4415">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          73<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          75<br/>G5615RLD_:          72<br/>LENGTH:  2.04864315655937370E-03<br/>UFI: BB09907964<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="89c9815c-e15e-45a5-a349-6f976d5c4e1d">
+<coordinates>153.01584,-27.46443 153.01703,-27.46438 153.0177,-27.46427 153.01787,-27.46432</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f7532ebc-9b5c-466e-9c6a-e59aaf6b8983">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          75<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          66<br/>G5615RLD_:          73<br/>LENGTH:  2.37414198477118449E-02<br/>UFI: BB09907965<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8b769f88-ed08-476d-b0f8-9f2d6b050bf5">
+<coordinates>153.0305,-27.44999 153.0295,-27.45068 153.02827,-27.45124 153.02736,-27.45168 153.02545,-27.45249 153.02434,-27.45338 153.02362,-27.45446 153.02301,-27.45618 153.02159,-27.45707 153.01959,-27.45763 153.01817,-27.45782 153.01665,-27.45835 153.01584,-27.45924 153.01573,-27.45976 153.01553,-27.46079 153.01556,-27.46102 153.01556,-27.46157 153.01578,-27.46213 153.01588,-27.46254 153.01605,-27.46296 153.01611,-27.46315 153.01622,-27.46346 153.01628,-27.46371 153.01628,-27.46402 153.01622,-27.4641 153.01605,-27.46424 153.01584,-27.46443</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0773df0d-63f5-47e2-a714-6a2f9ba17105">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          71<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          76<br/>G5615RLD_:          74<br/>LENGTH:  7.59495175525731064E-03<br/>UFI: BB09907966<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2aa6095d-2168-4a78-8cb5-18384d90bac0">
+<coordinates>153.10519,-27.46446 153.10672,-27.46401 153.10844,-27.4631 153.10976,-27.4621 153.11014,-27.46157 153.11047,-27.4611 153.11058,-27.45993</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="7b39737d-cca2-4660-943f-b8444b7dcaaf">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          78<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          65<br/>G5615RLD_:          75<br/>LENGTH:  2.21107673193725630E-02<br/>UFI: BB09907967<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="966ee6f1-7932-4e92-a587-8e23d9a09f0f">
+<coordinates>153.09639,-27.44893 153.09456,-27.44946 153.09253,-27.44982 153.09091,-27.45082 153.09012,-27.45199 153.08931,-27.45471 153.08931,-27.45571 153.09012,-27.45663 153.09123,-27.45707 153.09142,-27.45735 153.09172,-27.45779 153.09164,-27.45896 153.09156,-27.45988 153.09145,-27.46104 153.09184,-27.4621 153.09245,-27.46293 153.09256,-27.46382 153.09245,-27.46446 153.09239,-27.46479 153.09233,-27.46518</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f139fa8f-5e52-44af-ae57-a829d8cc781e">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          78<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          77<br/>G5615RLD_:          76<br/>LENGTH:  3.90965143972270800E-03<br/>UFI: BB09907968<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e1665d4c-eacd-4c7f-bf57-edfd804f4199">
+<coordinates>153.08842,-27.46518 153.09067,-27.46511 153.09094,-27.4651 153.09233,-27.46518</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="6df9985d-428a-4bdc-b77a-e00761e17419">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          75<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          79<br/>G5615RLD_:          77<br/>LENGTH:  3.80256285998244268E-03<br/>UFI: BB09907969<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="6c280036-9638-4bec-b942-36c2a9a0d69e">
+<coordinates>153.01228,-27.46543 153.01256,-27.46518 153.01289,-27.46496 153.01331,-27.46474 153.01378,-27.46463 153.01431,-27.46463 153.01442,-27.46463 153.01503,-27.46457 153.01581,-27.46443 153.01584,-27.46443</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="3ec4b78c-2b81-402c-beb7-27305de0a413">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          80<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: tunnel_rl_l <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          72<br/>G5615RLD_:          78<br/>LENGTH:  3.07100577559773352E-03<br/>UFI: BB09907970<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="4f0d6eff-b155-4d08-b885-af1d396e17f2">
+<coordinates>153.02456,-27.46403 153.02217,-27.46596</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="76ab66dd-c4fc-43fc-a641-24f8dc357001">
+<description>NAME: NORTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          80<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          74<br/>G5615RLD_:          79<br/>LENGTH:  4.20658091669856744E-03<br/>UFI: BB09907971<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="f8d9f0e6-450e-4b8e-94e8-e0e78a8cb3e8">
+<coordinates>153.01831,-27.4644 153.01889,-27.46452 153.0193,-27.46468 153.01989,-27.46494 153.02011,-27.46504 153.02052,-27.46529 153.02098,-27.46552 153.02159,-27.46588 153.02217,-27.46596</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="fc08dabb-2f88-4e7d-88d8-5e5ef67b60a9">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          76<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          78<br/>G5615RLD_:          80<br/>LENGTH:  1.32996615779879760E-02<br/>UFI: BB09907972<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="420e34bb-3805-45d9-b1a5-8576766eb516">
+<coordinates>153.09233,-27.46518 153.09589,-27.46607 153.09656,-27.46621 153.09697,-27.46628 153.09741,-27.46635 153.09903,-27.46599 153.1,-27.46564 153.10106,-27.46527 153.10336,-27.46446 153.10519,-27.46446</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0d6fe5fa-c145-4442-bcaa-30cecdcd057e">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          79<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          81<br/>G5615RLD_:          81<br/>LENGTH:  2.45086838401436082E-03<br/>UFI: BB09907973<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1f2e46fe-acf7-4a0a-9867-1d240a4f023f">
+<coordinates>153.01245,-27.4677 153.01236,-27.46751 153.01225,-27.46724 153.01218,-27.46704 153.01198,-27.46657 153.01195,-27.4661 153.01198,-27.46602 153.01202,-27.46588 153.01225,-27.46546 153.01228,-27.46543</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="294c954d-4968-4063-bba1-64dfbd4daffe">
+<description>NAME: MAIN LINE RAILWAY                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          82<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          79<br/>G5615RLD_:          82<br/>LENGTH:  7.84092391781792547E-03<br/>UFI: BB09907974<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="d0a333f1-2487-4d7e-9d42-44fd2be5bfde">
+<coordinates>153.01228,-27.46543 153.01195,-27.46557 153.01155,-27.46571 153.01056,-27.46604 153.0097,-27.46635 153.00798,-27.46696 153.00645,-27.46754 153.00522,-27.46807 153.00494,-27.46818</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="5d3b4cfe-20e1-463f-aee5-293fcba34f32">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          83<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          69<br/>G5615RLD_:          83<br/>LENGTH:  1.73235305305554158E-02<br/>UFI: BB09907975<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="074b96d1-9b2b-4bd8-a292-0202a525b23d">
+<coordinates>153.18,-27.4556 153.18021,-27.45614 153.18071,-27.4574 153.18112,-27.45857 153.18213,-27.45948 153.18345,-27.46002 153.18368,-27.46043 153.18446,-27.46182 153.18527,-27.46353 153.18588,-27.46444 153.18746,-27.46576 153.18761,-27.46606 153.18795,-27.46684 153.1881,-27.46787 153.18798,-27.4688 153.1879,-27.46958 153.18785,-27.46988</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f1be1d19-d8ba-4225-94e7-ce937a05e3a8">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          81<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          84<br/>G5615RLD_:          84<br/>LENGTH:  3.22862724424729467E-03<br/>UFI: BB09907976<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="cd8b0294-4319-4a69-b963-a21c05c492ef">
+<coordinates>153.01399,-27.47054 153.0137,-27.47002 153.01314,-27.46907 153.01245,-27.4677</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="368d7d7f-7832-4304-ae34-c93787918aa2">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          77<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          85<br/>G5615RLD_:          85<br/>LENGTH:  1.99698529974822805E-02<br/>UFI: BB09907977<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="66c86f72-c17e-49ca-9732-ef1ba418bb1f">
+<coordinates>153.06947,-27.47107 153.07005,-27.47071 153.071,-27.47016 153.07292,-27.46971 153.07434,-27.46927 153.0795,-27.46718 153.08051,-27.46688 153.08142,-27.4666 153.08244,-27.46627 153.08548,-27.46582 153.08842,-27.46518</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="b1429033-e9c0-40f5-9430-ef747f525cde">
+<description>NAME: MAIN LINE RAILWAY                                 <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          86<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          82<br/>G5615RLD_:          86<br/>LENGTH:  6.48109495371364513E-03<br/>UFI: BB09907978<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="165b58a0-d496-4137-bb37-da83e09f60c2">
+<coordinates>153.00494,-27.46818 153.00433,-27.46846 153.00345,-27.46902 153.00275,-27.46957 153.00165,-27.47074 153.00136,-27.47104 153.00105,-27.47138 153.00098,-27.47143 153.00061,-27.47176 153.00023,-27.4721 153.00003,-27.47227 153.0,-27.47229</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f4d48bd0-92de-41ca-8987-68da2f3e36df">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          84<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          87<br/>G5615RLD_:          87<br/>LENGTH:  6.36633861592589192E-03<br/>UFI: BB09907979<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="10b38144-94af-40da-8c98-c973916ff08d">
+<coordinates>153.01836,-27.47476 153.01831,-27.47468 153.01817,-27.47449 153.01753,-27.47366 153.0172,-27.47321 153.01695,-27.47293 153.01672,-27.47271 153.01645,-27.4726 153.01601,-27.47265 153.01558,-27.47252 153.0155,-27.47243 153.01523,-27.47218 153.01495,-27.47176 153.01404,-27.47063 153.01399,-27.47054</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="dd0a6f4c-94bc-45e7-8c9a-590e805e9b55">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          87<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          88<br/>G5615RLD_:          88<br/>LENGTH:  7.55719433682995774E-03<br/>UFI: BB09907980<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b677f061-19ae-4d3d-8944-59f982079612">
+<coordinates>153.02258,-27.48101 153.02245,-27.48071 153.02193,-27.47977 153.02095,-27.47846 153.01964,-27.47663 153.01836,-27.47476</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="16287e8d-c5d5-4e59-ac80-63dd4bdedb25">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          85<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          89<br/>G5615RLD_:          89<br/>LENGTH:  1.28210563696978426E-02<br/>UFI: BB09907981<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="333fa2e5-6b05-4e46-bc80-60d2fdefb577">
+<coordinates>153.06226,-27.4814 153.06291,-27.48082 153.06361,-27.47963 153.06412,-27.47777 153.06483,-27.47649 153.06554,-27.47582 153.06615,-27.47524 153.06662,-27.47474 153.06744,-27.47396 153.06947,-27.47107</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="1c7e1045-027d-4091-a2c5-b47ca38750bc">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          90<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          83<br/>G5615RLD_:          90<br/>LENGTH:  1.25321253978436919E-02<br/>UFI: BB09907982<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="7ab6f5b0-95b8-42d0-8c47-78b7862e6e5f">
+<coordinates>153.18785,-27.46988 153.18773,-27.47049 153.18757,-27.47127 153.18744,-27.47241 153.18745,-27.47381 153.18762,-27.47547 153.18775,-27.47683 153.18817,-27.47844 153.18904,-27.48069 153.18975,-27.48196</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0e3c7a3b-0a0a-4e87-b3f2-04fbd67a9cad">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:          90<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          91<br/>G5615RLD_:          91<br/>LENGTH:  2.06388531204494555E-03<br/>UFI: BB09907983<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="d9dd01a6-a8b6-44ac-af23-cfc42208084f">
+<coordinates>153.19092,-27.48366 153.18975,-27.48196</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0f0ada2e-dbfc-482d-898f-cdfa8de674d4">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          92<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          91<br/>G5615RLD_:          92<br/>LENGTH:  3.93171530686354641E-03<br/>UFI: BB09907984<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="482aecb9-60fb-4c76-9608-58e271a3d59a">
+<coordinates>153.19092,-27.48366 153.19132,-27.48421 153.19205,-27.48509 153.19286,-27.48605 153.19352,-27.48659</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f79ce31e-f469-4753-979e-5811ea9763e9">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          89<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          93<br/>G5615RLD_:          93<br/>LENGTH:  1.22099500756254198E-02<br/>UFI: BB09907985<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="81646124-18e4-460b-a1b8-51a634793e72">
+<coordinates>153.0547,-27.49057 153.05562,-27.48938 153.05623,-27.48857 153.05684,-27.48721 153.05704,-27.48679 153.05806,-27.48452 153.05966,-27.48307 153.06189,-27.48171 153.06226,-27.4814</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="cc2f5668-9347-4fe0-886f-6090901be045">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          88<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          94<br/>G5615RLD_:          94<br/>LENGTH:  1.46722943385339984E-02<br/>UFI: BB09907986<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b5a7cab3-7c41-4f8f-9130-a0891796796f">
+<coordinates>153.02953,-27.49279 153.02942,-27.49265 153.02773,-27.49152 153.02736,-27.49129 153.02715,-27.49118 153.02536,-27.49013 153.02411,-27.48807 153.02367,-27.48713 153.02345,-27.48649 153.02339,-27.48579 153.02333,-27.48493 153.02333,-27.48488 153.02333,-27.48393 153.02319,-27.4831 153.02302,-27.48224 153.02292,-27.48188 153.02278,-27.48138 153.02258,-27.48101</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="5dfc1ae4-5a87-4881-bf1b-c37d25cff2b2">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          95<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          92<br/>G5615RLD_:          95<br/>LENGTH:  2.36223381041292882E-02<br/>UFI: BB09907987<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b57d6458-0b2f-406f-a55a-5046219e3b41">
+<coordinates>153.19352,-27.48659 153.19415,-27.4871 153.19631,-27.48861 153.19829,-27.48958 153.19998,-27.49013 153.20359,-27.491 153.20904,-27.49193 153.21589,-27.49312</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="067e854c-1aab-43d8-bb8e-ce59738d5b99">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          96<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          95<br/>G5615RLD_:          96<br/>LENGTH:  2.57094389406951444E-02<br/>UFI: BB09907988<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ffa789c1-5f9d-46d7-8407-3417d08c3b94">
+<coordinates>153.21589,-27.49312 153.21698,-27.49317 153.21859,-27.4932 153.22038,-27.49306 153.22201,-27.49289 153.22381,-27.49262 153.2256,-27.49229 153.22706,-27.49197 153.22832,-27.49187 153.22952,-27.49188 153.23213,-27.49214 153.23502,-27.49254 153.23726,-27.49294 153.23944,-27.49333 153.24125,-27.49366 153.24135,-27.49369</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="2fca1530-0b38-4348-af07-e282d1af8bb2">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          94<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          97<br/>G5615RLD_:          97<br/>LENGTH:  2.71224114760118280E-03<br/>UFI: BB09907989<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="48c45efa-d4f7-4fea-9514-fb0922282424">
+<coordinates>153.03142,-27.49474 153.03023,-27.49349 153.02953,-27.49279</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="7a291e31-0f0b-47c2-aef4-12eb8ab280f7">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          93<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          98<br/>G5615RLD_:          98<br/>LENGTH:  1.55637135962801119E-02<br/>UFI: BB09907990<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e6909c98-0f49-4be6-8c10-a11041d44fb9">
+<coordinates>153.04048,-27.49657 153.04198,-27.49613 153.04279,-27.4959 153.04742,-27.49446 153.04828,-27.4941 153.05106,-27.49302 153.05319,-27.49174 153.0547,-27.49057</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a2245ab3-e148-4082-8043-cba39f1a2589">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          98<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:          97<br/>G5615RLD_:          99<br/>LENGTH:  9.54715527498890652E-03<br/>UFI: BB09907991<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c6f2c5b9-bc17-4183-90bb-f7c2ffea5722">
+<coordinates>153.03142,-27.49474 153.03314,-27.49563 153.03473,-27.49638 153.03508,-27.49654 153.0372,-27.4969 153.03906,-27.49682 153.03961,-27.49679 153.04048,-27.49657</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="220307e7-6f23-49c9-9997-612639958c5e">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:          99<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          97<br/>G5615RLD_:         100<br/>LENGTH:  4.82791065109607585E-03<br/>UFI: BB09907992<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9bfb92ee-d335-4099-8059-6b37dfc323ac">
+<coordinates>153.03142,-27.49474 153.03122,-27.49635 153.03084,-27.49771 153.03003,-27.49879 153.02989,-27.49921</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="1cd1bb14-e8a3-4324-bf2e-9455f89df863">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         100<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:          99<br/>G5615RLD_:         101<br/>LENGTH:  1.01815210949519237E-02<br/>UFI: BB09907993<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e5b42893-d863-4074-87b2-7e880e380c96">
+<coordinates>153.02989,-27.49921 153.02969,-27.49993 153.02966,-27.49999 153.02962,-27.50024 153.02966,-27.50146 153.02969,-27.50221 153.02969,-27.50493 153.02919,-27.5071 153.0285,-27.50918</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="811c736b-8ff3-4fe1-b1e2-098a252294b7">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         101<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:          96<br/>G5615RLD_:         102<br/>LENGTH:  2.54038980824601163E-02<br/>UFI: BB09907994<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="595c07ae-7a57-4298-9cac-a24917502ad4">
+<coordinates>153.24135,-27.49369 153.24257,-27.49396 153.24353,-27.4943 153.24425,-27.49486 153.24472,-27.49546 153.24509,-27.49611 153.24573,-27.49773 153.24662,-27.4996 153.24738,-27.50063 153.24878,-27.5025 153.25007,-27.50387 153.25183,-27.50573 153.25286,-27.50689 153.25389,-27.50831 153.25444,-27.50945 153.25502,-27.51074 153.25536,-27.51229 153.25539,-27.51356</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="8e676b1f-d429-41b4-8398-cfc02a073f98">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         102<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         100<br/>G5615RLD_:         103<br/>LENGTH:  1.34804743937073507E-02<br/>UFI: BB09907995<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="5cf91aa6-f9ac-466a-9cc6-c30d344e14c3">
+<coordinates>153.0285,-27.50918 153.02708,-27.51099 153.02528,-27.51215 153.02518,-27.51224 153.02254,-27.51388 153.0199,-27.51496 153.01858,-27.51596 153.01784,-27.51701</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="96e66e7f-f14f-43c0-bd5d-ae61e0e1d6e5">
+<description>NAME: CLEVELAND BRANCH RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         103<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         101<br/>G5615RLD_:         104<br/>LENGTH:  1.73505357974957919E-02<br/>UFI: BB09907996<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="f442a386-fbf9-4396-bb8a-1e76455164f4">
+<coordinates>153.25539,-27.51356 153.25539,-27.51378 153.25526,-27.5153 153.25511,-27.51732 153.25524,-27.51802 153.2558,-27.51933 153.25631,-27.52018 153.25715,-27.52073 153.25826,-27.52145 153.25899,-27.52183 153.26024,-27.52226 153.26205,-27.52266 153.26366,-27.52287 153.26616,-27.52298</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="c48af75e-fe9f-4206-a131-0cb9f03bf93c">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         104<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         102<br/>G5615RLD_:         105<br/>LENGTH:  7.06275617904279177E-03<br/>UFI: BB09907997<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ef13e1be-1aba-4497-a1ee-278512d1f6f9">
+<coordinates>153.01784,-27.51701 153.01744,-27.51757 153.01625,-27.51965 153.01611,-27.51999 153.01533,-27.52182 153.01495,-27.5234</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a306eca5-e825-419e-b371-f2fb4ebd548d">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         105<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         104<br/>G5615RLD_:         106<br/>LENGTH:  1.29389594510735521E-03<br/>UFI: BB09907998<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1f75413e-e8a9-4744-b1b4-df8b6a4c6a80">
+<coordinates>153.01495,-27.5234 153.01462,-27.52465</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="894ecfd1-8fa1-4190-a266-95501bc8c451">
+<description>NAME: TENNYSON BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         106<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         105<br/>G5615RLD_:         107<br/>LENGTH:  1.02547234779355144E-02<br/>UFI: BB09907999<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c79f7905-2db0-482f-a3c3-8946d3451653">
+<coordinates>153.01462,-27.52465 153.01353,-27.52516 153.01259,-27.52535 153.01195,-27.52546 153.01078,-27.52553 153.00972,-27.5256 153.00795,-27.52554 153.00729,-27.52543 153.00575,-27.52518 153.00487,-27.52491 153.00459,-27.52482</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0f538e10-3a0c-424e-9c30-e2034aaa436c">
+<description>NAME: TENNYSON BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         107<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         106<br/>G5615RLD_:         108<br/>LENGTH:  4.72743583807796759E-03<br/>UFI: BB09908000<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9549f761-c5f0-42c9-977d-5717fab3dae4">
+<coordinates>153.00459,-27.52482 153.00369,-27.52488 153.00247,-27.52521 153.00105,-27.52574 153.00104,-27.52574 153.00053,-27.52585 153.00003,-27.52596</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a88433fc-7d67-450f-a7f1-106389d6e8a7">
+<description>NAME: TENNYSON BRANCH RAILWAY                           <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         107<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         108<br/>G5615RLD_:         109<br/>LENGTH:  3.08590492382607165E-05<br/>UFI: BB09908001<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="50db08d5-fcef-48a0-880b-b646d50a89c1">
+<coordinates>153.0,-27.52597 153.00003,-27.52596</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="18ad500e-5935-4391-9368-bbba64d3ae09">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         109<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         107<br/>G5615RLD_:         110<br/>LENGTH:  5.65234718840516154E-03<br/>UFI: BB09908002<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="3bfb693d-513f-4aae-9cb1-c36593264463">
+<coordinates>153.00003,-27.52596 153.00047,-27.52618 153.00092,-27.5264 153.00105,-27.52649 153.00118,-27.52659 153.00166,-27.52693 153.00206,-27.52737 153.00258,-27.52793 153.00425,-27.52965</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="e3b4f52c-17bf-4ad9-bf81-9a1ce2afecb9">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         110<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         105<br/>G5615RLD_:         111<br/>LENGTH:  9.14218121101259204E-03<br/>UFI: BB09908003<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="3200ff37-6dfc-4699-857f-2716c5f02fa6">
+<coordinates>153.01462,-27.52465 153.01453,-27.52507 153.01381,-27.52668 153.01381,-27.53043 153.01381,-27.53185 153.01364,-27.53363</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4813bf21-5faa-4ff2-8bc5-4e734da49a16">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         111<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         110<br/>G5615RLD_:         112<br/>LENGTH:  1.02022634999608067E-02<br/>UFI: BB09908004<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2f2207dc-ab6a-478c-9943-daf9ebabb287">
+<coordinates>153.01364,-27.53363 153.0135,-27.53482 153.01286,-27.53843 153.01248,-27.54038 153.01231,-27.54132 153.01242,-27.54185 153.0125,-27.54221 153.01341,-27.54338</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="47a9ec1d-d12c-4f0f-8846-a868545059ca">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         112<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         111<br/>G5615RLD_:         113<br/>LENGTH:  6.31382793585322406E-03<br/>UFI: BB09908005<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="f549bde7-f800-4a92-a6df-d2f245524293">
+<coordinates>153.01341,-27.54338 153.01353,-27.54349 153.01595,-27.54557 153.0182,-27.54749</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="c76bf687-5c40-4f04-8578-3ca9f6f4ffc1">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         113<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         112<br/>G5615RLD_:         114<br/>LENGTH:  6.50753272696093839E-03<br/>UFI: BB09908006<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="243a9bd8-0fab-42bb-a1db-e8dfa491b6f5">
+<coordinates>153.0182,-27.54749 153.01889,-27.54807 153.02081,-27.54971 153.0215,-27.55079 153.02217,-27.55246</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4fd0cd8a-51cb-45b4-a21c-85a1bf6d12fb">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         114<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 7<br/>FNODE_:         113<br/>G5615RLD_:         115<br/>LENGTH:  9.48784227335710585E-03<br/>UFI: BB09908007<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ea62dc58-8d44-4ddc-91de-862c0adf508e">
+<coordinates>153.02217,-27.55246 153.02264,-27.55368 153.02322,-27.5554 153.0237,-27.55604 153.02406,-27.55657 153.02556,-27.55757 153.02769,-27.55865 153.0282,-27.55918</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="88cdc9d6-0ae7-424d-834e-5994353a4e68">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         114<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         115<br/>G5615RLD_:         116<br/>LENGTH:  1.21270685442426904E-02<br/>UFI: BB09908008<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ad728525-3b88-43f3-855a-3ad455ba4364">
+<coordinates>153.03629,-27.56777 153.03539,-27.56604 153.03398,-27.56371 153.03226,-27.56163 153.03193,-27.56139 153.0309,-27.56063 153.03053,-27.56035 153.0304,-27.56029 153.02973,-27.55997 153.02948,-27.55985 153.0282,-27.55918</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="61a6bfba-d98b-47e9-9fd5-b75f76e9aa87">
+<description>NAME: NORTH COAST RAILWAY                               <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         116<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         114<br/>G5615RLD_:         117<br/>LENGTH:  1.37013995974449004E-02<br/>UFI: BB09908009<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="5fb05578-ce9b-4d3d-9002-28fb11f66edf">
+<coordinates>153.0282,-27.55918 153.02853,-27.56129 153.02856,-27.5616 153.02931,-27.56668 153.02939,-27.5684 153.02948,-27.57009 153.02962,-27.57274 153.02962,-27.57279</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="1bedaa34-920f-4a0d-97b4-4b77df6c4dd9">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         115<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         117<br/>G5615RLD_:         118<br/>LENGTH:  1.31385853108548691E-02<br/>UFI: BB09908010<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8815aa97-c53d-4dd0-a19d-98b52635efc2">
+<coordinates>153.04637,-27.57554 153.0456,-27.57481 153.04503,-27.57427 153.0433,-27.57354 153.0417,-27.5731 153.03934,-27.57165 153.0377,-27.57002 153.03761,-27.56993 153.03741,-27.56963 153.0365,-27.56821 153.03629,-27.56777</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="572c5d83-0a94-4392-b0a8-cabd14b398cc">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         118<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         116<br/>G5615RLD_:         119<br/>LENGTH:  4.58062343014345192E-03<br/>UFI: BB09908011<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="194a1126-da37-44a5-ac24-d8a70b36d385">
+<coordinates>153.02962,-27.57279 153.03156,-27.57399 153.03186,-27.57429 153.03317,-27.57563</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="8f5bb2e9-2c93-4624-b74f-338866c07921">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         118<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         119<br/>G5615RLD_:         120<br/>LENGTH:  2.15366370202052385E-03<br/>UFI: BB09908012<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e9b0c91b-880a-4160-8218-f436ad0af84d">
+<coordinates>153.03531,-27.5759 153.03389,-27.57571 153.03345,-27.57565 153.03317,-27.57563</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="82210067-5d35-4a5d-9b4a-5d3e7bbff317">
+<description>NAME: NORTH COAST RAILWAY                               <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         120<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         116<br/>G5615RLD_:         121<br/>LENGTH:  6.44565154442973583E-03<br/>UFI: BB09908013<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0eb720f4-57a9-4165-bbca-12a2ccaff247">
+<coordinates>153.02962,-27.57279 153.02956,-27.5766 153.02953,-27.57924</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ba403455-8c7b-4d3d-9b54-b6eb978ebe66">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         117<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         121<br/>G5615RLD_:         122<br/>LENGTH:  9.61759330089218163E-03<br/>UFI: BB09908014<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1e02ec45-1b60-4f1f-847e-d5f34df6f70e">
+<coordinates>153.05437,-27.58027 153.05261,-27.58013 153.05112,-27.57968 153.04939,-27.57824 153.04703,-27.57615 153.04662,-27.57579 153.04645,-27.57563 153.04637,-27.57554</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="22c1911e-bec9-42b5-8611-1787e3392d85">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         121<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         122<br/>G5615RLD_:         123<br/>LENGTH:  1.02840465232159582E-02<br/>UFI: BB09908015<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0b5b1390-f740-462b-afe4-320407e83965">
+<coordinates>153.06384,-27.58152 153.06367,-27.58121 153.06206,-27.57993 153.06169,-27.57982 153.06033,-27.5794 153.05847,-27.57954 153.05781,-27.57957 153.05495,-27.58032 153.05437,-27.58027</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="044bffe4-8c86-45d1-a012-eb831ead1965">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         123<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         118<br/>G5615RLD_:         124<br/>LENGTH:  6.84142391108739922E-03<br/>UFI: BB09908016<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="ae839d48-108b-4846-944d-4ebf904a8462">
+<coordinates>153.03317,-27.57563 153.03308,-27.57985 153.03337,-27.58085 153.03459,-27.58185</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="be758362-9e77-4ac2-a320-61329637cc96">
+<description>NAME:                                                   <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         120<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 1<br/>FNODE_:         124<br/>G5615RLD_:         125<br/>LENGTH:  8.81996407735748632E-03<br/>UFI: BB09908017<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="73b22071-2711-40d0-99e6-aa5dfe308c41">
+<coordinates>153.03216,-27.58734 153.03216,-27.58663 153.03166,-27.58574 153.03084,-27.58466 153.03064,-27.58357 153.03071,-27.58255 153.03075,-27.58193 153.03033,-27.58057 153.02953,-27.57924</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="98eee822-574f-4211-9bf0-bb18f47f4da5">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         122<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         125<br/>G5615RLD_:         126<br/>LENGTH:  1.01622058787406398E-02<br/>UFI: BB09908018<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8313f5e5-206a-4c4c-9dce-f2edeae4bc86">
+<coordinates>153.06792,-27.59063 153.06714,-27.58982 153.06693,-27.5896 153.06631,-27.58815 153.06601,-27.5859 153.0652,-27.58427 153.06384,-27.58152</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="00821893-32a6-45c7-9f36-5f4b9aadf6b7">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         125<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         126<br/>G5615RLD_:         127<br/>LENGTH:  1.35899550851543462E-02<br/>UFI: BB09908019<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="40595d25-57ea-46e4-9013-44edb5f50395">
+<coordinates>153.0798,-27.59701 153.07898,-27.59674 153.07729,-27.59601 153.07564,-27.59529 153.07448,-27.59474 153.07137,-27.59329 153.06845,-27.59113 153.06792,-27.59063</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="f56186d5-665e-4e0c-85d4-e1cd51a71e22">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         126<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         127<br/>G5615RLD_:         128<br/>LENGTH:  1.26077924326954884E-02<br/>UFI: BB09908020<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="be81d113-8ff0-4e0b-bdb9-9808772930f0">
+<coordinates>153.09076,-27.60318 153.08972,-27.6026 153.08829,-27.60174 153.08556,-27.60015 153.08292,-27.59838 153.08261,-27.59818 153.08101,-27.59746 153.0798,-27.59701</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0716d83d-56b6-4b0b-8faa-ef299c6c646a">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         127<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         128<br/>G5615RLD_:         129<br/>LENGTH:  3.04528328691662450E-02<br/>UFI: BB09908021<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="afd084bc-6407-4aae-8e8c-51b4d6185ef4">
+<coordinates>153.09839,-27.63079 153.09836,-27.63041 153.09886,-27.62904 153.09895,-27.6289 153.09944,-27.62771 153.09984,-27.62632 153.09978,-27.62568 153.09892,-27.62402 153.09791,-27.62221 153.09673,-27.62054 153.09622,-27.6191 153.09611,-27.61726 153.09608,-27.61629 153.09605,-27.61613 153.09593,-27.61364 153.09592,-27.61332 153.09531,-27.60982 153.09467,-27.60807 153.0945,-27.60765 153.0939,-27.60671 153.09306,-27.60541 153.09155,-27.60368 153.09076,-27.60318</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="017723d6-d79b-4330-b257-096cfa5b4604">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         128<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         129<br/>G5615RLD_:         130<br/>LENGTH:  8.18890282469161672E-03<br/>UFI: BB09908022<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1c6ec0ee-22d8-452a-8846-ab902e63c7eb">
+<coordinates>153.10269,-27.63715 153.1012,-27.63624 153.1,-27.63512 153.09947,-27.63463 153.09866,-27.63329 153.09848,-27.63193 153.09839,-27.63079</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="cce58ff0-5827-42a3-9ef1-01fcef556fc6">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         129<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         130<br/>G5615RLD_:         131<br/>LENGTH:  2.61677546945632798E-02<br/>UFI: BB09908023<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="84869f8a-aa3e-4a6d-895b-4049e4668bd3">
+<coordinates>153.11768,-27.65702 153.11751,-27.65696 153.1169,-27.65674 153.11578,-27.65635 153.11562,-27.65629 153.1147,-27.65513 153.11442,-27.65477 153.114,-27.65385 153.11339,-27.65213 153.11206,-27.65068 153.11075,-27.64963 153.10872,-27.64743 153.10792,-27.64635 153.10739,-27.64429 153.10658,-27.64157 153.10648,-27.64077 153.10638,-27.64004 153.10525,-27.63879 153.10313,-27.63743 153.10269,-27.63715</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ace47ac4-3a37-499d-8c8f-3e653e916c0e">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         130<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         131<br/>G5615RLD_:         132<br/>LENGTH:  2.59907359998475251E-02<br/>UFI: BB09908024<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2ec5a9ec-ab21-4353-b6f5-9de42f190df5">
+<coordinates>153.13809,-27.67138 153.13756,-27.67135 153.13458,-27.67071 153.13316,-27.66971 153.13187,-27.66829 153.13045,-27.66638 153.13003,-27.66579 153.12892,-27.66413 153.12758,-27.66224 153.12567,-27.6606 153.1255,-27.66052 153.12372,-27.65963 153.12161,-27.65827 153.11768,-27.65702</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ed40fe89-9f5c-402a-811b-96851289c9b5">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         131<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         132<br/>G5615RLD_:         133<br/>LENGTH:  2.93116862270962168E-02<br/>UFI: BB09908025<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="37d28090-50ed-4ad2-94f0-ff66a0bbae04">
+<coordinates>153.15892,-27.68852 153.15764,-27.68713 153.15736,-27.68688 153.15642,-27.68604 153.15634,-27.68593 153.15512,-27.68432 153.15449,-27.68315 153.15428,-27.68246 153.15419,-27.68221 153.15367,-27.68054 153.15286,-27.67882 153.15241,-27.6784 153.15202,-27.67804 153.15033,-27.67646 153.1492,-27.67493 153.1485,-27.6736 153.14728,-27.67276 153.14514,-27.67224 153.14131,-27.67152 153.13841,-27.67138 153.13809,-27.67138</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="29179adf-2e5a-47c6-adf5-5f169c82ebf2">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         132<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         133<br/>G5615RLD_:         134<br/>LENGTH:  3.75477583368476414E-03<br/>UFI: BB09908026<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="63bc853b-d2b9-42b9-9298-bc4469928d62">
+<coordinates>153.16156,-27.69118 153.16067,-27.69038 153.16058,-27.69029 153.15892,-27.68852</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a9656d59-089e-4c95-b603-7c7bb3bee214">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         133<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         134<br/>G5615RLD_:         135<br/>LENGTH:  1.12225568785080405E-02<br/>UFI: BB09908027<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1488475a-2d17-452d-b56b-fbb33db80296">
+<coordinates>153.16989,-27.69814 153.16885,-27.69792 153.1682,-27.69751 153.16628,-27.69641 153.1647,-27.69524 153.16376,-27.69327 153.16156,-27.69118</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="42b5dbd3-7bec-4f00-8326-aefc665bd777">
+<description>NAME: NORTH COAST RAILWAY                               <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         120<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         135<br/>G5615RLD_:         136<br/>LENGTH:  1.40193118747776152E-01<br/>UFI: BB09908028<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="1876d9b7-a4c5-4f6f-99a0-de44e47a6782">
+<coordinates>153.0,-27.70245 153.00003,-27.70241 153.00014,-27.70221 153.00044,-27.70182 153.00073,-27.70143 153.00104,-27.70102 153.00105,-27.70096 153.00258,-27.69929 153.00351,-27.69785 153.004,-27.69677 153.004,-27.69568 153.00381,-27.69099 153.0043,-27.6891 153.00542,-27.68757 153.006,-27.68698 153.00745,-27.68549 153.00908,-27.68415 153.01131,-27.68279 153.01225,-27.68232 153.01334,-27.68179 153.01547,-27.68035 153.01678,-27.67899 153.01781,-27.6769 153.01924,-27.67326 153.02072,-27.66951 153.02106,-27.66771 153.02082,-27.66716 153.02055,-27.66654 153.02011,-27.66554 153.01903,-27.66365 153.01903,-27.66193 153.01906,-27.66163 153.01973,-27.65688 153.01984,-27.65615 153.02003,-27.65416 153.01912,-27.65182 153.01575,-27.64496 153.01537,-27.64343 153.01537,-27.6416 153.01537,-27.64127 153.01575,-27.63971 153.01709,-27.63718 153.02125,-27.63049 153.02164,-27.62988 153.02284,-27.62763 153.02356,-27.62482 153.02356,-27.6221 153.02345,-27.61985 153.02376,-27.61768 153.02428,-27.61627 153.02573,-27.6131 153.02719,-27.60993 153.02811,-27.60866 153.02903,-27.60804 153.02972,-27.60757 153.03178,-27.60613 153.03267,-27.60443 153.03284,-27.60354 153.03297,-27.6026 153.03226,-27.60107 153.02995,-27.5991 153.02886,-27.59749 153.02861,-27.59713 153.02847,-27.59668 153.0283,-27.59613 153.02811,-27.59549 153.02811,-27.59513 153.02811,-27.59349 153.0283,-27.59204 153.02853,-27.59027 153.02873,-27.58865 153.02904,-27.58626 153.02922,-27.58204 153.02953,-27.57924</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="22ce23c0-9a1f-4695-86cd-79e27287948f">
+<description>NAME: BEAUDESERT BRANCH RAILWAY                         <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         136<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         133<br/>G5615RLD_:         137<br/>LENGTH:  2.00688765809669024E-02<br/>UFI: BB09908029<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="8dfae550-11f7-449c-a8da-2dd2d0ef16dc">
+<coordinates>153.16156,-27.69118 153.16122,-27.69121 153.16048,-27.69124 153.15967,-27.69129 153.15906,-27.69135 153.15756,-27.69207 153.15665,-27.69307 153.15591,-27.6946 153.15584,-27.69513 153.15581,-27.69529 153.15573,-27.69579 153.15573,-27.69777 153.15523,-27.69877 153.15419,-27.69941 153.15269,-27.69957 153.15175,-27.70013 153.15124,-27.7004 153.15055,-27.70115 153.15045,-27.7032 153.1506,-27.70427</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="b289cf32-15ba-4595-b6eb-d979ca4c9302">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         134<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         137<br/>G5615RLD_:         138<br/>LENGTH:  2.09484387715098037E-02<br/>UFI: BB09908030<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="fe1b811c-661b-4242-8cce-40feae92fac9">
+<coordinates>153.18675,-27.7086 153.18272,-27.70574 153.18186,-27.70474 153.1809,-27.70364 153.17917,-27.70107 153.17753,-27.69983 153.17698,-27.69941 153.17653,-27.69917 153.17519,-27.69844 153.174,-27.69818 153.17348,-27.6981 153.17286,-27.698 153.17192,-27.69806 153.17143,-27.69809 153.16989,-27.69814</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="ed3366f7-b7eb-445a-baca-48eeb2c750cc">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         137<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         138<br/>G5615RLD_:         139<br/>LENGTH:  3.65120287669970234E-02<br/>UFI: BB09908031<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="d5e5c42a-6284-4b15-86a7-894843a1aaa0">
+<coordinates>153.21779,-27.72464 153.21572,-27.72301 153.21464,-27.72262 153.21297,-27.72204 153.2123,-27.7218 153.20848,-27.72051 153.2057,-27.71862 153.20279,-27.71682 153.19981,-27.71643 153.19861,-27.71674 153.19712,-27.71702 153.19564,-27.71672 153.1942,-27.71614 153.19331,-27.71522 153.18809,-27.71024 153.18675,-27.7086</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="bc581f7a-e9eb-472f-8304-fbeab1ae32f9">
+<description>NAME: BEAUDESERT BRANCH RAILWAY                         <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         139<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         136<br/>G5615RLD_:         140<br/>LENGTH:  5.78538939050024931E-02<br/>UFI: BB09908032<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="d6d6433e-6489-47e8-9a9d-e7e9b2bc6c1d">
+<coordinates>153.1506,-27.70427 153.1505,-27.70641 153.15016,-27.70801 153.14981,-27.70917 153.14901,-27.71002 153.14796,-27.71078 153.14693,-27.71132 153.14542,-27.71179 153.14348,-27.71204 153.14267,-27.71277 153.14247,-27.71413 153.1425,-27.71476 153.14256,-27.71593 153.142,-27.71782 153.14197,-27.71793 153.14023,-27.72152 153.13827,-27.72557 153.13611,-27.73002 153.13498,-27.73238 153.13417,-27.73418 153.13356,-27.73727 153.13234,-27.73949 153.13095,-27.74168 153.12942,-27.74385 153.12801,-27.7451 153.12709,-27.74629 153.12659,-27.74799 153.12659,-27.74816 153.12666,-27.74954 153.12666,-27.74979 153.12636,-27.75143 153.12537,-27.75288</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="458d318c-4a20-4be3-a288-53cdc1fdf1f2">
+<description>NAME: BEAUDESERT BRANCH RAILWAY                         <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         140<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         139<br/>G5615RLD_:         141<br/>LENGTH:  2.38988219773638953E-02<br/>UFI: BB09908033<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="aa178a52-de4d-45fe-973b-527b1a65ff13">
+<coordinates>153.12537,-27.75288 153.12511,-27.75307 153.12415,-27.75388 153.12212,-27.75449 153.1208,-27.75488 153.11928,-27.75577 153.11725,-27.75713 153.1152,-27.75824 153.11491,-27.75841 153.11339,-27.75921 153.11258,-27.76082 153.11148,-27.76271 153.11098,-27.76435 153.11047,-27.76549 153.11044,-27.76552 153.10945,-27.76768 153.10898,-27.76841</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="e9e0a19e-287a-40fc-b319-8e5f85da76c0">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         138<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         141<br/>G5615RLD_:         142<br/>LENGTH:  1.01043825530551731E-01<br/>UFI: BB09908034<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="22b5bd35-e6bb-45c6-b9e0-714be9a4fa2c">
+<coordinates>153.28165,-27.79902 153.28061,-27.79839 153.27927,-27.79758 153.27547,-27.79536 153.27242,-27.79311 153.27077,-27.79176 153.26924,-27.79052 153.26619,-27.78759 153.26276,-27.78478 153.26098,-27.7832 153.25882,-27.77983 153.25718,-27.77701 153.25557,-27.77285 153.25198,-27.76417 153.25091,-27.76122 153.24938,-27.75829 153.24658,-27.75502 153.24353,-27.75153 153.24185,-27.74934 153.23901,-27.74516 153.23641,-27.7433 153.23395,-27.74171 153.23044,-27.7397 153.22752,-27.7379 153.22548,-27.73666 153.22383,-27.73508 153.22144,-27.73127 153.22098,-27.72907 153.21999,-27.72669 153.21898,-27.72575 153.21779,-27.72464</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="fce2842c-1e21-4e7b-b268-27407e86b7f1">
+<description>NAME: BEAUDESERT BRANCH RAILWAY                         <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         142<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         140<br/>G5615RLD_:         143<br/>LENGTH:  1.08685983538262046E-01<br/>UFI: BB09908035<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0a9cebf3-fc35-425f-8a00-eb475037a3b1">
+<coordinates>153.10898,-27.76841 153.10661,-27.77213 153.10469,-27.77491 153.10329,-27.77718 153.10225,-27.77835 153.10034,-27.77924 153.10031,-27.77927 153.1,-27.7794 153.09869,-27.77996 153.09778,-27.78107 153.09709,-27.78241 153.09628,-27.78357 153.09625,-27.7836 153.09517,-27.78404 153.09415,-27.78396 153.09323,-27.78296 153.09222,-27.78207 153.09141,-27.7816 153.09019,-27.78171 153.08917,-27.7826 153.08745,-27.78377 153.08589,-27.78421 153.08522,-27.7844 153.08258,-27.78549 153.08166,-27.78563 153.08014,-27.78585 153.07709,-27.78613 153.07506,-27.78649 153.07333,-27.78757 153.07143,-27.78938 153.06663,-27.7949 153.06544,-27.79663 153.05959,-27.80493 153.05922,-27.80546 153.05884,-27.80596 153.05792,-27.80718 153.0565,-27.80807 153.05487,-27.80863 153.05336,-27.81007 153.05255,-27.8116 153.05183,-27.81277 153.05,-27.81404 153.04706,-27.81549 153.04564,-27.81638 153.04503,-27.81674 153.04343,-27.8181 153.04189,-27.81935 153.04109,-27.82071 153.04062,-27.8221 153.04005,-27.82371 153.03934,-27.8254 153.03917,-27.82568 153.03812,-27.82721 153.03741,-27.82821 153.03737,-27.82827 153.03725,-27.82838 153.0365,-27.82913 153.03477,-27.82974 153.03294,-27.83002 153.03104,-27.83066 153.03056,-27.83085</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="279221d5-79c6-49f3-aa38-04637bfb3115">
+<description>NAME: BEAUDESERT BRANCH RAILWAY                         <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         143<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 3<br/>FNODE_:         142<br/>G5615RLD_:         144<br/>LENGTH:  3.48208681417523785E-02<br/>UFI: BB09908036<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="9ee49a7e-df79-40d0-bc5e-4d0de191f9f9">
+<coordinates>153.03056,-27.83085 153.02982,-27.83118 153.02866,-27.83169 153.02711,-27.83238 153.02559,-27.83307 153.02106,-27.8351 153.02048,-27.83535 153.01822,-27.83643 153.01692,-27.83779 153.0152,-27.8396 153.01344,-27.84141 153.01123,-27.84285 153.01106,-27.84293 153.01045,-27.84327 153.00931,-27.84393 153.00676,-27.84466 153.00392,-27.84482 153.00105,-27.84493 153.00095,-27.84496 153.00047,-27.84516 153.00003,-27.84541 153.0,-27.84542</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="37cbd855-ecae-4bc2-920f-55d440e8ace3">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         141<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         144<br/>G5615RLD_:         145<br/>LENGTH:  6.64350279590446291E-02<br/>UFI: BB09908037<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="e41855ca-b34c-482b-be03-60f23778bc8b">
+<coordinates>153.31743,-27.85319 153.31282,-27.84856 153.31115,-27.84697 153.30975,-27.84494 153.3086,-27.84268 153.30783,-27.8402 153.3068,-27.83626 153.30657,-27.83329 153.30606,-27.83108 153.30506,-27.82842 153.30315,-27.82549 153.30155,-27.82309 153.29944,-27.82017 153.29733,-27.81671 153.29507,-27.81428 153.29341,-27.81157 153.29201,-27.80966 153.28984,-27.80696 153.28781,-27.80448 153.28531,-27.80203 153.28312,-27.79992 153.28165,-27.79902</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="eb9f36b2-0f7e-4c48-9cfa-09fabf332db6">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         145<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         144<br/>G5615RLD_:         146<br/>LENGTH:  2.41346546335420992E-02<br/>UFI: BB09908038<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="19f8ac47-4ba9-4bd7-a4c9-04d5c6d53e73">
+<coordinates>153.31743,-27.85319 153.32245,-27.85786 153.3266,-27.86229 153.32825,-27.86674 153.32964,-27.87305</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="3f4ab487-68a2-4963-b186-26e8286d0916">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:         146<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         145<br/>G5615RLD_:         147<br/>LENGTH:  9.43463199472510325E-03<br/>UFI: BB09908039<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c2735b7e-1582-4fc0-a4ff-7b10b3e05d2d">
+<coordinates>153.32964,-27.87305 153.33171,-27.88225</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="1108e3ce-ffe8-4a48-882c-2f69ed31c65c">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         147<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         146<br/>G5615RLD_:         148<br/>LENGTH:  4.54156988506399448E-02<br/>UFI: BB09908040<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="83e31871-130b-4f20-a8c6-b7f69d5f5989">
+<coordinates>153.33171,-27.88225 153.33264,-27.88744 153.33407,-27.89167 153.33579,-27.89573 153.33828,-27.89986 153.34052,-27.9063 153.34056,-27.90704 153.34081,-27.91166 153.34017,-27.91535 153.34013,-27.91994 153.34004,-27.92342 153.3395,-27.9258</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="cadbc197-f50f-4fc0-8bf5-64d79a8ae496">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         148<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         147<br/>G5615RLD_:         149<br/>LENGTH:  6.21953731747449390E-02<br/>UFI: BB09908041<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2724e5fb-0df3-4dc2-bef1-3fc8e8bf8412">
+<coordinates>153.3395,-27.9258 153.33877,-27.93092 153.33998,-27.93758 153.34164,-27.94174 153.34479,-27.94919 153.34555,-27.95417 153.34658,-27.96539 153.34794,-27.97026 153.34795,-27.97343 153.34656,-27.97721 153.34639,-27.98287 153.34768,-27.98609</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="12821f5a-7464-49f1-8554-89f45a84599a">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:         149<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: bridge_rl_l <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         148<br/>G5615RLD_:         150<br/>LENGTH:  1.03647603076725933E-03<br/>UFI: BB09908042<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="5beeb6c6-ac29-4fd7-93a4-4cdc5d61c864">
+<coordinates>153.34768,-27.98609 153.34807,-27.98705</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="cdcbd1bb-95e8-48a5-9b7c-9015e488e0fd">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         150<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         149<br/>G5615RLD_:         151<br/>LENGTH:  7.48588180651138697E-03<br/>UFI: BB09908043<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="476d93cb-094b-4fc2-af33-9ee941b132ad">
+<coordinates>153.34807,-27.98705 153.34929,-27.9901 153.34971,-27.99255 153.35,-27.99424</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="5f6cf1ed-8c1a-4e8b-a8e0-7e6f127521fe">
+<description>NAME: SOUTH COAST LINE RAILWAY                          <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         151<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 2<br/>GAUGE: 3<br/>FNODE_:         150<br/>G5615RLD_:         152<br/>LENGTH:  8.48455622704387957E-02<br/>UFI: BB09908044<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="4e1deea9-28ea-4d81-b507-963830760006">
+<coordinates>153.35,-27.99424 153.34977,-27.99887 153.34923,-28.00163 153.34927,-28.00296 153.34934,-28.0052 153.34948,-28.0063 153.34985,-28.00912 153.35007,-28.01433 153.35002,-28.01602 153.34993,-28.01949 153.35161,-28.02515 153.35245,-28.02795 153.35511,-28.03148 153.35584,-28.03244 153.35704,-28.03395 153.35853,-28.03583 153.36054,-28.04028 153.36134,-28.04312 153.3621,-28.04583 153.36315,-28.04953 153.36565,-28.05378 153.37059,-28.05919 153.37448,-28.06315 153.37628,-28.06614 153.37778,-28.07083</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="4f31224b-ea3e-4a60-ac78-6e897e004fec">
+<description>NAME: CASINO MURWILLUMBAH RAILWAY                       <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         153<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         152<br/>G5615RLD_:         153<br/>LENGTH:  1.20833801075748259E-01<br/>UFI: BB09908045<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="c8f706e6-8027-423d-812d-6c0b79ff5aaf">
+<coordinates>153.40602,-28.33103 153.40464,-28.33159 153.40402,-28.33248 153.40378,-28.33347 153.40378,-28.33535 153.40455,-28.33999 153.40431,-28.34198 153.40407,-28.34397 153.40357,-28.34574 153.40283,-28.34762 153.4016,-28.35183 153.39986,-28.35427 153.39849,-28.35648 153.39663,-28.35947 153.39426,-28.36125 153.39289,-28.36191 153.39214,-28.36258 153.39214,-28.36347 153.39289,-28.36435 153.39415,-28.36512 153.39565,-28.36611 153.39866,-28.36765 153.40116,-28.36952 153.40167,-28.37051 153.40192,-28.37272 153.40169,-28.37604 153.40133,-28.38024 153.40094,-28.38255 153.40094,-28.38256 153.40054,-28.38492 153.4001,-28.38755 153.40119,-28.39081 153.40123,-28.39094 153.40409,-28.39537 153.4044,-28.39585 153.4053,-28.39725 153.40553,-28.39761 153.40807,-28.40078 153.41087,-28.40203 153.41139,-28.40235 153.41175,-28.40328 153.41277,-28.4061 153.41378,-28.40723 153.41523,-28.40773 153.41544,-28.4078 153.41888,-28.40725 153.42067,-28.40737 153.42334,-28.40941 153.42342,-28.40953 153.42549,-28.41269 153.42638,-28.41438 153.42643,-28.41474 153.42688,-28.41766 153.42864,-28.42139 153.42837,-28.42545 153.42871,-28.42659</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="996c4852-de71-4d6c-8de8-2152cf4e6013">
+<description>NAME: CASINO MURWILLUMBAH RAILWAY                       <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:         154<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: tunnel_rl_l <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         153<br/>G5615RLD_:         154<br/>LENGTH:  8.05310827517960806E-03<br/>UFI: BB09908046<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b07a9029-6086-4e46-9e27-3793849f2063">
+<coordinates>153.42871,-28.42659 153.4324,-28.43333 153.43263,-28.43362</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="6dda1263-9e00-4a6a-8ef0-cc385bdd5832">
+<description>NAME: CASINO MURWILLUMBAH RAILWAY                       <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         154<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         155<br/>G5615RLD_:         155<br/>LENGTH:  1.35980838832901907E-01<br/>UFI: BB09908047<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="2ee72bca-2f52-45ce-b679-0459194cda29">
+<coordinates>153.51872,-28.49252 153.51681,-28.48947 153.51402,-28.48698 153.51325,-28.48584 153.51281,-28.48229 153.51263,-28.48088 153.51187,-28.47975 153.5092,-28.47771 153.50565,-28.47105 153.50592,-28.46597 153.50454,-28.46111 153.50072,-28.45772 153.50009,-28.4567 153.50216,-28.44836 153.50051,-28.44565 153.49695,-28.44158 153.49415,-28.441 153.49066,-28.44161 153.48776,-28.44211 153.48432,-28.44165 153.48051,-28.43995 153.47706,-28.43633 153.47541,-28.4352 153.47375,-28.4344 153.4716,-28.43405 153.47155,-28.43405 153.46993,-28.43405 153.46609,-28.43528 153.46098,-28.43819 153.44935,-28.44165 153.44667,-28.44401 153.44552,-28.44446 153.43939,-28.44455 153.43659,-28.4433 153.43532,-28.4416 153.43355,-28.43483 153.43263,-28.43362</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="0dfb08f2-2777-4ba9-acbc-77c70a45000e">
+<description>NAME: CASINO MURWILLUMBAH RAILWAY                       <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56154  <br/>TNODE_:         156<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: tunnel_rl_l <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         155<br/>G5615RLD_:         156<br/>LENGTH:  2.30875558905272154E-03<br/>UFI: BB09908048<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="b69397a4-e836-4394-b8ca-b42550759b32">
+<coordinates>153.51872,-28.49252 153.5206,-28.49386</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="a9ee480c-535a-484e-ad8f-cf6562c6bd9c">
+<description>NAME: CASINO MURWILLUMBAH RAILWAY                       <br/>LPOLY_:           0<br/>RPOLY_:           0<br/>Q_INFO: G56151  <br/>TNODE_:         156<br/>G5615RLD_ID:           0<br/>STATUS: 1<br/>FEAT_CODE: railway     <br/>TRACKS: 1<br/>GAUGE: 1<br/>FNODE_:         157<br/>G5615RLD_:         157<br/>LENGTH:  8.74131984558593547E-03<br/>UFI: BB09908049<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<LineString id="0ec855c8-d478-4fc3-b8e4-771a4cbede51">
+<coordinates>153.52641,-28.5 153.52572,-28.49795 153.52445,-28.49659 153.5206,-28.49386</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

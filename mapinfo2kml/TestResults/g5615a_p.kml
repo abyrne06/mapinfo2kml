@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="57b30c7c-5d8a-4ad7-8200-a019fdf61c65">
+<Style id="mehrad">
+<PolyStyle id="5e925212-d9a8-453d-8273-0960087bf630">
+<color>ff7fff55</color>
+<fill>1</fill>
+</PolyStyle>
+</Style>
+<Placemark id="960fb6c5-0e67-4ccd-ab16-0eaa61cb76cf">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           1<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900001<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="96f39374-ee5d-4a4c-9862-0728772e2059">
+<coordinates>153.06443,-27.01548</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1e3a083b-b0d8-40e0-bb05-ff5cd25337e5">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           2<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900002<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="01310853-6eff-4849-b46d-a9a1cd4ba16f">
+<coordinates>153.05131,-27.04753</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5fa9935d-8e54-4172-9013-7821e73448dd">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           3<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900003<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="13c2c53e-2c1c-4a3e-bfff-ba7ef7acd0ec">
+<coordinates>153.3636,-27.13437</coordinates>
+</Point>
+</Placemark>
+<Placemark id="63299b0a-0df9-4513-87f0-f79e6e010406">
+<description>FEAT_CODE: aircrft_flty<br/>NAME: REDCLIFFE AIRPORT                                 <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56151  <br/>G5615ALD_:           4<br/>FACILITY: 1<br/>G5615ALD_ID:           0<br/>UFI: BB09900004<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e9fc904e-750f-463d-b934-25a13547ac0c">
+<coordinates>153.06888,-27.20617</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d17ef2c1-3ade-4a9e-991c-3a5fc0bc20d4">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           5<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900005<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c5b6006a-800e-423c-91f5-1f30db9acae1">
+<coordinates>153.42555,-27.34613</coordinates>
+</Point>
+</Placemark>
+<Placemark id="a773d0ff-d280-4d7d-bc03-5cea287d51cb">
+<description>FEAT_CODE: aircrft_flty<br/>NAME: BRISBANE AIRPORT                                  <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56151  <br/>G5615ALD_:           6<br/>FACILITY: 1<br/>G5615ALD_ID:           0<br/>UFI: BB09900006<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ce6b1c19-a319-4134-be80-de8ef310d7c2">
+<coordinates>153.11836,-27.38332</coordinates>
+</Point>
+</Placemark>
+<Placemark id="023f8e5e-fc6a-4acf-8b88-efd4bddb4ce4">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           7<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900007<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8e2ece95-22d9-456e-865d-e39e64e067cd">
+<coordinates>153.42734,-27.51937</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ba0b4f26-85ef-45d6-a97b-46edeb494aaa">
+<description>FEAT_CODE: aircrft_flty<br/>NAME: ARCHERFIELD AIRPORT                               <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56151  <br/>G5615ALD_:           8<br/>FACILITY: 1<br/>G5615ALD_ID:           0<br/>UFI: BB09900008<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d2233055-193c-4bbc-b3cb-344b9c9bba9d">
+<coordinates>153.00837,-27.56999</coordinates>
+</Point>
+</Placemark>
+<Placemark id="02e4d174-1b04-4af2-b403-a4d58dadb5c1">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:           9<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900009<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7889605d-98ff-4240-8a92-0230fe12acac">
+<coordinates>153.10967,-27.70632</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ebc00506-4487-4b80-9858-cb4a185d09ca">
+<description>FEAT_CODE: aircrft_flty<br/>NAME: SOUTHPORT AERODROME                               <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56151  <br/>G5615ALD_:          10<br/>FACILITY: 1<br/>G5615ALD_ID:           0<br/>UFI: BB09900011<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4c2a5c81-cd76-4cd0-8cb9-59526582ae8e">
+<coordinates>153.37184,-27.92244</coordinates>
+</Point>
+</Placemark>
+<Placemark id="404cd0b3-f567-4613-aa27-7cf3e7524c96">
+<description>FEAT_CODE: aircrft_flty<br/>NAME: COOLANGATTA AIRPORT                               <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56151  <br/>G5615ALD_:          11<br/>FACILITY: 1<br/>G5615ALD_ID:           0<br/>UFI: BB09900012<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c132af04-dfad-43d0-910a-c8593a9e54b5">
+<coordinates>153.50503,-28.16499</coordinates>
+</Point>
+</Placemark>
+<Placemark id="88b8afa9-6477-4fe1-963f-605e4a5e8945">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:          12<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900013<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="a0400327-72f6-4301-aae4-fce45f4dfcd5">
+<coordinates>153.32718,-28.29416</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6d090f7a-e698-41ef-826a-6c4c796c08ca">
+<description>FEAT_CODE: aircrft_flty<br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>Q_INFO: G56154  <br/>G5615ALD_:          13<br/>FACILITY: 2<br/>G5615ALD_ID:           0<br/>UFI: BB09900014<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="11010f87-6670-421b-bccc-35f9aea4cfa8">
+<coordinates>153.41295,-28.33147</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

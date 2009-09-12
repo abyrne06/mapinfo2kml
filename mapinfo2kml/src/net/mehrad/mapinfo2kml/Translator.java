@@ -9,9 +9,13 @@ import net.mehrad.mapinfo2kml.exception.ParserException;
 import net.mehrad.mapinfo2kml.exception.ValidationException;
 import net.mehrad.mapinfo2kml.mif.MifCoordinate;
 import net.mehrad.mapinfo2kml.mif.MifData;
+import net.mehrad.mapinfo2kml.mif.MifLine;
 import net.mehrad.mapinfo2kml.mif.MifModel;
+import net.mehrad.mapinfo2kml.mif.MifPLine;
 import net.mehrad.mapinfo2kml.mif.MifPoint;
+import net.mehrad.mapinfo2kml.mif.MifRectangle;
 import net.mehrad.mapinfo2kml.mif.MifRegion;
+import net.mehrad.mapinfo2kml.mif.MifText;
 import net.mehrad.mapinfo2kml.parser.MapinfoParser;
 import net.mehrad.mapinfo2kml.parser.XlsParser;
 import net.mehrad.mapinfo2kml.validator.MidValidator;
@@ -22,6 +26,7 @@ import net.mehrad.mapinfo2kml.xls.XlsModel;
 import org.boehn.kmlframework.kml.Document;
 import org.boehn.kmlframework.kml.Feature;
 import org.boehn.kmlframework.kml.Kml;
+import org.boehn.kmlframework.kml.LineString;
 import org.boehn.kmlframework.kml.LinearRing;
 import org.boehn.kmlframework.kml.Placemark;
 import org.boehn.kmlframework.kml.Point;
@@ -116,24 +121,158 @@ public class Translator {
 		for (MifData mifData : mifModel.getMifDatas()) {
 			
 			if (mifData instanceof MifRegion) {
-				Placemark placeMarkForRegion = getPlaceMarkForRegion((MifRegion) mifData);
+				Placemark placeMarkForRegion = getPlaceMarkForMifRegion((MifRegion) mifData);
 				placeMarkForRegion.setStyleUrl("#mehrad");
 				document.addFeature(placeMarkForRegion);
 			}
 			else if (mifData instanceof MifPoint) {
-				Feature placeMarkForPoint = getPlaceMarkForPoint((MifPoint) mifData);
+				Feature placeMarkForPoint = getPlaceMarkForMifPoint((MifPoint) mifData);
 				placeMarkForPoint.setStyleUrl("#mehrad");
 				document.addFeature(placeMarkForPoint);
 			}
+			else if (mifData instanceof MifLine) {
+				Feature placeMarkForLine = getPlaceMarkForMifLine((MifLine) mifData);
+				placeMarkForLine.setStyleUrl("#mehrad");
+				document.addFeature(placeMarkForLine);
+			}
+			else if (mifData instanceof MifPLine) { // it should handle multi-section Pline by creating more than one LineStrings
+				for(Feature feature:getPlaceMarkForMifPLine((MifPLine) mifData))
+				{
+					feature.setStyleUrl("#mehrad");
+					document.addFeature(feature);
+				}
+			}
+			else if (mifData instanceof MifRectangle) { // it handles both MifRectangle and MifRoundRectangle 
+				Feature placeMarkForRectangle = getPlaceMarkForMifRectangle((MifRectangle) mifData);
+				placeMarkForRectangle.setStyleUrl("#mehrad");
+				document.addFeature(placeMarkForRectangle);
+			}
+			else if (mifData instanceof MifText) {  
+				Feature placeMarkForText = getPlaceMarkForMifRText((MifText) mifData);
+				placeMarkForText.setStyleUrl("#mehrad");
+				document.addFeature(placeMarkForText);
+			}
+
+
 
 		}
 
 		return kml;
 	}
 
-	//TODO: pass the text
-	private Feature getPlaceMarkForPoint(MifPoint mifData) {
-		throw new UnsupportedOperationException("Method not implemented");
+	/**
+	 * creates a PlaceMark with text which come from MifText.getText. this placemark
+	 * will be positioned in the middle of the rectangle that presents MifText boundaries.
+	 * @param mifData
+	 * @return
+	 */
+	private Feature getPlaceMarkForMifRText(MifText mifData) {
+		Point center=new Point();
+		Double centerX=(mifData.getCoordinate1().getX()+mifData.getCoordinate2().getX())/2;
+		Double centerY=(mifData.getCoordinate1().getY()+mifData.getCoordinate2().getY())/2;
+		center.setLongitude(centerX);
+		center.setLatitude(centerY);
+		
+		Placemark ifi = new Placemark(mifData.getText());
+		ifi.setDescription(getPresentableDescription(mifData));
+		ifi.setGeometry(center);
+		return ifi;
+
+	}
+
+	/**
+	 * cerates a Rectangle with LineString base on MifRectangle Model
+	 * @param mifData
+	 * @return
+	 */
+	private Feature getPlaceMarkForMifRectangle(MifRectangle mifData) {
+
+		Placemark ifi = new Placemark(getPresentableTitle(mifData));
+		ifi.setDescription(getPresentableDescription(mifData));
+
+		List<Point> points=new ArrayList<Point>();
+		Point UL=convertToPoint(mifData.getCoordinate1());
+		Point DR=convertToPoint(mifData.getCoordinate2());
+		
+		Point UR=new Point();
+		UR.setLongitude(DR.getLongitude());
+		UR.setLatitude(UL.getLatitude());
+		Point DL=new Point();
+		DL.setLongitude(UL.getLongitude());
+		DL.setLatitude(DR.getLatitude());
+		
+		points.add(UL);
+		points.add(UR);
+		points.add(DR);
+		points.add(DL);
+		points.add(UL);
+		
+		LineString lineString=new LineString();
+		lineString.setCoordinates(points);
+		ifi.setGeometry(lineString);
+		return ifi;
+
+	}
+
+	/**
+	 * creates a List of LineStrings based on a multi/single-section MifPline Model
+	 * @param mifPLine
+	 * @return
+	 */
+	private List<? extends Feature> getPlaceMarkForMifPLine(MifPLine mifPLine) {
+
+		List<Placemark> ifis=new ArrayList<Placemark>();
+		for (List<MifCoordinate> section : mifPLine.getSections()) {
+
+			Placemark ifi = new Placemark(getPresentableTitle(mifPLine));
+			ifi.setDescription(getPresentableDescription(mifPLine));
+
+			List<Point> points = new ArrayList<Point>();
+			for (MifCoordinate mifCoordinate : section) {
+				points.add(convertToPoint(mifCoordinate));
+			}
+
+			LineString lineString=new LineString();
+			lineString.setCoordinates(points);
+			ifi.setGeometry(lineString);
+			ifis.add(ifi);
+			
+		}
+
+		return ifis;
+	}
+
+	/**
+	 * creates a LineString(for KML) based on MifLine Model
+	 * @param mifLine
+	 * @return
+	 */
+	private Feature getPlaceMarkForMifLine(MifLine mifLine) {
+		Placemark ifi = new Placemark(getPresentableTitle(mifLine));
+		ifi.setDescription(getPresentableDescription(mifLine));
+
+		List<Point> points=new ArrayList<Point>();
+		Point start=convertToPoint(mifLine.getCoordinate1());
+		Point end=convertToPoint(mifLine.getCoordinate2());
+		points.add(start);
+		points.add(end);
+		
+		LineString lineString=new LineString();
+		lineString.setCoordinates(points);
+		ifi.setGeometry(lineString);
+		return ifi;
+	}
+
+	/**
+	 * creates a placemark from MifPoint model
+	 * @param mifPoint
+	 * @return
+	 */
+	private Feature getPlaceMarkForMifPoint(MifPoint mifPoint) {
+		Placemark ifi = new Placemark(getPresentableTitle(mifPoint));
+		ifi.setDescription(getPresentableDescription(mifPoint));
+		ifi.setGeometry(convertToPoint(mifPoint.getCoordinate()));
+		return ifi;
 	}
 
 	/**
@@ -141,18 +280,15 @@ public class Translator {
 	 * @param mifRegion
 	 * @return
 	 */
-	private Placemark getPlaceMarkForRegion(MifRegion mifRegion)
+	private Placemark getPlaceMarkForMifRegion(MifRegion mifRegion)
 	{
-		Placemark ifi = new Placemark();
+		Placemark ifi = new Placemark(getPresentableTitle(mifRegion));
 		ifi.setDescription(getPresentableDescription(mifRegion));
 		for (List<MifCoordinate> region : mifRegion.getRegions()) {
 
 			List<Point> points = new ArrayList<Point>();
 			for (MifCoordinate mifCoordinate : region) {
-				Point point = new Point();
-				point.setLongitude(mifCoordinate.getX());
-				point.setLatitude(mifCoordinate.getY());
-				points.add(point);
+				points.add(convertToPoint(mifCoordinate));
 			}
 
 			LinearRing linearRing = new LinearRing();
@@ -165,7 +301,26 @@ public class Translator {
 		return ifi;
 		
 	}
-	
+
+	/**
+	 * creates a Point(for KML) based on MifCoordinateModel
+	 * @param mifCoordinate
+	 * @return
+	 */
+	private Point convertToPoint(MifCoordinate mifCoordinate)
+	{
+		Point point=new Point();
+		point.setLongitude(mifCoordinate.getX());
+		point.setLatitude(mifCoordinate.getY());
+		return point;
+		
+	}
+
+
+	//TODO: implements this
+	private String getPresentableTitle(MifData mifData) {
+		return null;
+	}
 
 	/**
 	 * validation workflow:

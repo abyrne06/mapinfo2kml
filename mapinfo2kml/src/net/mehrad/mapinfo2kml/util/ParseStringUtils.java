@@ -12,7 +12,7 @@ public class ParseStringUtils {
 	 */
 	public static String getStringPart(String originalString,int partIndex,boolean isText)
 	{
-		String delim=isText?" \t":" ,\t";
+		String delim=isText?" \t":" ,\t";//TODO: text can have space and this fucks the text
 		StringTokenizer stringTokenizer=new StringTokenizer(originalString, delim);
 		for(int i=1;i<partIndex;i++)
 			stringTokenizer.nextToken();

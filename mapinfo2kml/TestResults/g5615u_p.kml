@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="b81010fc-049d-491b-baaa-5fed964ef648">
+<Style id="mehrad">
+<PolyStyle id="107af3c8-4f1d-4386-a530-526df783cae3">
+<color>ff7fff55</color>
+<fill>1</fill>
+</PolyStyle>
+</Style>
+<Placemark id="0751292a-12c6-4837-b880-0dddaa027319">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           1<br/>UFI: BB09908152<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="70177668-d824-4081-9974-04c1a19ee8ae">
+<coordinates>153.02387,-27.0316</coordinates>
+</Point>
+</Placemark>
+<Placemark id="296cf08e-0f9a-46b0-8bca-afb966da6608">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           2<br/>UFI: BB09908153<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d0d30455-0ef0-4dca-93b3-82728470a4c8">
+<coordinates>153.18225,-27.05228</coordinates>
+</Point>
+</Placemark>
+<Placemark id="e8a3ac15-1cb1-4856-8434-c753e44c1314">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           3<br/>UFI: BB09908156<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c94b1a95-5d59-4377-8da6-07877f003b62">
+<coordinates>153.08026,-27.08718</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8a1ba107-6c7d-400b-9a30-32f944e54d50">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           4<br/>UFI: BB09908157<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1cf7777a-a113-437a-81d5-305edf40212f">
+<coordinates>153.04849,-27.10812</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5ec6dc4c-b46e-458d-b00d-843c980d91b3">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           5<br/>UFI: BB09908158<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4581eccf-8186-4187-aea2-a8596f0c40a1">
+<coordinates>153.01772,-27.15886</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c1e9151d-a57b-46c2-a725-2f9fbd611640">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           6<br/>UFI: BB09908159<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="cc195b52-d65e-4d67-a40f-53186a9241ed">
+<coordinates>153.00408,-27.189</coordinates>
+</Point>
+</Placemark>
+<Placemark id="57a5641a-7634-43c1-b20a-27fa46167781">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           7<br/>UFI: BB09908161<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="0959190a-4a70-46f9-96a6-530fcf6e6c55">
+<coordinates>153.01115,-27.28931</coordinates>
+</Point>
+</Placemark>
+<Placemark id="07d87343-22a1-429b-b734-cfa6ca768a40">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           8<br/>UFI: BB09908162<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="82fb0c93-acf6-49be-abe3-c6fc80dbb179">
+<coordinates>153.01505,-27.29558</coordinates>
+</Point>
+</Placemark>
+<Placemark id="aa7b1ad7-5637-4a8a-a86e-ed2694569505">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:           9<br/>UFI: BB09908166<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e889d78f-f6d8-43f9-aa2d-317bf5c43d59">
+<coordinates>153.00508,-27.38096</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8a02f80d-ef7e-4a22-bc75-4b46711f7df0">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          10<br/>UFI: BB09908169<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="085e768f-4aec-4129-89ca-7b4aae4a1599">
+<coordinates>153.14665,-27.39722</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7b081cfc-e16a-4a38-8f76-fb00cea22cfc">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          11<br/>UFI: BB09908170<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="51277c61-7f93-4a06-a161-081b28f8b8e1">
+<coordinates>153.14544,-27.39902</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7509a015-2466-4386-a321-17e0b8a20c7f">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          12<br/>UFI: BB09908171<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d7ef39b1-4ec5-456e-8815-d427c1236dd0">
+<coordinates>153.14407,-27.40124</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3d86316d-20dd-4ba2-8425-4c8651ab355d">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          13<br/>UFI: BB09908172<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e8ecb0b5-7909-4533-a5d2-12e9a187f6c2">
+<coordinates>153.14217,-27.40184</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f5c26dd0-e675-4386-bf1d-0b64fde97b56">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          14<br/>UFI: BB09908173<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d0882cba-c9e4-40b9-9808-5c29bca2d35f">
+<coordinates>153.14163,-27.40354</coordinates>
+</Point>
+</Placemark>
+<Placemark id="188b0ffc-6caa-4afc-a97c-2e72d159eabc">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          15<br/>UFI: BB09908174<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="035f7e33-e846-4f2c-b566-0e46b8ffd2b7">
+<coordinates>153.16013,-27.4049</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ed305d0e-bd5d-4382-bb07-ac979c962350">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          16<br/>UFI: BB09908175<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bd2f0f44-052c-400e-8b63-150994e6ecfd">
+<coordinates>153.16015,-27.40721</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5607c2f5-8906-4ab5-99c5-5710c8ade410">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          17<br/>UFI: BB09908176<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="31eb320f-6fd9-4330-9e8c-5c78bce1a01a">
+<coordinates>153.1597,-27.4099</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3da99ccf-b6f2-4be5-b202-46d72e2c5fec">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          18<br/>UFI: BB09908177<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bced1424-c2f7-4064-a795-518c75529312">
+<coordinates>153.15453,-27.4103</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5c499644-5323-475b-9686-5fc6704dadae">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          19<br/>UFI: BB09908178<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="771f9f88-6267-4e3b-be23-daa2bef61934">
+<coordinates>153.16161,-27.41239</coordinates>
+</Point>
+</Placemark>
+<Placemark id="54502f77-9054-41a0-9363-fb196bd38543">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          20<br/>UFI: BB09908179<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="56213fe8-b263-497e-b4ef-ae12e53631f0">
+<coordinates>153.15749,-27.4124</coordinates>
+</Point>
+</Placemark>
+<Placemark id="a061dd2a-7a5f-4584-ad05-b9ff496c7015">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          21<br/>UFI: BB09908180<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3b1dee62-b627-4e80-9358-5ecde750b36d">
+<coordinates>153.15949,-27.41243</coordinates>
+</Point>
+</Placemark>
+<Placemark id="054f8d0c-38d1-41c9-ba6e-ad24f9cecb35">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          22<br/>UFI: BB09908181<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="628a226d-9e61-410f-bfed-f2e26514ee65">
+<coordinates>153.15542,-27.41249</coordinates>
+</Point>
+</Placemark>
+<Placemark id="23f5d32e-60a8-41cf-acd9-df182251ed42">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          23<br/>UFI: BB09908182<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="0132ba0f-dec4-465b-a503-21cfb42b0b1b">
+<coordinates>153.45556,-27.41235</coordinates>
+</Point>
+</Placemark>
+<Placemark id="432f3143-ff11-42eb-b57a-9df002922d2a">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          24<br/>UFI: BB09908183<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1f34ea07-24e5-4097-9467-d220ba248b5b">
+<coordinates>153.16553,-27.41404</coordinates>
+</Point>
+</Placemark>
+<Placemark id="bc8b9bd1-4519-404a-8316-c766f0330ff4">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          25<br/>UFI: BB09908184<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="0366cb73-a680-48bd-89a5-c76b648ef712">
+<coordinates>153.15863,-27.41451</coordinates>
+</Point>
+</Placemark>
+<Placemark id="62e2c0ca-1f62-446d-94ae-6b87c6600618">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          26<br/>UFI: BB09908185<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2158a46d-1640-43f3-a808-ce47ed7d7593">
+<coordinates>153.15877,-27.41693</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5be7c033-e818-4c04-bc01-e30554ff5886">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          27<br/>UFI: BB09908186<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3c99adc9-fedb-4e19-affe-b1563d6b33e5">
+<coordinates>153.15891,-27.41971</coordinates>
+</Point>
+</Placemark>
+<Placemark id="875db95a-c238-4578-b05e-8f312ea2b550">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          28<br/>UFI: BB09908187<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="770902f6-c391-4cd7-8324-21df29d705e9">
+<coordinates>153.16137,-27.42031</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f314edbd-bdcd-4ac4-9239-ac137b4ce59d">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          29<br/>UFI: BB09908188<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d70245e7-3973-4c6d-8c28-78977f01bf07">
+<coordinates>153.15903,-27.42179</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5d36830f-dc00-4464-9194-34e66203aaaa">
+<description>FEAT_CODE: stor_tank_p <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          30<br/>UFI: BB09908189<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c74fb07b-e6d6-4188-9be9-67ffcf907977">
+<coordinates>153.16119,-27.42193</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0a0803ff-cf74-430e-9ec4-66a5112d256e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          31<br/>UFI: BB09908190<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="77c22595-5cc1-493f-ab6a-c2ba4310f88d">
+<coordinates>153.45351,-27.42482</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d7afc9fc-1200-42ab-b0c6-35b8307590c2">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          32<br/>UFI: BB09908191<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="618839d2-7156-4534-a1f1-73237a4afbd9">
+<coordinates>153.53824,-27.42636</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b3039828-465b-4f75-bfaf-5c7441edbcbf">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          33<br/>UFI: BB09908192<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="52c33b0c-eae1-4b2e-9d18-b7eb59a19bb5">
+<coordinates>153.50482,-27.43056</coordinates>
+</Point>
+</Placemark>
+<Placemark id="de89b44a-7ae8-4ef5-a532-a677d3cdc23d">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          34<br/>UFI: BB09908193<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="88e76d91-a0c8-4b6e-ae24-6b64fa615053">
+<coordinates>153.44152,-27.4391</coordinates>
+</Point>
+</Placemark>
+<Placemark id="007bd6d0-faa2-4d81-bddf-35330200ee52">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          35<br/>UFI: BB09908194<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="26d79502-a737-4dbb-84f0-4a59de1553f3">
+<coordinates>153.52827,-27.44323</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6463c595-1e5c-4e77-81e4-c49a30595f76">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          36<br/>UFI: BB09908199<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="98a29837-3399-4319-ac8c-131609147365">
+<coordinates>153.52342,-27.45774</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6b2335ae-734c-46f7-859d-2e4c0d167184">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          37<br/>UFI: BB09908200<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4b37a436-3956-4dcb-b4d4-92606b976c41">
+<coordinates>153.51755,-27.46076</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1a5e1ce6-482e-4efd-ad0d-bd3368999b8c">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          38<br/>UFI: BB09908202<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7fd8e283-b43c-4a49-a516-9254c42f499f">
+<coordinates>153.14177,-27.4664</coordinates>
+</Point>
+</Placemark>
+<Placemark id="71fb148e-b11c-4a75-807e-aed058ccbeb7">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          39<br/>UFI: BB09908203<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="5b4a31d8-4e81-4ebb-9153-585404b728aa">
+<coordinates>153.43683,-27.46777</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b3ec4b7f-63b2-402c-973c-b80050e7d748">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:          14<br/>G5615ULD_:          40<br/>UFI: BB09908204<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3de206e8-7828-4c65-8510-91db428d2c80">
+<coordinates>153.11461,-27.47092</coordinates>
+</Point>
+</Placemark>
+<Placemark id="598c4c75-241a-453e-b190-f53cc6247dbc">
+<description>FEAT_CODE: mine        <br/>NAME: YARRAMAN MINE                                     <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          41<br/>UFI: BB09908205<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b4fa0317-b0dd-4944-9466-98469507a8e1">
+<coordinates>153.49113,-27.47227</coordinates>
+</Point>
+</Placemark>
+<Placemark id="09c8e58f-9342-4736-af5c-208c9e8e212c">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          42<br/>UFI: BB09908207<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9129a4b2-ba1f-4ec4-ac96-9a090cb4b1a7">
+<coordinates>153.41876,-27.50087</coordinates>
+</Point>
+</Placemark>
+<Placemark id="885f3c5b-c95a-4ca0-b787-940c3add1dab">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          43<br/>UFI: BB09908209<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="496923a1-5090-4e64-9d5f-b61aba77fc8f">
+<coordinates>153.12197,-27.50519</coordinates>
+</Point>
+</Placemark>
+<Placemark id="936c6456-f675-4f49-8497-27214cd6e37c">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          44<br/>UFI: BB09908211<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3f8468b6-0087-4906-8288-fc40e10b0c46">
+<coordinates>153.11629,-27.50808</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9283a24e-903a-4a70-8663-121507ffc2b5">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          45<br/>UFI: BB09908212<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="fcf8c42c-e7f9-4b94-9c17-804e67f6eb1a">
+<coordinates>153.04295,-27.51165</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0825c90b-da79-4fb3-b681-8e250243c731">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          46<br/>UFI: BB09908213<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b500ad5b-cf72-4b58-8428-725e426e7b21">
+<coordinates>153.08725,-27.51425</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5977b7ff-e767-4c3e-b1b3-4da5e9828489">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          47<br/>UFI: BB09908214<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="346f404e-5cc8-44df-9aa9-900b2c9b585e">
+<coordinates>153.08867,-27.51902</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5c7b1761-301c-432f-b35f-acd62783a8fb">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          48<br/>UFI: BB09908215<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="12efa18a-eaaa-4598-af8b-fbacbee0696d">
+<coordinates>153.13027,-27.52288</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ccbd9f7f-0fa3-42d2-972c-90ef4af3816e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          49<br/>UFI: BB09908216<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="27df4fa9-b6fc-47ee-8a88-15dcdeeed464">
+<coordinates>153.21666,-27.54093</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ed95017c-70e5-40d6-adaa-6b736136ddb4">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          50<br/>UFI: BB09908218<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b206e387-cce2-4ddd-af4b-03a0967dc991">
+<coordinates>153.24339,-27.55014</coordinates>
+</Point>
+</Placemark>
+<Placemark id="a80781f8-8b7d-4fe9-8d58-52d20769c69f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          51<br/>UFI: BB09908220<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4b5def98-45d2-4f03-b72d-97d300a9b6bc">
+<coordinates>153.11678,-27.55767</coordinates>
+</Point>
+</Placemark>
+<Placemark id="eba511e8-d09b-4d25-bdab-0ac4b907b09e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          52<br/>UFI: BB09908221<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="74a76287-2b1a-4e55-8feb-f59c1f94e723">
+<coordinates>153.22116,-27.57606</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c259e34b-5502-4a08-b8de-f3dbcb240bf2">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          53<br/>UFI: BB09908223<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b803b4a1-2e2d-4337-ab08-2f63dda6d259">
+<coordinates>153.0033,-27.58216</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ae27c43e-cf7d-4994-a2ba-bbaf96ee7121">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          54<br/>UFI: BB09908224<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="676ef9f4-209a-43a6-993e-5180b347b1b9">
+<coordinates>153.0125,-27.59435</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b46d6936-ac2e-4172-b083-f929338e706e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          55<br/>UFI: BB09908225<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b9a31d8d-978a-4b3a-88aa-070281a4f36a">
+<coordinates>153.02183,-27.60316</coordinates>
+</Point>
+</Placemark>
+<Placemark id="80ef140b-9e47-4836-8582-3f66111815b5">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          56<br/>UFI: BB09908226<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="afcf76a3-6aba-413f-97b7-58b6c5ebf341">
+<coordinates>153.35612,-27.60362</coordinates>
+</Point>
+</Placemark>
+<Placemark id="fb67f946-87f1-45c9-9314-86e6bb785e49">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          57<br/>UFI: BB09908227<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="a4e276be-4325-4b65-a813-ee8e09379da7">
+<coordinates>153.19804,-27.6074</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f1c75606-8bda-45a5-b28f-b457f608b9f2">
+<description>FEAT_CODE: mine        <br/>NAME: IBIS MINE                                         <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          58<br/>UFI: BB09908228<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="83e5403c-0361-4729-8e62-b4107fa34e14">
+<coordinates>153.4185,-27.60694</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ee315fd7-be43-4107-9b29-d729e5b84506">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          59<br/>UFI: BB09908229<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e2030efc-4bab-4ece-9abe-4edcae3c7735">
+<coordinates>153.19316,-27.60857</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b4639406-d5fa-4e2f-a229-1edf2342f5d3">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          60<br/>UFI: BB09908230<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="79a27750-f3f3-45f4-9db8-0163ec149e4d">
+<coordinates>153.36854,-27.60838</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5b6ab667-c833-4afa-8635-bac786ee3701">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          61<br/>UFI: BB09908231<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="242767e7-b2e0-48ee-98c7-5a9bcb9a1d26">
+<coordinates>153.28351,-27.61683</coordinates>
+</Point>
+</Placemark>
+<Placemark id="bef5c4ed-3ee0-40aa-bc0f-73b8754956b9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          62<br/>UFI: BB09908232<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3e260f63-2939-410c-9787-a0ec92a5f742">
+<coordinates>153.17665,-27.62103</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8bbc4023-d53a-414f-81a0-4aff483916c9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          63<br/>UFI: BB09908235<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ff7d8b88-1b97-48f4-b589-344b7e66f560">
+<coordinates>153.076,-27.62647</coordinates>
+</Point>
+</Placemark>
+<Placemark id="62e73675-1e98-4b54-8130-b014723ab01d">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          64<br/>UFI: BB09908236<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="a3a7679c-5a72-4a0e-88ed-8434a8df1938">
+<coordinates>153.06771,-27.62788</coordinates>
+</Point>
+</Placemark>
+<Placemark id="051bd4c4-6f61-4f19-b230-724d14d56891">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          65<br/>UFI: BB09908237<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="18b0db9b-f3f0-4045-a9d3-d5235f151ca5">
+<coordinates>153.07163,-27.62933</coordinates>
+</Point>
+</Placemark>
+<Placemark id="085d908f-280b-44c9-8b5d-8c3a0e6db623">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          66<br/>UFI: BB09908238<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="84b24dc1-446f-4158-8e29-5b912093f9ae">
+<coordinates>153.06226,-27.63209</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0a5d6cc9-1f3f-45a5-969f-e1439e617b23">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          67<br/>UFI: BB09908239<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c9e29cf0-7f4f-4301-84cd-5456fcb66f0d">
+<coordinates>153.2709,-27.63203</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c66ab57e-b271-4fec-8934-16bb4d6932fe">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          68<br/>UFI: BB09908240<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1a6e9736-6260-41d6-b8e0-abe9437692c2">
+<coordinates>153.00764,-27.6326</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3b99a2f4-043a-449f-bbb7-a1ef87d440fe">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          69<br/>UFI: BB09908241<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f742ccc5-d62d-4d96-8146-4f65b1aec325">
+<coordinates>153.22949,-27.63661</coordinates>
+</Point>
+</Placemark>
+<Placemark id="245097dc-cf3d-463b-87d5-0930a13b1d88">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          70<br/>UFI: BB09908242<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="791689c9-59d2-4c81-b82b-ecaadc5370f3">
+<coordinates>153.42272,-27.64429</coordinates>
+</Point>
+</Placemark>
+<Placemark id="173e36d5-f293-48be-bbfa-4c891fe940f1">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          71<br/>UFI: BB09908243<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="5e97d9b8-a8d4-4b71-936f-bba618b875cb">
+<coordinates>153.00153,-27.64615</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9255020f-5621-4fec-8ca7-e19b06e0a33e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          72<br/>UFI: BB09908244<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9f02f91c-344d-4546-8f93-80cf9ea14fe8">
+<coordinates>153.05744,-27.65016</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8a619830-14a3-4e17-855f-f14b9c4709a2">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          73<br/>UFI: BB09908245<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e40039cd-97c4-470c-b7b7-0489a6e42f4c">
+<coordinates>153.06826,-27.65792</coordinates>
+</Point>
+</Placemark>
+<Placemark id="55a6bf2d-e228-4d45-9826-740088e19519">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          74<br/>UFI: BB09908246<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="34b98f79-849e-4318-8279-0d5def700ca6">
+<coordinates>153.08206,-27.65955</coordinates>
+</Point>
+</Placemark>
+<Placemark id="cf30d65b-f9c0-405b-b4eb-983140099a64">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          75<br/>UFI: BB09908247<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f695fbe6-36f1-42df-8ab7-ad6f73700206">
+<coordinates>153.11416,-27.66342</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3b246c58-a8b3-4bb0-b47b-a342a8e5cbe5">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          76<br/>UFI: BB09908248<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="98fc9614-bd4a-4c34-a3cb-28a2892c231d">
+<coordinates>153.21164,-27.66718</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0c673e2f-dbcd-4674-8d80-902270795c58">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          77<br/>UFI: BB09908249<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="063d35f5-4861-438e-b611-6faf16f955a8">
+<coordinates>153.38837,-27.67269</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9c58b451-ed38-4c00-b862-a4b411fe089e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          78<br/>UFI: BB09908250<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8b730451-5d16-48cb-8d72-bfa48abb73da">
+<coordinates>153.06161,-27.67362</coordinates>
+</Point>
+</Placemark>
+<Placemark id="fc78ae2e-7df8-45ab-b6a8-727e2401b192">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          79<br/>UFI: BB09908251<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="fcc0fdad-63fe-47a6-9aea-2303fae2db7e">
+<coordinates>153.4396,-27.67354</coordinates>
+</Point>
+</Placemark>
+<Placemark id="49c6a1d1-9acf-4905-ad32-867e5cf0380c">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          80<br/>UFI: BB09908252<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9f20bc47-721a-488e-a58d-df0ae38b393a">
+<coordinates>153.11715,-27.67596</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9d2274a6-c971-4e93-8259-6c9c40ac7282">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          81<br/>UFI: BB09908253<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="cca29f03-0be9-41a8-8bc4-b1f0ae0af33d">
+<coordinates>153.25056,-27.68161</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1539b8f8-6e0f-4e81-9ebd-5fd56730f991">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          82<br/>UFI: BB09908254<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2ee7b5e2-e614-4311-b7dc-8358e38d6c69">
+<coordinates>153.3001,-27.68906</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b0145e08-6ff5-4fca-a580-658ef83bdb20">
+<description>FEAT_CODE: mine        <br/>NAME: GORDON MINE                                       <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          83<br/>UFI: BB09908255<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="05371917-6db9-4676-bab9-b180c8168aa1">
+<coordinates>153.41184,-27.69476</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f6c46a9c-50ca-413c-9e03-653d16d10243">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          84<br/>UFI: BB09908256<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="454a4528-5602-45c4-a177-f1948913064d">
+<coordinates>153.24677,-27.71459</coordinates>
+</Point>
+</Placemark>
+<Placemark id="691a70bd-0eac-43af-ad6d-451710a63e13">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          85<br/>UFI: BB09908257<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="fbce4d3f-fa72-45ed-9467-3a55ad9a8a8b">
+<coordinates>153.23751,-27.71596</coordinates>
+</Point>
+</Placemark>
+<Placemark id="eecd3db8-19b8-4042-b21f-6bb6ede91e22">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          86<br/>UFI: BB09908258<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3e166f61-d36e-44ad-91a3-8118a6a0d556">
+<coordinates>153.32224,-27.71863</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9750fbac-3a83-4f45-975b-fc11e0dde8f9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          87<br/>UFI: BB09908259<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ede280e9-4b7d-40fa-b8be-35e7508efbe3">
+<coordinates>153.24317,-27.71947</coordinates>
+</Point>
+</Placemark>
+<Placemark id="23d665ce-0f71-4615-a4cf-4c0a640a05cc">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          88<br/>UFI: BB09908261<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8a560afc-ec13-4d60-9431-00f40956a45f">
+<coordinates>153.25314,-27.73856</coordinates>
+</Point>
+</Placemark>
+<Placemark id="73ec9f7b-7442-4939-9058-4e132e89cb60">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          89<br/>UFI: BB09908262<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b913845d-fd51-4a77-9de3-fb75b71f7565">
+<coordinates>153.12212,-27.76985</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ed7345c9-aac3-41cd-ad8c-662d8761a031">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          90<br/>UFI: BB09908264<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bac77613-3ef3-44a7-9f35-d91580ece48d">
+<coordinates>153.33723,-27.77497</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d1efa6a9-0a02-4eda-b43c-459565a94559">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          91<br/>UFI: BB09908265<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1b40d571-eee8-409e-bd32-782f02ded4c4">
+<coordinates>153.25499,-27.777</coordinates>
+</Point>
+</Placemark>
+<Placemark id="dba16348-20be-43e0-a44f-d56bbab065d2">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          92<br/>UFI: BB09908266<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f6a70fcd-0f72-4d53-9a7c-7ded03a6beba">
+<coordinates>153.13247,-27.7774</coordinates>
+</Point>
+</Placemark>
+<Placemark id="cb4c454e-bdbd-4fa6-8e1f-e4a38e1db65a">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          93<br/>UFI: BB09908267<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="264036c3-b513-44c5-a8cc-31e7ae264ead">
+<coordinates>153.22596,-27.78664</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ea9703b2-5947-49d0-923a-2ceb6547977b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          94<br/>UFI: BB09908268<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9c63c4dd-6295-41bc-b840-ff2019b98d0e">
+<coordinates>153.19972,-27.78949</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2420df61-c0c4-43ab-add7-8704fa025b13">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          95<br/>UFI: BB09908269<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e46e7852-f04c-4e4e-908b-0cc999a4ecbe">
+<coordinates>153.29899,-27.7924</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c5032efc-9f90-4242-8747-043c9c15dc25">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          96<br/>UFI: BB09908270<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bcfcf97b-8291-4baa-91b3-2827d1dc527c">
+<coordinates>153.20988,-27.79311</coordinates>
+</Point>
+</Placemark>
+<Placemark id="72f9f7dc-3553-4f87-9bb9-1b31d9fe7300">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          97<br/>UFI: BB09908272<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e9d2b68e-436f-4d0e-bb3a-8f8aff135a5a">
+<coordinates>153.24862,-27.80422</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2fe62982-5e84-4e85-88aa-a6a4c3af7681">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          98<br/>UFI: BB09908273<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f4df00dd-116c-4f4c-a924-028b76746f20">
+<coordinates>153.28597,-27.81211</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3e716322-e2ab-410a-a359-d93c947c411b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:          99<br/>UFI: BB09908274<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="208d945f-f743-4a0b-a96f-7de01a1e5942">
+<coordinates>153.18319,-27.81331</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7938595d-a85d-4601-8bbd-bf3d1afaeab4">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         100<br/>UFI: BB09908275<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7a68d6d3-8662-4d9f-9af1-01b821622ca2">
+<coordinates>153.02341,-27.81832</coordinates>
+</Point>
+</Placemark>
+<Placemark id="bd205f3d-f34a-4a74-b6e6-93f2e2f9dec7">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         101<br/>UFI: BB09908276<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ff6c8a90-7534-476d-94a6-0284eb7c0dc7">
+<coordinates>153.21953,-27.82182</coordinates>
+</Point>
+</Placemark>
+<Placemark id="cd315c3c-fa11-4e71-b982-dd9c1b2f912b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         102<br/>UFI: BB09908277<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1f6c7cc1-a425-4a8f-ab87-44ecd46d29a1">
+<coordinates>153.1883,-27.83625</coordinates>
+</Point>
+</Placemark>
+<Placemark id="e317184d-555a-4c68-a5d5-9a8e6736cd12">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         103<br/>UFI: BB09908278<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="76b7a786-5059-469a-a02c-b26f3374f38a">
+<coordinates>153.15703,-27.84033</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c9a7f26a-eb29-49d0-9201-6d07912f6d6a">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         104<br/>UFI: BB09908279<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="efad27c9-d3e8-4acf-ad3d-91fca72930ad">
+<coordinates>153.11308,-27.8557</coordinates>
+</Point>
+</Placemark>
+<Placemark id="dda69ac9-3fe8-4b6f-9fb7-beb2db72ebf3">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         105<br/>UFI: BB09908280<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8b749062-1e8b-49f8-b15a-e5c5b5dc8192">
+<coordinates>153.29537,-27.85639</coordinates>
+</Point>
+</Placemark>
+<Placemark id="682c3bb4-3fcd-4871-9701-5788891c97bd">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         106<br/>UFI: BB09908281<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="a1d531ea-08b2-4a22-822e-7a2b37d80b68">
+<coordinates>153.28973,-27.8696</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5698faf8-fdc5-4b1a-9307-b61dfdb4e949">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         107<br/>UFI: BB09908282<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1292fbcd-1ec9-4fd9-9f32-f64a5f64a337">
+<coordinates>153.01871,-27.89267</coordinates>
+</Point>
+</Placemark>
+<Placemark id="beb85661-c61b-4f5f-a260-00e0b167c484">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         108<br/>UFI: BB09908283<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d5f05557-395f-444f-a1a1-5d1f72eb64a2">
+<coordinates>153.08847,-27.90143</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f8a2abcb-9577-4b5d-a869-7eb037b87b8f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         109<br/>UFI: BB09908284<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="59c43f5e-413c-4e53-a8f9-74887f5bea3b">
+<coordinates>153.29325,-27.90929</coordinates>
+</Point>
+</Placemark>
+<Placemark id="93fc4d0c-7277-4b38-81ce-9e4963399bc2">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         110<br/>UFI: BB09908286<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c2b8d9aa-89da-4a97-9a3e-3c26d5dfd63b">
+<coordinates>153.13333,-27.9134</coordinates>
+</Point>
+</Placemark>
+<Placemark id="575edb11-3aa8-458e-b7ce-8d5a7aef9ed6">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         111<br/>UFI: BB09908287<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4ab4a262-7c51-4856-8909-0eb1e39f2ce8">
+<coordinates>153.28144,-27.91818</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ef3e59ad-b512-44d5-8f31-e0ea0983ece9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         112<br/>UFI: BB09908290<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="103e339e-2c75-4e5e-8f5d-dbbeab732b64">
+<coordinates>153.36972,-27.93538</coordinates>
+</Point>
+</Placemark>
+<Placemark id="74363074-5f2e-49e9-b2a4-30bb7da1b29e">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         113<br/>UFI: BB09908291<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="def1b2e3-cd4b-4a70-9dcf-f3e67fac8f68">
+<coordinates>153.06755,-27.95468</coordinates>
+</Point>
+</Placemark>
+<Placemark id="178f0c13-52a4-4448-bd4e-8bdd08a99d5a">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         114<br/>UFI: BB09908292<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1e02a9b1-57a2-4ef4-bd04-fd3086431ff8">
+<coordinates>153.31943,-27.96335</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7e2cc4e2-3ce0-4b88-89bc-53477cece1e7">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         115<br/>UFI: BB09908293<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b1fca622-e5fd-40e7-8e72-52af7dbc5b2a">
+<coordinates>153.27965,-27.96384</coordinates>
+</Point>
+</Placemark>
+<Placemark id="cff049fe-af5d-4d48-9e13-98f79e9a3c5b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         116<br/>UFI: BB09908296<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1e2a3420-d4b8-4a78-b29c-0300bd81b05c">
+<coordinates>153.02381,-27.98004</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1cc40149-6b8f-41a2-a380-f3d6c0db152d">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         117<br/>UFI: BB09908299<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1c6a981a-3580-4cba-9535-d68724bb5ae6">
+<coordinates>153.19641,-28.0164</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ccc700a8-c800-4cc5-bc03-1230a161601b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         118<br/>UFI: BB09908300<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c0ec2937-757d-429d-b561-dfaf88845224">
+<coordinates>153.27776,-28.01735</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ddc5cd12-890e-486c-97be-a22cef74a782">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         119<br/>UFI: BB09908301<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1b3f7c73-2536-4062-b46b-315b47b9d0f3">
+<coordinates>153.20719,-28.01769</coordinates>
+</Point>
+</Placemark>
+<Placemark id="06e78f27-54d9-4f7e-b28e-ddf4eab8988f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         120<br/>UFI: BB09908303<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="00a5ab76-aff4-417e-9d74-be378d4c72e6">
+<coordinates>153.17138,-28.02419</coordinates>
+</Point>
+</Placemark>
+<Placemark id="144ee3da-f64a-4734-99bc-2942a726db27">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         121<br/>UFI: BB09908306<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="6b9f98e5-8cea-4a40-8dd5-4df14e7dd99b">
+<coordinates>153.37067,-28.09779</coordinates>
+</Point>
+</Placemark>
+<Placemark id="808a16b4-4b2b-4f07-9f1d-5025bf829c93">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         122<br/>UFI: BB09908307<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="570e0fef-668c-4aa5-85d8-775234919a5c">
+<coordinates>153.40084,-28.09794</coordinates>
+</Point>
+</Placemark>
+<Placemark id="da6f747d-1d35-4284-9876-d479e1895425">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         123<br/>UFI: BB09908309<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b4a8a396-76ab-4fb7-a4c0-d83fde2ea6de">
+<coordinates>153.43397,-28.11149</coordinates>
+</Point>
+</Placemark>
+<Placemark id="96b1f0cc-bf7e-40c9-a7fc-8650a2dea354">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         124<br/>UFI: BB09908310<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b6b5aaeb-646d-4202-9105-509adf36c384">
+<coordinates>153.42487,-28.11359</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5c993da7-249d-4327-ac4c-ffed07d7f3ad">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         125<br/>UFI: BB09908311<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4f70d8c0-5c69-4522-8b07-d6d16a88f33a">
+<coordinates>153.04815,-28.12233</coordinates>
+</Point>
+</Placemark>
+<Placemark id="40451404-bb54-45e3-804c-152e49879890">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         126<br/>UFI: BB09908312<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c046b4c2-9f42-4000-95f4-8e5d560efb2f">
+<coordinates>153.41637,-28.13402</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3c3aad58-d16f-4968-bc4d-5933a5cf2c16">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         127<br/>UFI: BB09908313<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2349ae9d-6bb7-454e-bc33-21351dc6d34a">
+<coordinates>153.22847,-28.13478</coordinates>
+</Point>
+</Placemark>
+<Placemark id="55f3e30a-e857-4874-b8d6-eed2a8aeb9e3">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         128<br/>UFI: BB09908314<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1ec1346a-7781-450b-8f94-ff816018434f">
+<coordinates>153.22708,-28.13807</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9bfa056e-0d6f-4458-8de9-7157f020b65a">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         129<br/>UFI: BB09908316<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="45ec91ff-d4e6-468e-a0d6-66707ac147ea">
+<coordinates>153.11538,-28.14088</coordinates>
+</Point>
+</Placemark>
+<Placemark id="bcd3885f-2605-4555-9971-3c386dc45ca4">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         130<br/>UFI: BB09908317<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7292c519-0a46-4f30-8061-493efc78c23c">
+<coordinates>153.28887,-28.14269</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f5bd7146-28b8-46b7-ae5a-c30c77323649">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         131<br/>UFI: BB09908318<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="dc9cc489-7801-4461-b419-a037636ea495">
+<coordinates>153.1166,-28.14371</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3e5f3f77-9406-482e-bf69-aa37ba17d866">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         132<br/>UFI: BB09908319<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3557230c-970b-445b-b203-7770421d142c">
+<coordinates>153.04597,-28.15312</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0d09ffa3-c6ac-4cf2-a20b-6be5e5993f25">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         133<br/>UFI: BB09908321<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="a48bd2fd-b771-4d8e-a177-ef92d63590d1">
+<coordinates>153.06639,-28.1691</coordinates>
+</Point>
+</Placemark>
+<Placemark id="96c5f501-1fdd-4bcc-964f-fc0fc2a88821">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         134<br/>UFI: BB09908322<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7aedb9c3-b962-4fae-b151-43f3b9a3ce0b">
+<coordinates>153.04241,-28.17575</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2b0125d2-409c-4976-93c1-8e3048a37ecd">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         135<br/>UFI: BB09908323<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="47379a1b-c459-426c-b3cd-56a26e0c6826">
+<coordinates>153.04224,-28.18421</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7548b4d3-580d-4202-ab69-12ac51ae2e27">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         136<br/>UFI: BB09908324<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="98b657a0-8b3a-49a0-9a25-fa19645f721a">
+<coordinates>153.46099,-28.19044</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b6407cfd-8598-4225-ad25-123ff048ab1b">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         137<br/>UFI: BB09908325<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="6f4f994c-bf33-454b-8854-c5d07b6d8095">
+<coordinates>153.24467,-28.20373</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f7634177-8783-4b9f-bed0-29e7464298a0">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         138<br/>UFI: BB09908327<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f4e0d1a2-ec2f-4e0a-a2e1-ca3abb7366f0">
+<coordinates>153.0067,-28.21114</coordinates>
+</Point>
+</Placemark>
+<Placemark id="24855ee2-dbe5-407e-9f74-fceee91579b6">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         139<br/>UFI: BB09908328<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="4dcc050d-f5c9-4a68-987d-0b2ce92e6f6a">
+<coordinates>153.43807,-28.21563</coordinates>
+</Point>
+</Placemark>
+<Placemark id="55101fe1-ad22-4338-a09f-d3f5ff80c845">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         140<br/>UFI: BB09908333<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b46db2fe-6a3c-484e-8428-052dc3cae18a">
+<coordinates>153.48207,-28.24352</coordinates>
+</Point>
+</Placemark>
+<Placemark id="631f2ade-8374-4e3f-a357-db708d5716d7">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         141<br/>UFI: BB09908334<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b8142254-ae58-4386-a1fa-83892b020492">
+<coordinates>153.48595,-28.24745</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5be09a81-389a-489a-9c8c-dbf92cb3974f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         142<br/>UFI: BB09908335<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8210396d-60cd-4811-a0c7-921b2921a6c6">
+<coordinates>153.43651,-28.27864</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4e5a2fab-d21c-4233-9cf9-f68bd94442c8">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         143<br/>UFI: BB09908336<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d5e098b9-4fb7-4eb8-bce9-c05615231f2e">
+<coordinates>153.49592,-28.29275</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2b5ae28e-e165-4b5e-a86f-c75795205abd">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         144<br/>UFI: BB09908337<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="5ebde33b-ce5c-421a-8120-6aeb23b185e6">
+<coordinates>153.50978,-28.30399</coordinates>
+</Point>
+</Placemark>
+<Placemark id="16becb8e-45f3-4401-9145-88fb7e30c0e9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         145<br/>UFI: BB09908338<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="569b4020-25ce-40f7-89b4-762c91dd1e16">
+<coordinates>153.5135,-28.3133</coordinates>
+</Point>
+</Placemark>
+<Placemark id="10089c31-709b-4716-898c-665dff6ff1f7">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         146<br/>UFI: BB09908341<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="3d26e323-c126-470b-ab4e-ba7cc14fa00f">
+<coordinates>153.41588,-28.33471</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d52a52a5-815e-4ba4-907d-a1758a6ae66f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         147<br/>UFI: BB09908343<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ddde30e6-0672-43d7-a827-7960ac2fb952">
+<coordinates>153.5609,-28.3501</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7d955aba-8a2d-43ce-806d-11cd3cb1eea6">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         148<br/>UFI: BB09908346<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="5113efe8-6e32-4826-a252-af4b60934559">
+<coordinates>153.34832,-28.41875</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5f9f5f15-d52c-42ff-b824-a24099b1697f">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         149<br/>UFI: BB09908347<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9d07d966-3d47-47ae-8b9e-e0281eef843d">
+<coordinates>153.53353,-28.44965</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4a31ca0e-9e61-44fe-aa5f-17ab482d7ca9">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         150<br/>UFI: BB09908348<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b23b018d-af8e-4a27-b7d8-7b1e0b151e27">
+<coordinates>153.50514,-28.47454</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d58cd0c2-b817-403e-a8e9-ff488e2e6666">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         151<br/>UFI: BB09908349<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="0d64f5b5-2e5d-42cc-840c-1aff9946af51">
+<coordinates>153.54199,-28.47845</coordinates>
+</Point>
+</Placemark>
+<Placemark id="fa5bad6d-def6-45fe-ad0b-8f5e72f4ffe4">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         152<br/>UFI: BB09908206<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2e183a6f-9872-4c99-a410-fda9e5a44878">
+<coordinates>153.45343,-27.49984</coordinates>
+</Point>
+</Placemark>
+<Placemark id="976f2886-9b9d-41cc-a85e-55dc9cbaea36">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         153<br/>UFI: BB09908208<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="dc3a6c25-c061-4e84-90c9-80d2d2f666ec">
+<coordinates>153.40289,-27.5019</coordinates>
+</Point>
+</Placemark>
+<Placemark id="fd489194-5606-4f1f-b446-0b5e321865f1">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         154<br/>UFI: BB09908154<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="fd0228e2-2dec-4916-a57d-af22db1e060c">
+<coordinates>153.05952,-27.06711</coordinates>
+</Point>
+</Placemark>
+<Placemark id="ac1053de-f1ee-454f-b94c-e4c3ae2da3c1">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         155<br/>UFI: BB09908155<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2d8822e6-0ad1-41c7-a026-5d01ce353956">
+<coordinates>153.17663,-27.08006</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3cb16408-2a35-4732-8086-805bd1e46d3f">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         156<br/>UFI: BB09908160<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e0fc3748-1f87-4d5c-b15f-9f98fb882f68">
+<coordinates>153.10516,-27.22657</coordinates>
+</Point>
+</Placemark>
+<Placemark id="17802960-29d3-4a4e-9943-e82256fe2ff6">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: masts               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         157<br/>UFI: BB09908163<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="0deda94e-eea1-49f3-81dd-151e1885b1f3">
+<coordinates>153.01761,-27.31151</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0bebe60d-9250-41fa-a2bb-315dadd69fe6">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         158<br/>UFI: BB09908164<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="45c3f0a8-ebfe-448d-9797-15b95378f9b1">
+<coordinates>153.09959,-27.36719</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2dd77331-6f64-4ca9-8476-66f7a94ad442">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: masts               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         159<br/>UFI: BB09908165<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="70e12b35-f023-46ba-a4dd-64dbd4284455">
+<coordinates>153.2355,-27.37952</coordinates>
+</Point>
+</Placemark>
+<Placemark id="dd3768eb-0517-4906-a35d-1e331ec0781d">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         160<br/>UFI: BB09908167<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="05639fb2-7259-4a9e-a877-dd450c49fbc5">
+<coordinates>153.17591,-27.38575</coordinates>
+</Point>
+</Placemark>
+<Placemark id="32b03f8a-f4ae-4cb4-bc1e-5d7f8e10b7c4">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: control tower       <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         161<br/>UFI: BB09908168<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ae557f1d-d345-4ea5-89fa-9ebbdda8b964">
+<coordinates>153.11492,-27.38635</coordinates>
+</Point>
+</Placemark>
+<Placemark id="044576b6-ffad-4d4d-8b7c-f5382428385a">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         162<br/>UFI: BB09908196<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="df79a1f6-5147-4cb4-9bf5-8f4c98cc097b">
+<coordinates>153.09734,-27.45497</coordinates>
+</Point>
+</Placemark>
+<Placemark id="85a26e11-da0d-41e2-b0f1-10ceffe2fb78">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         163<br/>UFI: BB09908197<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="764f3062-903d-4eb2-aa0f-193c3bd80891">
+<coordinates>153.14551,-27.45729</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1d8b9be4-9a38-4a9b-8c91-5288796e4c9f">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         164<br/>UFI: BB09908198<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="e325bd97-775c-429b-9c88-9330d946c209">
+<coordinates>153.09511,-27.45818</coordinates>
+</Point>
+</Placemark>
+<Placemark id="58ce901b-6245-4d64-95a7-c10a88d0d7fe">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         165<br/>UFI: BB09908201<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="27c05318-2169-439b-b778-e286251b1866">
+<coordinates>153.1277,-27.4649</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8df4757b-32fb-46e9-ab38-25b05f063add">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         166<br/>UFI: BB09908219<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="47c80be4-0237-4df7-bd58-b6de53d3c9a7">
+<coordinates>153.13348,-27.55357</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2bcf1e3e-475c-438e-a9a6-64b4a23edf11">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         167<br/>UFI: BB09908222<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="af8276b9-dc95-4950-a953-c2fee4db8018">
+<coordinates>153.2355,-27.58091</coordinates>
+</Point>
+</Placemark>
+<Placemark id="c91779dc-dad7-4df1-95e3-4df5f9456b40">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         168<br/>UFI: BB09908233<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="9f39a06b-2701-454f-824b-712d4d2dec11">
+<coordinates>153.2195,-27.62188</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5dbd2c55-70ea-4b9a-9cdd-a1f6780b5fc5">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         169<br/>UFI: BB09908263<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="1525b83e-a51c-42f0-9f6f-0bb84884000c">
+<coordinates>153.10943,-27.77114</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15649b8c-147c-4633-8aee-313e95ead495">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         170<br/>UFI: BB09908271<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="2e628513-39d9-4382-9672-ad589cf67849">
+<coordinates>153.28177,-27.8033</coordinates>
+</Point>
+</Placemark>
+<Placemark id="44327c10-f565-4c46-a99d-2f4d75b12864">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         171<br/>UFI: BB09908285<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="7c24ac31-0253-4b8a-8b7b-be49bae89386">
+<coordinates>153.24498,-27.91321</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8df8f9da-d905-4b3c-bb82-5e686a1a2da8">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         172<br/>UFI: BB09908288<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d1ce3acc-0bd3-4ff1-8a15-d8ab191a0b9d">
+<coordinates>153.15907,-27.91861</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2a8455b1-4cbe-4ea2-a401-f6737ee9952b">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         173<br/>UFI: BB09908289<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="48a6e281-9d88-405c-86c7-e2fd38a5fc51">
+<coordinates>153.19722,-27.92769</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6b142b44-4ea9-4551-82ef-c0461215f1ea">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         174<br/>UFI: BB09908294<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f5ddad4d-2413-47df-96be-c12e9d4958d3">
+<coordinates>153.4125,-27.96917</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1f1bdc57-31ba-406c-a33d-6f7a93754b13">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         175<br/>UFI: BB09908295<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="d4d0afb9-8259-454a-b76f-ab18db0aa667">
+<coordinates>153.21818,-27.97058</coordinates>
+</Point>
+</Placemark>
+<Placemark id="aa306472-4f26-42e1-8ffc-d1df1b7ab394">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         176<br/>UFI: BB09908298<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ebebebb0-0aa6-4fd2-bc1f-255ee4146412">
+<coordinates>153.42528,-28.00417</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1a500ad9-63b4-4480-a379-e22a60fd5f89">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         177<br/>UFI: BB09908302<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="40055a07-f066-438b-97a5-fb929ab6ba1c">
+<coordinates>153.42917,-28.01972</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9d59e135-d0e4-497b-b7f1-b4afe8836959">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         178<br/>UFI: BB09908304<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b20dcea2-b8f7-4eb5-ae58-83c8961a2e38">
+<coordinates>153.3557,-28.02889</coordinates>
+</Point>
+</Placemark>
+<Placemark id="f1f05a55-f83d-46cc-99a8-9f03d477f1ba">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         179<br/>UFI: BB09908305<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="6b515a41-a799-444e-978c-2cdcde8dda61">
+<coordinates>153.37447,-28.03193</coordinates>
+</Point>
+</Placemark>
+<Placemark id="0b9fe94c-9613-403f-9d4e-39b612d12364">
+<description>FEAT_CODE: mine        <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION:                     <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         180<br/>UFI: BB09908308<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="09c85b90-ae7f-4403-a247-fa1c88a750df">
+<coordinates>153.41518,-28.10918</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3c5e8097-d343-4b9b-838b-12ef3fdcb619">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         181<br/>UFI: BB09908320<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="677bfd22-870b-4939-ad8a-f956a84da741">
+<coordinates>153.41121,-28.15882</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b0dbc13c-6f85-4b11-a79e-4dc9de534c60">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: masts               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         182<br/>UFI: BB09908339<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="18234e44-69e2-4b36-ae08-37b564bca691">
+<coordinates>153.50856,-28.32626</coordinates>
+</Point>
+</Placemark>
+<Placemark id="37f76308-169c-4c9d-a886-ba5c9d6b66fd">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         183<br/>UFI: BB09908344<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="5849ea43-c538-4e8e-849d-f965aa5a2af9">
+<coordinates>153.45274,-28.37895</coordinates>
+</Point>
+</Placemark>
+<Placemark id="28d033e9-d334-45df-8616-ca4da0d80fc2">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         184<br/>UFI: BB09908345<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8c72da0a-04cf-41ef-ab3f-d91fe2d883b4">
+<coordinates>153.47309,-28.39666</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1add2c35-d36d-4747-8cd0-1bc490f16396">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: towers              <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         185<br/>UFI: BB09908217<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="52183e75-9ab3-4495-ac96-70c38ee3e6a7">
+<coordinates>153.07335,-27.5432</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d73535be-39ff-41eb-b664-322503a70a10">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56151  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         186<br/>UFI: BB09908297<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="88b20535-5353-47c4-a18e-5ecd72493d2c">
+<coordinates>153.41095,-28.00402</coordinates>
+</Point>
+</Placemark>
+<Placemark id="72f3821a-11f6-44d1-885e-b0004f03f137">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         187<br/>UFI: BB09908151<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ee546482-1d4d-4cb4-9500-830ebc78e22c">
+<coordinates>153.14442,-27.00263</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1f4dc464-0af1-4d11-a272-f3cab332ed35">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: silo                <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         188<br/>UFI: BB09908195<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b4a1d05c-02b9-43ab-8984-0d65e5ccb639">
+<coordinates>153.09544,-27.44885</coordinates>
+</Point>
+</Placemark>
+<Placemark id="27478ac7-fd82-4d08-95ce-345d4013bc7f">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         189<br/>UFI: BB09908210<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bf8195e7-6445-4feb-b18f-6005dfb34d16">
+<coordinates>153.20406,-27.50593</coordinates>
+</Point>
+</Placemark>
+<Placemark id="eb5487d3-8904-49e5-9c99-78034fa09608">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         190<br/>UFI: BB09908234<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="b6c1c7d8-29bf-40ed-9b88-f8e65bf6010b">
+<coordinates>153.08011,-27.62534</coordinates>
+</Point>
+</Placemark>
+<Placemark id="b006cd8f-e221-4639-aa35-3d6366cd1a2d">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         191<br/>UFI: BB09908260<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="c5880d0c-c869-40e8-93ad-f5a8c5da7129">
+<coordinates>153.08915,-27.73774</coordinates>
+</Point>
+</Placemark>
+<Placemark id="23500e6a-73c6-4b6a-b073-9201c0fa58fd">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         192<br/>UFI: BB09908315<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="ab1d975e-2ffd-4ab6-b03e-3e53ad17464b">
+<coordinates>153.18919,-28.14036</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d55e7edc-cbee-4977-b44d-030d8c456e9a">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         193<br/>UFI: BB09908326<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="33e276dd-266d-40f6-a376-576cd0a93c43">
+<coordinates>153.27264,-28.20612</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8a0d3529-7dbf-4ca2-989b-d56130de766f">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: mast                <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         194<br/>UFI: BB09908329<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="8c5cbd71-a277-4331-89c5-6336c3cc0500">
+<coordinates>153.26656,-28.22917</coordinates>
+</Point>
+</Placemark>
+<Placemark id="11c08b59-88e6-45da-a928-6ddf210bc8f8">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         195<br/>UFI: BB09908330<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f924bf37-ea5e-4466-9331-ae2adb38d6fa">
+<coordinates>153.29043,-28.23136</coordinates>
+</Point>
+</Placemark>
+<Placemark id="e9c4fe3e-b0b3-414b-b1eb-e0fc7c5dcc93">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         196<br/>UFI: BB09908331<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="bb97cf1e-b9a9-42f2-9b47-76d984f88096">
+<coordinates>153.26576,-28.23825</coordinates>
+</Point>
+</Placemark>
+<Placemark id="d8c7fe0c-3462-46a7-ae00-35556632e43c">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         197<br/>UFI: BB09908332<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="452c0e39-dd64-4887-a9c8-45f4dcc174b1">
+<coordinates>153.48626,-28.24281</coordinates>
+</Point>
+</Placemark>
+<Placemark id="459e143f-6fcd-4190-be6d-787b5f54dfa7">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         198<br/>UFI: BB09908340<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="958db99e-7190-4c1e-8e01-cc7db97f6ae1">
+<coordinates>153.29691,-28.33094</coordinates>
+</Point>
+</Placemark>
+<Placemark id="555b183d-9622-460a-9548-d1bb414c0001">
+<description>FEAT_CODE: landmark_p  <br/>NAME:                                                   <br/>AREA:  0.00000000000000000E+00<br/>DESCRIPTION: tower               <br/>Q_INFO: G56154  <br/>G5615ULD_ID:           0<br/>G5615ULD_:         199<br/>UFI: BB09908342<br/>PERIMETER:  0.00000000000000000E+00<br/></description>
+<styleUrl>#mehrad</styleUrl>
+<Point id="f3fe4e57-b8f9-4687-9fbe-b8f03737cf70">
+<coordinates>153.51933,-28.33569</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

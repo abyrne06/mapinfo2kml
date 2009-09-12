@@ -229,16 +229,26 @@ public class MapinfoParser extends Parser {
 		int numSections;
 		String firstLine = mifFileLines.get(linePointer);
 		try{ // this should be here, MULTIPLE section is not mandatory and handling it is easier this way
-			String numPolygonsStr = ParseStringUtils.getStringPart(firstLine, 3);
-			numSections=Integer.parseInt(numPolygonsStr);
+			String numSectionsStr = ParseStringUtils.getStringPart(firstLine, 3);
+			numSections=Integer.parseInt(numSectionsStr);
 		}catch(Throwable t )
 		{
 			numSections = 1;
 		}
 
 		for (int j = 1; j <= numSections; j++) {
-			linePointer++;
-			String numPointStr = mifFileLines.get(linePointer);
+			
+			String numPointStr;
+			try{// if its in front of PLine
+				if(numSections>1)
+					numPointStr = mifFileLines.get(++linePointer);
+				else
+					numPointStr=ParseStringUtils.getStringPart(firstLine, 2);
+			}catch(Throwable t )
+			{
+				numPointStr = mifFileLines.get(++linePointer);
+			}
+
 			int numPoints = Integer.parseInt(numPointStr.trim());
 
 			List<MifCoordinate> mifCoordinates = new ArrayList<MifCoordinate>();
