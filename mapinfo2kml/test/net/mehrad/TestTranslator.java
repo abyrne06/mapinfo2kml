@@ -67,7 +67,7 @@ public class TestTranslator {
 			translator = new Translator(new File("testData\\g5615y_p.mid"), new File("testData\\g5615y_p.mif"));result = translator.translate();result.createKml("TestResults\\g5615y_p.kml");
 
 			
-//			assertNotNull(result);
+			assertNotNull(result);
 		} catch (ParserException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
