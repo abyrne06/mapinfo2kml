@@ -1,0 +1,157 @@
+          2,          1,          0,          0, 9.94323269778873628E-03,          1,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907893
+          4,          3,          0,          0, 1.21757747737551991E-02,          2,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907894
+          3,          5,          0,          0, 7.95030034970381320E-03,          3,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907895
+          6,          4,          0,          0, 2.34919565120019543E-03,          4,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907896
+          5,          7,          0,          0, 1.14115834187239282E-02,          5,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907897
+          7,          8,          0,          0, 1.27417347801082603E-02,          6,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907898
+          9,          2,          0,          0, 3.44372243651936485E-02,          7,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907899
+         10,          9,          0,          0, 1.30269937039321840E-02,          8,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907900
+          8,         11,          0,          0, 2.52328351158510288E-02,          9,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907901
+         12,         10,          0,          0, 1.46956558634806448E-02,         10,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907902
+         11,         13,          0,          0, 1.09026157828429268E-02,         11,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907903
+         14,         12,          0,          0, 1.13295800029112517E-02,         12,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907904
+         15,         15,          0,          0, 1.35208520367833505E-02,         13,          0,railway     ,FISHERMAN ISLAND BRANCH RAILWAY                   ,1,1,3,G56151  ,BB09907905
+         16,         14,          0,          0, 8.56592297367387602E-03,         14,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907906
+         13,         17,          0,          0, 8.39930071929508026E-03,         15,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907907
+         17,         19,          0,          0, 1.01794530993223713E-02,         16,          0,railway     ,SHORNCLIFFE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907908
+         19,         16,          0,          0, 1.30422562558515226E-02,         17,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907909
+         19,         20,          0,          0, 1.87455898330491397E-03,         18,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907910
+         21,         15,          0,          0, 2.38282849761701394E-02,         19,          0,railway     ,FISHERMAN ISLAND BRANCH RAILWAY                   ,1,1,3,G56151  ,BB09907911
+         20,         22,          0,          0, 9.37090353335781959E-03,         20,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907912
+         23,         21,          0,          0, 2.21400823758526087E-03,         21,          0,bridge_rl_l ,FISHERMAN ISLAND BRANCH RAILWAY                   ,1,1,3,G56154  ,BB09907913
+         22,         25,          0,          0, 9.34811381231133443E-03,         22,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907914
+         26,         27,          0,          0, 2.52415053263661338E-03,         23,          0,bridge_rl_l ,AIRPORT RAIL LINK                                 ,1,1,3,G56154  ,BB09907915
+         25,         28,          0,          0, 4.13832006311128792E-03,         24,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907916
+         28,         29,          0,          0, 5.09851467511498492E-03,         25,          0,railway     ,AIRPORT RAIL LINK                                 ,2,1,3,G56151  ,BB09907917
+         29,         26,          0,          0, 1.39312686365704250E-02,         26,          0,railway     ,AIRPORT RAIL LINK                                 ,1,1,3,G56151  ,BB09907918
+         27,         18,          0,          0, 5.86405997802289802E-02,         27,          0,railway     ,AIRPORT RAIL LINK                                 ,1,1,3,G56151  ,BB09907919
+         28,         31,          0,          0, 6.03804443213031700E-03,         28,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907920
+         30,         31,          0,          0, 1.83888358230648290E-03,         29,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907921
+         31,         33,          0,          0, 5.12117192778224501E-03,         30,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907922
+         34,         30,          0,          0, 8.70516482124035658E-03,         31,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907923
+         33,         35,          0,          0, 6.31005690747147262E-03,         32,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907924
+         37,         23,          0,          0, 2.38219073695999720E-02,         33,          0,railway     ,FISHERMAN ISLAND BRANCH RAILWAY                   ,1,1,3,G56151  ,BB09907925
+         32,         37,          0,          0, 6.54415205921765608E-03,         34,          0,railway     ,                                                  ,1,1,3,G56151  ,BB09907926
+         39,         36,          0,          0, 1.44218886573071179E-03,         35,          0,railway     ,FERNY GROVE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907927
+         41,         38,          0,          0, 6.30755497662228819E-03,         36,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907928
+         24,         41,          0,          0, 2.97848710717112525E-02,         37,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907929
+         35,         43,          0,          0, 6.93223636328989951E-03,         38,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907930
+         44,         34,          0,          0, 9.56081605319322909E-03,         39,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907931
+         42,         45,          0,          0, 1.03224718119676959E-02,         40,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907932
+         46,         42,          0,          0, 1.37168753958029424E-02,         41,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907933
+         47,         40,          0,          0, 5.49245965740243446E-03,         42,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907934
+         45,         47,          0,          0, 5.13873826305764111E-03,         43,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907935
+         47,         41,          0,          0, 8.76232861174809467E-03,         44,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907936
+         43,         48,          0,          0, 1.28615565245051230E-02,         45,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907937
+         50,         39,          0,          0, 1.19314122863977759E-02,         46,          0,railway     ,FERNY GROVE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907938
+         51,         46,          0,          0, 6.23362601204658761E-03,         47,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907939
+         48,         51,          0,          0, 3.31017786825996835E-03,         48,          0,railway     ,PINKENBA BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907940
+         52,         50,          0,          0, 1.00924094822405774E-02,         49,          0,railway     ,FERNY GROVE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907941
+         53,         52,          0,          0, 1.00116493895600449E-02,         50,          0,railway     ,FERNY GROVE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907942
+         55,         51,          0,          0, 5.94890531758439107E-03,         51,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907943
+         54,         55,          0,          0, 8.98439169484041913E-03,         52,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907944
+         56,         57,          0,          0, 5.07420368407825000E-03,         53,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907945
+         57,         37,          0,          0, 1.99162646045828451E-02,         54,          0,railway     ,FISHERMAN ISLAND BRANCH RAILWAY                   ,2,1,3,G56151  ,BB09907946
+         58,         56,          0,          0, 7.53797154520496719E-03,         55,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907947
+         59,         44,          0,          0, 1.14022092395840661E-02,         56,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907948
+         59,         53,          0,          0, 1.20363922511033672E-02,         57,          0,railway     ,FERNY GROVE BRANCH RAILWAY                        ,2,1,3,G56151  ,BB09907949
+         60,         57,          0,          0, 9.21319402698036853E-03,         58,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907950
+         55,         61,          0,          0, 2.10800665017015221E-02,         59,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907951
+         62,         59,          0,          0, 4.39835822796791516E-03,         60,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907952
+         63,         58,          0,          0, 7.48486639094970204E-03,         61,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907953
+         64,         60,          0,          0, 1.85381305160877731E-02,         62,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907954
+         59,         66,          0,          0, 1.38807004997790785E-02,         63,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907955
+         67,         64,          0,          0, 1.43613091631789834E-02,         64,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907956
+         68,         62,          0,          0, 1.25943434576635763E-02,         65,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907957
+         69,         63,          0,          0, 1.54091013717610453E-02,         66,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907958
+         70,         68,          0,          0, 5.94082063550323888E-03,         67,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907959
+         71,         67,          0,          0, 8.02608551701531996E-03,         68,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907960
+         49,         71,          0,          0, 3.92723839041833195E-02,         69,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907961
+         70,         72,          0,          0, 7.19889875020542080E-03,         70,          0,tunnel_rl_l ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56154  ,BB09907962
+         73,         74,          0,          0, 4.50189346090303208E-04,         71,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907963
+         75,         73,          0,          0, 2.04864315655937370E-03,         72,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907964
+         66,         75,          0,          0, 2.37414198477118449E-02,         73,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907965
+         76,         71,          0,          0, 7.59495175525731064E-03,         74,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907966
+         65,         78,          0,          0, 2.21107673193725630E-02,         75,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09907967
+         77,         78,          0,          0, 3.90965143972270800E-03,         76,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907968
+         79,         75,          0,          0, 3.80256285998244268E-03,         77,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907969
+         72,         80,          0,          0, 3.07100577559773352E-03,         78,          0,tunnel_rl_l ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56154  ,BB09907970
+         74,         80,          0,          0, 4.20658091669856744E-03,         79,          0,railway     ,NORTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09907971
+         78,         76,          0,          0, 1.32996615779879760E-02,         80,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907972
+         81,         79,          0,          0, 2.45086838401436082E-03,         81,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907973
+         79,         82,          0,          0, 7.84092391781792547E-03,         82,          0,railway     ,MAIN LINE RAILWAY                                 ,2,1,3,G56151  ,BB09907974
+         69,         83,          0,          0, 1.73235305305554158E-02,         83,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907975
+         84,         81,          0,          0, 3.22862724424729467E-03,         84,          0,bridge_rl_l ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56154  ,BB09907976
+         85,         77,          0,          0, 1.99698529974822805E-02,         85,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907977
+         82,         86,          0,          0, 6.48109495371364513E-03,         86,          0,railway     ,MAIN LINE RAILWAY                                 ,2,1,3,G56151  ,BB09907978
+         87,         84,          0,          0, 6.36633861592589192E-03,         87,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907979
+         88,         87,          0,          0, 7.55719433682995774E-03,         88,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907980
+         89,         85,          0,          0, 1.28210563696978426E-02,         89,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907981
+         83,         90,          0,          0, 1.25321253978436919E-02,         90,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907982
+         91,         90,          0,          0, 2.06388531204494555E-03,         91,          0,bridge_rl_l ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56154  ,BB09907983
+         91,         92,          0,          0, 3.93171530686354641E-03,         92,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907984
+         93,         89,          0,          0, 1.22099500756254198E-02,         93,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907985
+         94,         88,          0,          0, 1.46722943385339984E-02,         94,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907986
+         92,         95,          0,          0, 2.36223381041292882E-02,         95,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907987
+         95,         96,          0,          0, 2.57094389406951444E-02,         96,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907988
+         97,         94,          0,          0, 2.71224114760118280E-03,         97,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907989
+         98,         93,          0,          0, 1.55637135962801119E-02,         98,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907990
+         97,         98,          0,          0, 9.54715527498890652E-03,         99,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,2,1,3,G56151  ,BB09907991
+         97,         99,          0,          0, 4.82791065109607585E-03,        100,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907992
+         99,        100,          0,          0, 1.01815210949519237E-02,        101,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907993
+         96,        101,          0,          0, 2.54038980824601163E-02,        102,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907994
+        100,        102,          0,          0, 1.34804743937073507E-02,        103,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907995
+        101,        103,          0,          0, 1.73505357974957919E-02,        104,          0,railway     ,CLEVELAND BRANCH RAILWAY                          ,1,1,3,G56151  ,BB09907996
+        102,        104,          0,          0, 7.06275617904279177E-03,        105,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907997
+        104,        105,          0,          0, 1.29389594510735521E-03,        106,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09907998
+        105,        106,          0,          0, 1.02547234779355144E-02,        107,          0,railway     ,TENNYSON BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09907999
+        106,        107,          0,          0, 4.72743583807796759E-03,        108,          0,railway     ,TENNYSON BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09908000
+        108,        107,          0,          0, 3.08590492382607165E-05,        109,          0,railway     ,TENNYSON BRANCH RAILWAY                           ,2,1,3,G56151  ,BB09908001
+        107,        109,          0,          0, 5.65234718840516154E-03,        110,          0,railway     ,                                                  ,2,1,3,G56151  ,BB09908002
+        105,        110,          0,          0, 9.14218121101259204E-03,        111,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09908003
+        110,        111,          0,          0, 1.02022634999608067E-02,        112,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09908004
+        111,        112,          0,          0, 6.31382793585322406E-03,        113,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09908005
+        112,        113,          0,          0, 6.50753272696093839E-03,        114,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09908006
+        113,        114,          0,          0, 9.48784227335710585E-03,        115,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,7,G56151  ,BB09908007
+        115,        114,          0,          0, 1.21270685442426904E-02,        116,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908008
+        114,        116,          0,          0, 1.37013995974449004E-02,        117,          0,railway     ,NORTH COAST RAILWAY                               ,2,1,1,G56151  ,BB09908009
+        117,        115,          0,          0, 1.31385853108548691E-02,        118,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908010
+        116,        118,          0,          0, 4.58062343014345192E-03,        119,          0,railway     ,                                                  ,2,1,1,G56151  ,BB09908011
+        119,        118,          0,          0, 2.15366370202052385E-03,        120,          0,railway     ,                                                  ,2,1,1,G56151  ,BB09908012
+        116,        120,          0,          0, 6.44565154442973583E-03,        121,          0,railway     ,NORTH COAST RAILWAY                               ,2,1,1,G56151  ,BB09908013
+        121,        117,          0,          0, 9.61759330089218163E-03,        122,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908014
+        122,        121,          0,          0, 1.02840465232159582E-02,        123,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908015
+        118,        123,          0,          0, 6.84142391108739922E-03,        124,          0,railway     ,                                                  ,2,1,1,G56151  ,BB09908016
+        124,        120,          0,          0, 8.81996407735748632E-03,        125,          0,railway     ,                                                  ,2,1,1,G56151  ,BB09908017
+        125,        122,          0,          0, 1.01622058787406398E-02,        126,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908018
+        126,        125,          0,          0, 1.35899550851543462E-02,        127,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908019
+        127,        126,          0,          0, 1.26077924326954884E-02,        128,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908020
+        128,        127,          0,          0, 3.04528328691662450E-02,        129,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908021
+        129,        128,          0,          0, 8.18890282469161672E-03,        130,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908022
+        130,        129,          0,          0, 2.61677546945632798E-02,        131,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908023
+        131,        130,          0,          0, 2.59907359998475251E-02,        132,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908024
+        132,        131,          0,          0, 2.93116862270962168E-02,        133,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908025
+        133,        132,          0,          0, 3.75477583368476414E-03,        134,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908026
+        134,        133,          0,          0, 1.12225568785080405E-02,        135,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908027
+        135,        120,          0,          0, 1.40193118747776152E-01,        136,          0,railway     ,NORTH COAST RAILWAY                               ,1,1,1,G56151  ,BB09908028
+        133,        136,          0,          0, 2.00688765809669024E-02,        137,          0,railway     ,BEAUDESERT BRANCH RAILWAY                         ,1,1,3,G56151  ,BB09908029
+        137,        134,          0,          0, 2.09484387715098037E-02,        138,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908030
+        138,        137,          0,          0, 3.65120287669970234E-02,        139,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908031
+        136,        139,          0,          0, 5.78538939050024931E-02,        140,          0,railway     ,BEAUDESERT BRANCH RAILWAY                         ,1,1,3,G56151  ,BB09908032
+        139,        140,          0,          0, 2.38988219773638953E-02,        141,          0,railway     ,BEAUDESERT BRANCH RAILWAY                         ,1,1,3,G56151  ,BB09908033
+        141,        138,          0,          0, 1.01043825530551731E-01,        142,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908034
+        140,        142,          0,          0, 1.08685983538262046E-01,        143,          0,railway     ,BEAUDESERT BRANCH RAILWAY                         ,1,1,3,G56151  ,BB09908035
+        142,        143,          0,          0, 3.48208681417523785E-02,        144,          0,railway     ,BEAUDESERT BRANCH RAILWAY                         ,1,1,3,G56151  ,BB09908036
+        144,        141,          0,          0, 6.64350279590446291E-02,        145,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908037
+        144,        145,          0,          0, 2.41346546335420992E-02,        146,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908038
+        145,        146,          0,          0, 9.43463199472510325E-03,        147,          0,bridge_rl_l ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56154  ,BB09908039
+        146,        147,          0,          0, 4.54156988506399448E-02,        148,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908040
+        147,        148,          0,          0, 6.21953731747449390E-02,        149,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908041
+        148,        149,          0,          0, 1.03647603076725933E-03,        150,          0,bridge_rl_l ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56154  ,BB09908042
+        149,        150,          0,          0, 7.48588180651138697E-03,        151,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908043
+        150,        151,          0,          0, 8.48455622704387957E-02,        152,          0,railway     ,SOUTH COAST LINE RAILWAY                          ,2,1,3,G56151  ,BB09908044
+        152,        153,          0,          0, 1.20833801075748259E-01,        153,          0,railway     ,CASINO MURWILLUMBAH RAILWAY                       ,1,1,1,G56151  ,BB09908045
+        153,        154,          0,          0, 8.05310827517960806E-03,        154,          0,tunnel_rl_l ,CASINO MURWILLUMBAH RAILWAY                       ,1,1,1,G56154  ,BB09908046
+        155,        154,          0,          0, 1.35980838832901907E-01,        155,          0,railway     ,CASINO MURWILLUMBAH RAILWAY                       ,1,1,1,G56151  ,BB09908047
+        155,        156,          0,          0, 2.30875558905272154E-03,        156,          0,tunnel_rl_l ,CASINO MURWILLUMBAH RAILWAY                       ,1,1,1,G56154  ,BB09908048
+        157,        156,          0,          0, 8.74131984558593547E-03,        157,          0,railway     ,CASINO MURWILLUMBAH RAILWAY                       ,1,1,1,G56151  ,BB09908049

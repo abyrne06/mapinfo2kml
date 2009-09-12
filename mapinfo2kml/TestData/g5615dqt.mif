@@ -1,0 +1,25 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+CoordSys Earth 
+    Projection 1, 104
+Transform 0,0,0,0
+Columns 6
+	q_info	Char(8)
+	feat_rel	Date
+	att_rel	Date
+	plan_acc	Integer
+	elev_acc	Integer
+	source	Char(50)
+Data
+
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none

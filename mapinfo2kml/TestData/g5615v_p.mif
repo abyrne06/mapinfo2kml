@@ -1,0 +1,41 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Coordsys Earth
+    Projection 1, 104
+    Bounds (152.854297, -28.875000) (153.728515, -26.625000)
+
+columns 12
+    AREA float
+    PERIMETER float
+    G5615VLD_ integer
+    G5615VLD_ID integer
+    FEAT_CODE char(12)
+    NAME char(50)
+    CLASS decimal (1,0)
+    FORMATION decimal (1,0)
+    NRN char(12)
+    SRN char(12)
+    Q_INFO char(8)
+    UFI char(10)
+data
+point 153.122100 -27.667420
+ Symbol(32,16711680,8)
+point 153.298620 -28.025550
+ Symbol(32,16711680,8)
+point 153.396960 -28.030330
+ Symbol(32,16711680,8)
+point 153.426220 -28.136030
+ Symbol(32,16711680,8)
+point 153.469140 -28.227770
+ Symbol(32,16711680,8)
+point 153.398380 -28.306760
+ Symbol(32,16711680,8)
+point 153.390170 -28.314960
+ Symbol(32,16711680,8)
+point 153.303990 -28.353530
+ Symbol(32,16711680,8)
+point 153.505960 -28.358940
+ Symbol(32,16711680,8)
+point 153.539730 -28.454840
+ Symbol(32,16711680,8)

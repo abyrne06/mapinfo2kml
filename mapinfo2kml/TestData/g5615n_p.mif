@@ -1,0 +1,128 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Coordsys Earth
+    Projection 1, 104
+    Bounds (152.943810, -28.761874) (153.757093, -26.651508)
+
+columns 9
+    AREA float
+    PERIMETER float
+    G5615NLD_ integer
+    G5615NLD_ID integer
+    FEAT_CODE char(12)
+    NAME char(50)
+    RELATIONSHIP decimal (1,0)
+    Q_INFO char(8)
+    UFI char(10)
+data
+point 153.486090 -27.003240
+ Symbol(50,0,8)
+point 153.450560 -27.023020
+ Symbol(50,0,8)
+point 153.454450 -27.023210
+ Symbol(51,0,10)
+point 153.466170 -27.031490
+ Symbol(51,0,10)
+point 153.128200 -27.046540
+ Symbol(50,0,8)
+point 153.366370 -27.074840
+ Symbol(50,0,8)
+point 153.158520 -27.090950
+ Symbol(50,0,8)
+point 153.478370 -27.130930
+ Symbol(50,0,8)
+point 153.365540 -27.141640
+ Symbol(51,0,10)
+point 153.368090 -27.161540
+ Symbol(50,0,8)
+point 153.368710 -27.166180
+ Symbol(50,0,8)
+point 153.121580 -27.187150
+ Symbol(50,0,8)
+point 153.125110 -27.189130
+ Symbol(50,0,8)
+point 153.117840 -27.196390
+ Symbol(50,0,8)
+point 153.120190 -27.197070
+ Symbol(50,0,8)
+point 153.118190 -27.203950
+ Symbol(50,0,8)
+point 153.117310 -27.205780
+ Symbol(50,0,8)
+point 153.119800 -27.219950
+ Symbol(50,0,8)
+point 153.282140 -27.221510
+ Symbol(50,0,8)
+point 153.382360 -27.256470
+ Symbol(50,0,8)
+point 153.111410 -27.258920
+ Symbol(50,0,8)
+point 153.110390 -27.260530
+ Symbol(50,0,8)
+point 153.084770 -27.260690
+ Symbol(50,0,8)
+point 153.082830 -27.262200
+ Symbol(50,0,8)
+point 153.111640 -27.263190
+ Symbol(50,0,8)
+point 153.080730 -27.264130
+ Symbol(50,0,8)
+point 153.079360 -27.264950
+ Symbol(50,0,8)
+point 153.273090 -27.338270
+ Symbol(50,0,8)
+point 153.465450 -27.378470
+ Symbol(50,0,8)
+point 153.551330 -27.391900
+ Symbol(50,0,8)
+point 153.527020 -27.412680
+ Symbol(50,0,8)
+point 153.525800 -27.414160
+ Symbol(50,0,8)
+point 153.554950 -27.417850
+ Symbol(50,0,8)
+point 153.547030 -27.421540
+ Symbol(50,0,8)
+point 153.548170 -27.422880
+ Symbol(50,0,8)
+point 153.549840 -27.423400
+ Symbol(50,0,8)
+point 153.545470 -27.427070
+ Symbol(50,0,8)
+point 153.540190 -27.431020
+ Symbol(51,0,10)
+point 153.548260 -27.436490
+ Symbol(50,0,8)
+point 153.375410 -27.501130
+ Symbol(50,0,8)
+point 153.289230 -27.509710
+ Symbol(51,0,10)
+point 153.343760 -27.514480
+ Symbol(50,0,8)
+point 153.433360 -27.916660
+ Symbol(50,0,8)
+point 153.436150 -27.959990
+ Symbol(50,0,8)
+point 153.550240 -28.162960
+ Symbol(51,0,10)
+point 153.579380 -28.193680
+ Symbol(50,0,8)
+point 153.568570 -28.194680
+ Symbol(50,0,8)
+point 153.591740 -28.199100
+ Symbol(50,0,8)
+point 153.621550 -28.198970
+ Symbol(50,0,8)
+point 153.570890 -28.200520
+ Symbol(51,0,10)
+point 153.605570 -28.211680
+ Symbol(50,0,8)
+point 153.591430 -28.253690
+ Symbol(50,0,8)
+point 153.587890 -28.254380
+ Symbol(50,0,8)
+point 153.566810 -28.410150
+ Symbol(50,0,8)
+point 153.550330 -28.160900
+ Symbol(50,0,8)

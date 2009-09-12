@@ -1,0 +1,82 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Coordsys Earth
+    Projection 1, 104
+    Bounds (152.888729, -28.730330) (153.682720, -26.737281)
+
+columns 9
+    AREA float
+    PERIMETER float
+    G5615YLD_ integer
+    G5615YLD_ID integer
+    FEAT_CODE char(12)
+    ELEVATION float
+    CODE char(24)
+    Q_INFO char(8)
+    UFI char(10)
+data
+point 153.203120 -27.069460
+ Symbol(59,0,8)
+point 153.052510 -27.129260
+ Symbol(59,0,8)
+point 153.100490 -27.244940
+ Symbol(59,0,8)
+point 153.088850 -27.378110
+ Symbol(59,0,8)
+point 153.112430 -27.412920
+ Symbol(59,0,8)
+point 153.521450 -27.435670
+ Symbol(59,0,8)
+point 153.464140 -27.448530
+ Symbol(59,0,8)
+point 153.067430 -27.453570
+ Symbol(59,0,8)
+point 153.174950 -27.458620
+ Symbol(59,0,8)
+point 153.130590 -27.462090
+ Symbol(59,0,8)
+point 153.453100 -27.499620
+ Symbol(59,0,8)
+point 153.134520 -27.524090
+ Symbol(59,0,8)
+point 153.072780 -27.542500
+ Symbol(59,0,8)
+point 153.231530 -27.543920
+ Symbol(59,0,8)
+point 153.218070 -27.620180
+ Symbol(59,0,8)
+point 153.105800 -27.661030
+ Symbol(59,0,8)
+point 153.168400 -27.747960
+ Symbol(59,0,8)
+point 153.224460 -27.766040
+ Symbol(59,0,8)
+point 153.080440 -27.834140
+ Symbol(59,0,8)
+point 153.211060 -27.923080
+ Symbol(59,0,8)
+point 153.199970 -27.925970
+ Symbol(59,0,8)
+point 153.040310 -27.926730
+ Symbol(59,0,8)
+point 153.424020 -27.927720
+ Symbol(59,0,8)
+point 153.161030 -28.118230
+ Symbol(59,0,8)
+point 153.109730 -28.133100
+ Symbol(59,0,8)
+point 153.550390 -28.165340
+ Symbol(59,0,8)
+point 153.337850 -28.174010
+ Symbol(59,0,8)
+point 153.021060 -28.179260
+ Symbol(59,0,8)
+point 153.535190 -28.181210
+ Symbol(59,0,8)
+point 153.425950 -28.215760
+ Symbol(59,0,8)
+point 153.290140 -28.234250
+ Symbol(59,0,8)
+point 153.466160 -28.398160
+ Symbol(59,0,8)
