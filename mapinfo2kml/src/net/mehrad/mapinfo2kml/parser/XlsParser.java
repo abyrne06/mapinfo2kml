@@ -1,6 +1,6 @@
 package net.mehrad.mapinfo2kml.parser;
 
-import java.io.File;
+import java.util.List;
 
 import net.mehrad.mapinfo2kml.DataModel;
 import net.mehrad.mapinfo2kml.xls.XlsModel;
@@ -8,10 +8,10 @@ import net.mehrad.mapinfo2kml.xls.XlsModel;
 public class XlsParser extends Parser{
 
 	protected XlsModel xlsModel;
-	protected File xlsFile;
+	protected List<String> xlsFileLines;
 	
-	public XlsParser(File xlsFile) {
-		this.xlsFile=xlsFile;
+	public XlsParser(List<String> xlsFileLines) {
+		this.xlsFileLines=xlsFileLines;
 	}
 
 	/**

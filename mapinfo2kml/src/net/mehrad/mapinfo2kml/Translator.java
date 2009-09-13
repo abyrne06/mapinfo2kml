@@ -1,6 +1,6 @@
 package net.mehrad.mapinfo2kml;
 
-import java.io.File;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -48,9 +48,9 @@ public class Translator {
 	protected MifValidator mifValidator;
 	protected XlsValidator xlsValidator;
 
-	protected File midFile;
-	protected File mifFile;
-	protected File xlsFile;
+	protected List<String> midFileLines;
+	protected List<String> mifFileLines;
+	protected List<String> xlsFileLines;
 
 	/**
 	 * Translator constructor, for setting excel file use setXlsFile method.
@@ -58,9 +58,9 @@ public class Translator {
 	 * @param midFile
 	 * @param mifFile
 	 */
-	public Translator(File midFile, File mifFile) {
-		this.midFile = midFile;
-		this.mifFile = mifFile;
+	public Translator(List<String> midFileInputStream, List<String> mifFileInputStream) {
+		this.midFileLines = midFileInputStream;
+		this.mifFileLines = mifFileInputStream;
 	}
 
 	/**
@@ -75,14 +75,14 @@ public class Translator {
 	 */
 	public Kml translate() throws ParserException, ValidationException {
 
-		validate(midFile, mifFile, xlsFile);
-		MapinfoParser mapinfoParser = new MapinfoParser(midFile, mifFile);
-		XlsParser xlsParser = new XlsParser(xlsFile);
+//		validate(midFileInputStream, mifFileInputStream, xlsFileInputStream);
+		MapinfoParser mapinfoParser = new MapinfoParser(midFileLines, mifFileLines);
+		XlsParser xlsParser = new XlsParser(xlsFileLines);
 
 		MifModel mifModel = (MifModel) mapinfoParser.parse();
 
 		XlsModel xlsModel=null;
-		if (xlsFile != null)
+		if (xlsFileLines != null)
 			xlsModel = (XlsModel) xlsParser.parse();
 
 		Kml kml = fillKmlFromMifAndXls(mifModel, xlsModel);
@@ -330,20 +330,25 @@ public class Translator {
 	 * for every step if file is not given or validator isnt setted, it ignores
 	 * that step.
 	 * 
+	 * @deprecated
 	 * @param midFile
 	 * @param mifFile
-	 * @param xlsFile
+	 * @param xlsFileLines
 	 * @throws ValidationException
 	 */
-	private void validate(File midFile, File mifFile, File xlsFile)
+	@SuppressWarnings("unused")
+	@Deprecated
+	private void validate(InputStream midFileInputStream, InputStream mifFileInputStream, InputStream xlsFileInputStream)
 			throws ValidationException {
 
-		if (mifFile != null && mifValidator != null)
-			mifValidator.validate(mifFile);
-		if (midFile != null && midValidator != null)
-			midValidator.validate(mifFile);
-		if (xlsFile != null && xlsValidator != null)
-			xlsValidator.validate(mifFile);
+		if (mifFileInputStream != null && mifValidator != null)
+			mifValidator.validate(mifFileInputStream);
+		if (midFileInputStream != null && midValidator != null)
+			midValidator.validate(mifFileInputStream);
+		if (xlsFileInputStream != null && xlsValidator != null)
+			xlsValidator.validate(mifFileInputStream);
+	
+		throw new UnsupportedOperationException("Method not implemented");
 	}
 
 	private String getPresentableDescription(MifData mifData)
@@ -356,52 +361,30 @@ public class Translator {
 		}
 		return buffer.toString();
 	}
-	public MidValidator getMidValidator() {
-		return midValidator;
-	}
 
 	public void setMidValidator(MidValidator midValidator) {
 		this.midValidator = midValidator;
-	}
-
-	public MifValidator getMifValidator() {
-		return mifValidator;
 	}
 
 	public void setMifValidator(MifValidator mifValidator) {
 		this.mifValidator = mifValidator;
 	}
 
-	public XlsValidator getXlsValidator() {
-		return xlsValidator;
-	}
-
 	public void setXlsValidator(XlsValidator xlsValidator) {
 		this.xlsValidator = xlsValidator;
 	}
 
-	public File getMidFile() {
-		return midFile;
+	public void setMidFileLines(List<String> midFileLines) {
+		this.midFileLines = midFileLines;
 	}
 
-	public void setMidFile(File midFile) {
-		this.midFile = midFile;
+	public void setMifFileLines(List<String> mifFileLines) {
+		this.mifFileLines = mifFileLines;
 	}
 
-	public File getMifFile() {
-		return mifFile;
+	public void setXlsFileLines(List<String> xlsFileLines) {
+		this.xlsFileLines = xlsFileLines;
 	}
 
-	public void setMifFile(File mifFile) {
-		this.mifFile = mifFile;
-	}
-
-	public File getXlsFile() {
-		return xlsFile;
-	}
-
-	public void setXlsFile(File xlsFile) {
-		this.xlsFile = xlsFile;
-	}
 
 }

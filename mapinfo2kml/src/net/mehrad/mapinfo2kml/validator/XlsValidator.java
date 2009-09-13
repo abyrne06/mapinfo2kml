@@ -1,6 +1,6 @@
 package net.mehrad.mapinfo2kml.validator;
 
-import java.io.File;
+import java.io.InputStream;
 
 import net.mehrad.mapinfo2kml.exception.ValidationException;
 
@@ -13,7 +13,7 @@ import net.mehrad.mapinfo2kml.exception.ValidationException;
 public class XlsValidator extends Validator{
 
 	@Override
-	public void validate(File file) throws ValidationException {
+	public void validate(InputStream file) throws ValidationException {
 		// TODO Auto-generated method stub
 		throw new UnsupportedOperationException("Not implemented yet.");
 	}

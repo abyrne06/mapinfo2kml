@@ -1,6 +1,6 @@
 package net.mehrad.mapinfo2kml.validator;
 
-import java.io.File;
+import java.io.InputStream;
 
 import net.mehrad.mapinfo2kml.exception.ValidationException;
 
@@ -24,6 +24,6 @@ public abstract class Validator {
 	 * @param mifFile
 	 * @throws ValidationException
 	 */
-	public abstract void validate(File file) throws ValidationException;
+	public abstract void validate(InputStream file) throws ValidationException;
 
 }

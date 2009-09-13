@@ -1,11 +1,6 @@
 package net.mehrad.mapinfo2kml.parser;
 
-import java.io.BufferedReader;
-import java.io.DataInputStream;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -51,12 +46,12 @@ public class MapinfoParser extends Parser {
 	private static final String MIF_DELIMITER_KEYWORD = "DELIMITER";
 	private static final String MIF_COLUMNS_KEYWORD = "COLUMNS";
 
-	protected File midFile;
-	protected File mifFile;
+	protected List<String> midFileLines;
+	protected List<String> mifFileLines;
 
-	public MapinfoParser(File midFile, File mifFile) {
-		this.midFile = midFile;
-		this.mifFile = mifFile;
+	public MapinfoParser(List<String> midFileLines, List<String> mifFileLines) {
+		this.midFileLines = midFileLines;
+		this.mifFileLines = mifFileLines;
 	}
 
 	/**
@@ -71,7 +66,7 @@ public class MapinfoParser extends Parser {
 		try {
 
 			MidModel midModel=new MidModel();
-			midModel.setMidFileLines(getReadedLines(midFile));
+			midModel.setMidFileLines(midFileLines);
 			
 			
 			
@@ -87,8 +82,6 @@ public class MapinfoParser extends Parser {
 		MifModel mifModel = new MifModel();
 		int linePointer = 0;
 
-
-		List<String> mifFileLines = getReadedLines(mifFile);
 		//parse header part
 		linePointer = handleMifHeader(mifFileLines, linePointer, mifModel);
 		//go to DATA line
@@ -438,28 +431,6 @@ public class MapinfoParser extends Parser {
 		mifModel.addMifData(mifRegion);
 
 		return linePointer;
-	}
-
-	/**
-	 * data structure that shows a file line by line
-	 * 
-	 * @param file
-	 * @return
-	 * @throws IOException
-	 */
-	private List<String> getReadedLines(File file) throws IOException {
-		List<String> lines = new ArrayList<String>();
-		FileInputStream fstream = new FileInputStream(file);
-		DataInputStream in = new DataInputStream(fstream);
-		BufferedReader br = new BufferedReader(new InputStreamReader(in));
-		String strLine;
-
-		while ((strLine = br.readLine()) != null) {
-			lines.add(strLine);
-		}
-		in.close();
-
-		return lines;
 	}
 
 	private Map<String,Object> getMidRecord(int shapeIndex,MidModel midModel,String delimiter,List<MifColumn> mifColumns)

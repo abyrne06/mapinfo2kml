@@ -1,5 +1,12 @@
 package net.mehrad.mapinfo2kml.util;
 
+import java.io.BufferedReader;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class ParseStringUtils {
@@ -48,6 +55,29 @@ public class ParseStringUtils {
 	public static boolean startsWithIgnoreCase(String originalStr,String strToCheckWith)
 	{
 		return originalStr.trim().toLowerCase().startsWith(strToCheckWith.trim().toLowerCase());
+	}
+	
+	/**
+	 * data structure that shows a file line by line
+	 * 
+	 * @param file
+	 * @return
+	 * @throws IOException
+	 */
+	public static List<String> getReadedLines(InputStream is) throws IOException {
+		List<String> lines = new ArrayList<String>();
+		
+		DataInputStream in = new DataInputStream(is);
+		BufferedReader br = new BufferedReader(new InputStreamReader(in));
+		String strLine;
+
+		while ((strLine = br.readLine()) != null) {
+			lines.add(strLine);
+		}
+		in.close();
+		is.close();
+
+		return lines;
 	}
 	
 }

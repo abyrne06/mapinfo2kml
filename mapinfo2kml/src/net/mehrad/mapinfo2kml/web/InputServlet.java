@@ -1,15 +1,5 @@
 package net.mehrad.mapinfo2kml.web;
 
-import java.io.File;
-
-import net.mehrad.mapinfo2kml.Translator;
-import net.mehrad.mapinfo2kml.exception.ParserException;
-import net.mehrad.mapinfo2kml.exception.ValidationException;
-import net.mehrad.mapinfo2kml.validator.MidValidator;
-import net.mehrad.mapinfo2kml.validator.MifValidator;
-import net.mehrad.mapinfo2kml.validator.XlsValidator;
-
-import org.boehn.kmlframework.kml.Kml;
 
 
 /**
@@ -21,7 +11,7 @@ public class InputServlet {
 
 	public void dopPost()
 	{
-		// lets think that we got the files from user and saved it
+/*		// lets think that we got the files from user and saved it
 		// somewhere temporarily. now we want to create the KML
 		File excelFile=null;
 		File midFile=null;
@@ -63,6 +53,6 @@ public class InputServlet {
 		} catch (ValidationException e) {
 			// we generate validation exception message
 		}
-		
+*/		
 	}
 }
