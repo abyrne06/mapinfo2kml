@@ -72,8 +72,8 @@ public class MapinfoParser extends Parser {
 			
 			return parseMif(midModel);
 
-		} catch (IOException e) {
-			throw new ParserException(e);
+		} catch (Throwable e) {
+			throw new ParserException("Files syntax/syntaxes is incorrect",e);
 		}
 		
 	}
@@ -436,6 +436,8 @@ public class MapinfoParser extends Parser {
 	private Map<String,Object> getMidRecord(int shapeIndex,MidModel midModel,String delimiter,List<MifColumn> mifColumns)
 	{
 		Map<String,Object> objectData=new HashMap<String, Object>();
+		if(midModel==null || midModel.getMidFileLines()==null || midModel.getMidFileLines().size()==0)
+			return objectData;
 		String recordStr=midModel.getMidFileLines().get(shapeIndex-1);
 		
 		StringTokenizer tokenizer=new StringTokenizer(recordStr, delimiter);
