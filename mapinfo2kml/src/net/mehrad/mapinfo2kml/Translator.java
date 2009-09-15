@@ -393,7 +393,7 @@ public class Translator {
 			}
 			catch (Exception e)
 			{
-				String ss=idValue;
+				return "";
 			}
 			
 		}
