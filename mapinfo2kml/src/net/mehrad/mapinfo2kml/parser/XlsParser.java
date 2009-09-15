@@ -10,9 +10,9 @@ public class XlsParser extends Parser{
 
 	private static final int idColIndex = 0;
 	protected XlsModel xlsModel;
-	protected List<List<String>> excelRows;
+	protected List<? extends List<String>> excelRows;
 	
-	public XlsParser(List<List<String>> excelRows) {
+	public XlsParser(List<? extends List<String>> excelRows) {
 		this.excelRows=excelRows;
 		xlsModel=new XlsModel();
 	}

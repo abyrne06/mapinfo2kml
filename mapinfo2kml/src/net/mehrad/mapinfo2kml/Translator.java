@@ -51,7 +51,7 @@ public class Translator {
 
 	protected List<String> midFileLines;
 	protected List<String> mifFileLines;
-	protected List<List<String>> excelLines;
+	protected List<? extends List<String>> excelLines;
 	private XlsModel xlsModel;
 
 	/**
@@ -421,7 +421,7 @@ public class Translator {
 		this.mifFileLines = mifFileLines;
 	}
 
-	public void setXlsFileLines(List<List<String>> excelLines) {
+	public void setXlsFileLines(List<? extends List<String>> excelLines) {
 		this.excelLines = excelLines;
 	}
 

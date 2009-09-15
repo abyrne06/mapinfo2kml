@@ -1,7 +1,7 @@
 package net.mehrad.mapinfo2kml.util;
 
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -18,7 +18,7 @@ public class ParseExcelUtils {
 		
 	}
 	
-	public static ArrayList<ArrayList<String>> genExcelRows(FileInputStream excelInput) throws IOException
+	public static ArrayList<ArrayList<String>> genExcelRows(InputStream excelInput) throws IOException
 	{
 		POIFSFileSystem fs      =
             new POIFSFileSystem(excelInput);
