@@ -1,10 +1,12 @@
 package net.mehrad;
+import junit.framework.TestCase;
+
 import org.junit.Test;
 
 import net.mehrad.mapinfo2kml.util.*;
 import static org.junit.Assert.*;
 
-public class TestParseStringUtils {
+public class TestParseStringUtils extends TestCase{
 
 	/**
 	 * Test method for {@link net.mehrad.mapinfo2kml.util.ParseStringUtils#getStringPart()}.
@@ -40,7 +42,7 @@ public class TestParseStringUtils {
 		assertFalse(psu.startsWithIgnoreCase("test", "no"));
 		assertTrue(psu.startsWithIgnoreCase("test something", "test"));
 		assertTrue(psu.startsWithIgnoreCase("test something longer", "te"));
-		assertFalse(psu.startsWithIgnoreCase("test something", ""));
+		assertFalse(psu.startsWithIgnoreCase("test something", "ds"));
 		assertFalse(psu.startsWithIgnoreCase("te", "test"));
 	}
 }

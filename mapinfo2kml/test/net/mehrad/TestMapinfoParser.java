@@ -5,6 +5,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
+import junit.framework.TestCase;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 import net.mehrad.mapinfo2kml.exception.ParserException;
@@ -12,11 +14,10 @@ import net.mehrad.mapinfo2kml.parser.*;
 import net.mehrad.mapinfo2kml.util.ParseStringUtils;
 import net.mehrad.mapinfo2kml.mif.*;
 
-public class TestMapinfoParser {
+public class TestMapinfoParser extends TestCase{
 	/**
 	 * Test method for {@link net.mehrad.mapinfo2kml.Parser#parse()}.
 	 */
-	@Test
 	public void testParse() {
 		try {
 			Parser p = new MapinfoParser(ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/QLD_Federal_Electoral_Boundaries.mid"))), ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/QLD_Federal_Electoral_Boundaries.mif"))));

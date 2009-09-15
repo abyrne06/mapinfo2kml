@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import junit.framework.TestCase;
 import net.mehrad.mapinfo2kml.Translator;
 import net.mehrad.mapinfo2kml.parser.XlsParser;
 import net.mehrad.mapinfo2kml.util.ParseExcelUtils;
@@ -15,9 +16,9 @@ import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 import org.boehn.kmlframework.kml.Kml;
 
-public class TestExcelParser {
+public class TestExcelParser extends TestCase{
 
-	public static void main(String[] args)
+	public static void testParseXls(String[] args)
 	{
 		try {
 			FileInputStream fi=new FileInputStream("TestData//Qld_FederalResults by Electorate-2004.xls");

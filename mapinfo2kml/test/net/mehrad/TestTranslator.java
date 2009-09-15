@@ -3,15 +3,18 @@
  */
 package net.mehrad;
 
-import static org.junit.Assert.assertNotNull;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.List;
 
+import junit.framework.TestCase;
 import net.mehrad.mapinfo2kml.Translator;
 import net.mehrad.mapinfo2kml.exception.ParserException;
 import net.mehrad.mapinfo2kml.exception.ValidationException;
+import net.mehrad.mapinfo2kml.util.ParseExcelUtils;
 import net.mehrad.mapinfo2kml.util.ParseStringUtils;
 
 import org.boehn.kmlframework.kml.Kml;
@@ -22,12 +25,12 @@ import org.junit.Test;
  * @author Mehrad
  * 
  */
-public class TestTranslator {
+public class TestTranslator extends TestCase{
 
 	/**
 	 * Test method for {@link net.mehrad.mapinfo2kml.Translator#translate()}.
 	 */
-	@Test
+/*
 	public void testTranslateAllExamples() {
 
 		try {
@@ -81,6 +84,21 @@ public class TestTranslator {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}
+	}*/
 
+	public void testAll()
+	{
+		try {
+			InputStream fi;
+			fi = new FileInputStream("TestData//Qld_FederalResults by Electorate-2004.xls");
+			List<ArrayList<String>> excelLines=ParseExcelUtils.genExcelRows(fi);
+			Translator translator = new Translator(ParseStringUtils.getReadedLines(new FileInputStream(new File("TestData//QLD_Federal_Electoral_Boundaries.mid"))), ParseStringUtils.getReadedLines(new FileInputStream(new File("testData//QLD_Federal_Electoral_Boundaries.mif"))),(List)excelLines);
+			Kml result = translator.translate();
+			assertNotNull(result==null);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			fail();
+		} 
+	}
 }
