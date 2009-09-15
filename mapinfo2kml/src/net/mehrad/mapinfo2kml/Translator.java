@@ -379,7 +379,7 @@ public class Translator {
 		String idValue="";
 		for(String key:objectData.keySet())
 		{
-			buffer.append(key).append(": ").append(objectData.get(key)).append("<br/>");
+			buffer.append("<font color=\"BLUE\"><B>"+key).append(":</B></font> ").append(objectData.get(key)).append("<br/>");
 			if (key.equals(idColumn))
 				idValue=((String) objectData.get(key)).replace("\"", "");
 		}
@@ -388,7 +388,7 @@ public class Translator {
 		{
 			try{
 			excelDetails=this.xlsModel.getRowStr(idValue.toLowerCase());
-			String desc="Excel file detais:<br/>"+excelDetails+"<br/>"+"MifData:<br/>"+buffer.toString();
+			String desc="<font color=\"RED\"><B>Excel File Detais:</B></font><br/><br/>"+excelDetails+"<br/>"+"<font color=\"RED\"><B>MIF File Details:</B></font><br/><br/>"+buffer.toString();
 			return desc;
 			}
 			catch (Exception e)

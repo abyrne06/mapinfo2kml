@@ -47,7 +47,7 @@ public class XlsModel extends DataModel{
 		{
 			String cellHeaderName=this.colheader.get(i);
 			String cellValue=(String)row.get(i);
-			rowStr.append(cellHeaderName+": "+cellValue+"<br/>");
+			rowStr.append("<font color=\"BLUE\"><B>"+cellHeaderName+":</B></font> "+cellValue+"<br/>");
 		}
 		return rowStr.toString();
 	}
