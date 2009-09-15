@@ -1,5 +1,6 @@
 package net.mehrad.mapinfo2kml.parser;
 
+import java.util.Iterator;
 import java.util.List;
 
 import net.mehrad.mapinfo2kml.DataModel;
@@ -7,11 +8,13 @@ import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 public class XlsParser extends Parser{
 
+	private static final int idColIndex = 0;
 	protected XlsModel xlsModel;
-	protected List<String> xlsFileLines;
+	protected List<List<String>> excelRows;
 	
-	public XlsParser(List<String> xlsFileLines) {
-		this.xlsFileLines=xlsFileLines;
+	public XlsParser(List<List<String>> excelRows) {
+		this.excelRows=excelRows;
+		xlsModel=new XlsModel();
 	}
 
 	/**
@@ -21,8 +24,19 @@ public class XlsParser extends Parser{
 	 */
 	@Override
 	public DataModel parse() {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet.");
+		if (this.excelRows==null)
+			return null;
+		List<String> headerRow=excelRows.get(0);
+		this.xlsModel.setColheader(headerRow);
+		excelRows.remove(0);
+		for (Iterator rowIte=excelRows.iterator();rowIte.hasNext();)
+		{
+			List<String> row=(List<String>) rowIte.next();
+			String idStr=row.get(idColIndex);
+			this.xlsModel.getElectionResultRows().put(idStr.toLowerCase(), row);
+		}
+		return this.xlsModel;
+			
 	}
 
 	public XlsModel getXlsModel() {
