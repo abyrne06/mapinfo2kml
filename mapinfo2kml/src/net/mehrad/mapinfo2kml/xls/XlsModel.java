@@ -40,6 +40,8 @@ public class XlsModel extends DataModel{
 	public String getRowStr(String rowId)
 	{
 		List<String> row=this.electionResultRows.get(rowId);
+		if (row==null)
+			return "";
 		StringBuffer rowStr=new StringBuffer();
 		for (int i=0;i<row.size();i++)
 		{
