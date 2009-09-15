@@ -177,8 +177,12 @@ public class Translator {
 	}
 
 	private String getRandomColor(int i) {
-		int floor = (int) (Math.random()*16777215);
-		return Integer.toHexString(floor)+"5F";
+		
+		int red=127+(int) (Math.random()*127);
+		int green=127+(int) (Math.random()*127);
+		int blue=127+(int) (Math.random()*127);
+
+		return Integer.toHexString(red)+Integer.toHexString(green)+Integer.toHexString(blue)+"5F";
 	}
 
 	/**
