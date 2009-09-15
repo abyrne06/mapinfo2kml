@@ -15,8 +15,8 @@ public class XlsModel extends DataModel{
 
 	private Map<String,List<String>> electionResultRows;
 	private List<String> colheader;
-	private String id="city";
-	private int idCol=0;	
+//	private String id="city";
+//	private int idCol=0;	
 	
 	public List<String> getColheader() {
 		return colheader;
