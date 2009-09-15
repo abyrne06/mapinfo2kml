@@ -44,13 +44,15 @@ import org.boehn.kmlframework.kml.StyleSelector;
  */
 public class Translator {
 
+	private static final Object idColumn = "Sortname";
 	protected MidValidator midValidator;
 	protected MifValidator mifValidator;
 	protected XlsValidator xlsValidator;
 
 	protected List<String> midFileLines;
 	protected List<String> mifFileLines;
-	protected List<String> xlsFileLines;
+	protected List<List<String>> excelLines;
+	private XlsModel xlsModel;
 
 	/**
 	 * Translator constructor, for setting excel file use setXlsFile method.
@@ -61,6 +63,12 @@ public class Translator {
 	public Translator(List<String> midFileInputStream, List<String> mifFileInputStream) {
 		this.midFileLines = midFileInputStream;
 		this.mifFileLines = mifFileInputStream;
+	}
+
+	public Translator(List<String> midFileInputStream, List<String> mifFileInputStream, List<List<String>> excelLines) {
+		this.midFileLines = midFileInputStream;
+		this.mifFileLines = mifFileInputStream;
+		this.excelLines=excelLines;
 	}
 
 	/**
@@ -77,13 +85,15 @@ public class Translator {
 
 //		validate(midFileInputStream, mifFileInputStream, xlsFileInputStream);
 		MapinfoParser mapinfoParser = new MapinfoParser(midFileLines, mifFileLines);
-		XlsParser xlsParser = new XlsParser(xlsFileLines);
+		// TODO
 
 		MifModel mifModel = (MifModel) mapinfoParser.parse();
-
-		XlsModel xlsModel=null;
-		if (xlsFileLines != null)
-			xlsModel = (XlsModel) xlsParser.parse();
+				
+		if (this.excelLines!= null)
+		{
+			XlsParser xlsParser = new XlsParser(this.excelLines);
+			this.xlsModel = (XlsModel) xlsParser.parse();
+		}
 
 		Kml kml = fillKmlFromMifAndXls(mifModel, xlsModel);
 		return kml;
@@ -366,10 +376,28 @@ public class Translator {
 	{
 		StringBuffer buffer=new StringBuffer();
 		Map<String, Object> objectData = mifData.getObjectData();
+		String idValue="";
 		for(String key:objectData.keySet())
 		{
 			buffer.append(key).append(": ").append(objectData.get(key)).append("<br/>");
+			if (key.equals(idColumn))
+				idValue=((String) objectData.get(key)).replace("\"", "");
 		}
+		String excelDetails="";
+		if (this.xlsModel!=null && !idValue.isEmpty())
+		{
+			try{
+			excelDetails=this.xlsModel.getRowStr(idValue.toLowerCase());
+			String desc="Excel file detais:<br/>"+excelDetails+"<br/>"+"MifData:<br/>"+buffer.toString();
+			return desc;
+			}
+			catch (Exception e)
+			{
+				String ss=idValue;
+			}
+			
+		}
+//		return buffer.toString();
 		return buffer.toString();
 	}
 
@@ -393,8 +421,8 @@ public class Translator {
 		this.mifFileLines = mifFileLines;
 	}
 
-	public void setXlsFileLines(List<String> xlsFileLines) {
-		this.xlsFileLines = xlsFileLines;
+	public void setXlsFileLines(List<List<String>> excelLines) {
+		this.excelLines = excelLines;
 	}
 
 
