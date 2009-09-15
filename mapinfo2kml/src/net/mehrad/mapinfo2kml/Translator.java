@@ -101,28 +101,33 @@ public class Translator {
 	 * @return
 	 */
 	private Kml fillKmlFromMifAndXls(MifModel mifModel, XlsModel xlsModel) {
+		
 		//TODO: handle XLS and MID
 		Kml kml = new Kml();
 		
 		Document document = new Document();
 		kml.setFeature(document);
 		
-		//TODO: clean this shit
-		Style style=new Style();
-		PolyStyle polyStyle=new PolyStyle();
-		polyStyle.setFill(true);
-		polyStyle.setColor("ff7fff55");
-		style.setPolyStyle(polyStyle);
-		style.setId("mehrad");
 		List<StyleSelector> styles=new ArrayList<StyleSelector>();
-		styles.add(style);
-		document.setStyleSelectors(styles);
-		
+
+		int styleId=0;
 		for (MifData mifData : mifModel.getMifDatas()) {
+			
 			
 			if (mifData instanceof MifRegion) {
 				Placemark placeMarkForRegion = getPlaceMarkForMifRegion((MifRegion) mifData);
-				placeMarkForRegion.setStyleUrl("#mehrad");
+				
+				//TODO: clean this shit
+				Style style=new Style();
+				PolyStyle polyStyle=new PolyStyle();
+				polyStyle.setFill(true);
+				polyStyle.setColor(getRandomColor(styleId++));
+				style.setPolyStyle(polyStyle);
+				style.setId("mehrad"+styleId);
+				styles.add(style);
+
+				
+				placeMarkForRegion.setStyleUrl("#mehrad"+styleId);
 				document.addFeature(placeMarkForRegion);
 			}
 			else if (mifData instanceof MifPoint) {
@@ -153,11 +158,17 @@ public class Translator {
 				document.addFeature(placeMarkForText);
 			}
 
+			document.setStyleSelectors(styles);
 
 
 		}
 
 		return kml;
+	}
+
+	private String getRandomColor(int i) {
+		int floor = (int) (Math.random()*16777215);
+		return Integer.toHexString(floor)+"5F";
 	}
 
 	/**
