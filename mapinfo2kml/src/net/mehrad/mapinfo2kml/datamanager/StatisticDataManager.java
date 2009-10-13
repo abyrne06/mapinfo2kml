@@ -28,6 +28,10 @@ public class StatisticDataManager extends DataAccess{
 		return 0;
 	}*/
 	
+	public StatisticDataManager() {
+		super();
+	}
+
 	public List<String> getDivisionsForRegion(String requiredRegion){
 		try {
 			CallableStatement cst= this.con.prepareCall("{call GetDivisionsForRegion(?)}");

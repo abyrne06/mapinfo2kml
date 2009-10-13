@@ -456,7 +456,7 @@ public class Translator {
 				idValue=((String) objectData.get(key)).replace("\"", "");
 		}
 		String excelDetails="";
-		if (this.xlsModel !=null && !idValue.isEmpty())
+		if (this.xlsModel !=null && !idValue.equals(""))
 		{
 			try{
 			excelDetails=this.xlsModel.getRowStr(idValue.toLowerCase());

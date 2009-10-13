@@ -11,9 +11,10 @@ public abstract class DataAccess {
     public DataAccess(){
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();
-            
+            prepareConnection();
         } catch (Exception ex) {
-            
+            System.out.println("Connection ERROR!\n");
+            ex.printStackTrace();
         }
     }
     
