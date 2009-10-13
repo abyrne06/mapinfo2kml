@@ -74,6 +74,7 @@ public class ParseStringUtils {
 		while ((strLine = br.readLine()) != null) {
 			lines.add(strLine);
 		}
+		br.close();
 		in.close();
 		is.close();
 

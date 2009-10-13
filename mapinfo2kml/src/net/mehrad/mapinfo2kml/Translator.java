@@ -3,8 +3,8 @@ package net.mehrad.mapinfo2kml;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
+import net.mehrad.mapinfo2kml.datamanager.StatisticDataManager;
 import net.mehrad.mapinfo2kml.exception.ParserException;
 import net.mehrad.mapinfo2kml.exception.ValidationException;
 import net.mehrad.mapinfo2kml.mif.MifCoordinate;
@@ -18,13 +18,18 @@ import net.mehrad.mapinfo2kml.mif.MifRegion;
 import net.mehrad.mapinfo2kml.mif.MifText;
 import net.mehrad.mapinfo2kml.parser.MapinfoParser;
 import net.mehrad.mapinfo2kml.parser.XlsParser;
+import net.mehrad.mapinfo2kml.statistics.SafeSeatUtil;
+import net.mehrad.mapinfo2kml.statistics.SafetyColorUtil;
+import net.mehrad.mapinfo2kml.statistics.SeatSafetyLevel;
 import net.mehrad.mapinfo2kml.validator.MidValidator;
 import net.mehrad.mapinfo2kml.validator.MifValidator;
 import net.mehrad.mapinfo2kml.validator.XlsValidator;
+import net.mehrad.mapinfo2kml.xls.SafetyStat;
 import net.mehrad.mapinfo2kml.xls.XlsModel;
 
 import org.boehn.kmlframework.kml.Document;
 import org.boehn.kmlframework.kml.Feature;
+import org.boehn.kmlframework.kml.Icon;
 import org.boehn.kmlframework.kml.Kml;
 import org.boehn.kmlframework.kml.LineString;
 import org.boehn.kmlframework.kml.LinearRing;
@@ -32,8 +37,10 @@ import org.boehn.kmlframework.kml.Placemark;
 import org.boehn.kmlframework.kml.Point;
 import org.boehn.kmlframework.kml.PolyStyle;
 import org.boehn.kmlframework.kml.Polygon;
+import org.boehn.kmlframework.kml.ScreenOverlay;
 import org.boehn.kmlframework.kml.Style;
 import org.boehn.kmlframework.kml.StyleSelector;
+import org.boehn.kmlframework.kml.UnitEnum;
 
 /**
  * main translation controller. its dependent to mid and mif files meanwhile its
@@ -51,6 +58,8 @@ public class Translator {
 
 	protected List<String> midFileLines;
 	protected List<String> mifFileLines;
+	private List<String> regions;
+	
 	protected List<? extends List<String>> excelLines;
 	private XlsModel xlsModel;
 
@@ -114,10 +123,10 @@ public class Translator {
 		
 		//TODO: handle XLS and MID
 		Kml kml = new Kml();
-		
+
 		Document document = new Document();
 		kml.setFeature(document);
-		
+		document.addFeature(getLegend());
 		List<StyleSelector> styles=new ArrayList<StyleSelector>();
 
 		int styleId=0;
@@ -125,13 +134,20 @@ public class Translator {
 			
 			
 			if (mifData instanceof MifRegion) {
+				String regionName = mifData.getObjectData().get("Elect_div")!=null?mifData.getObjectData().get("Elect_div").toString().replaceAll("\"", ""):"NA";
+				
+				if(!regions.contains(regionName))
+					continue;
+				
 				Placemark placeMarkForRegion = getPlaceMarkForMifRegion((MifRegion) mifData);
 				
 				//TODO: clean this shit
 				Style style=new Style();
 				PolyStyle polyStyle=new PolyStyle();
 				polyStyle.setFill(true);
-				polyStyle.setColor(getRandomColor(styleId++));
+				
+				polyStyle.setColor("BE"+getColorForRegion(regionName));
+				styleId++;
 				style.setPolyStyle(polyStyle);
 				style.setId("mehrad"+styleId);
 				styles.add(style);
@@ -176,6 +192,58 @@ public class Translator {
 		return kml;
 	}
 
+	/**
+	 * determines color of the region
+	 * @param regionName
+	 * @return
+	 */
+	private String getColorForRegion(String regionName)
+	{
+		StatisticDataManager manager=new StatisticDataManager();
+		String color="";
+		List<SafetyStat> safetyStatisticsForState2 = manager.getSafetyStatisticsForState("QLD");
+		for(SafetyStat safetyStat:safetyStatisticsForState2)
+		{
+			if(regionName.trim().equalsIgnoreCase(safetyStat.getSeat()))
+			{
+				SeatSafetyLevel seatSafetyLevel = SafeSeatUtil.getSeatSafetyLevel(safetyStat.getSafetyLevel());
+				color = SafetyColorUtil.getColorForSafety(seatSafetyLevel);
+			}
+		}
+
+		return color;
+	}
+	
+	/**
+	 * creates the screenlayout used as a legend for election results
+	 * @return
+	 */
+	private ScreenOverlay getLegend() {
+		ScreenOverlay overlay=new ScreenOverlay();
+		Icon icon = new Icon();
+		icon.setHref("http://localhost:8080/legend.PNG");
+		overlay.setName("Legend");
+		overlay.setIcon(icon);
+		overlay.setOverlayX(1.0);
+		overlay.setOverlayY(1.0);
+		overlay.setOverlayXunits(UnitEnum.fraction);
+		overlay.setOverlayYunits(UnitEnum.fraction);
+		overlay.setScreenX(1.0);
+		overlay.setScreenY(1.0);
+		overlay.setScreenXunits(UnitEnum.fraction);
+		overlay.setScreenYunits(UnitEnum.fraction);
+		overlay.setRotationX(0.0);
+		overlay.setRotationY(0.0);
+		overlay.setRotationXunits(UnitEnum.fraction);
+		overlay.setRotationYunits(UnitEnum.fraction);
+		overlay.setSizeX(0.0);
+		overlay.setSizeY(0.0);
+		overlay.setSizeXunits(UnitEnum.fraction);
+		overlay.setSizeYunits(UnitEnum.fraction);
+		return overlay;
+	}
+
+	@Deprecated
 	private String getRandomColor(int i) {
 		
 		int red=127+(int) (Math.random()*127);
@@ -379,7 +447,7 @@ public class Translator {
 	private String getPresentableDescription(MifData mifData)
 	{
 		StringBuffer buffer=new StringBuffer();
-		Map<String, Object> objectData = mifData.getObjectData();
+		java.util.Map<String, Object> objectData = mifData.getObjectData();
 		String idValue="";
 		for(String key:objectData.keySet())
 		{
@@ -388,7 +456,7 @@ public class Translator {
 				idValue=((String) objectData.get(key)).replace("\"", "");
 		}
 		String excelDetails="";
-		if (this.xlsModel!=null && !idValue.isEmpty())
+		if (this.xlsModel !=null && !idValue.isEmpty())
 		{
 			try{
 			excelDetails=this.xlsModel.getRowStr(idValue.toLowerCase());
@@ -427,6 +495,18 @@ public class Translator {
 
 	public void setXlsFileLines(List<? extends List<String>> excelLines) {
 		this.excelLines = excelLines;
+	}
+
+	public void setRegions(List<String> regions) {
+		StatisticDataManager manager=new StatisticDataManager();
+		List<String> regions2=new ArrayList<String>(); 
+		
+		for(String region:regions)
+		{
+			regions2.addAll(manager.getDivisionsForRegion(region));
+		}
+		
+		this.regions = regions2;
 	}
 
 
