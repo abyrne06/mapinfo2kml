@@ -9,7 +9,7 @@ public class AllTests extends TestSuite{
 		//$JUnit-BEGIN$
 		Class[] testClasses={TestMapinfoParser.class, 
 				TestParseExcelUtils.class, TestParseStringUtils.class, 
-				TestTranslator.class, TestXlsParser.class};
+				TestTranslator.class, TestXlsParser.class,TestDataImport.class};
 		TestSuite suite = new TestSuite(testClasses);
 		//$JUnit-END$
 		return suite;

@@ -7,7 +7,7 @@ public class FederalResults2PPByElectorate {
 	private String division;
 	private String partyHeld;
 	private int LNP_Votes;
-	private int LNP_Percentage;
+	private double LNP_Percentage;
 	public String getState() {
 		return state;
 	}
@@ -38,10 +38,10 @@ public class FederalResults2PPByElectorate {
 	public void setLNP_Votes(int lNPVotes) {
 		LNP_Votes = lNPVotes;
 	}
-	public int getLNP_Percentage() {
+	public double getLNP_Percentage() {
 		return LNP_Percentage;
 	}
-	public void setLNP_Percentage(int lNPPercentage) {
+	public void setLNP_Percentage(double lNPPercentage) {
 		LNP_Percentage = lNPPercentage;
 	}
 	public int getALP_Votes() {

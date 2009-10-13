@@ -4,6 +4,7 @@ public class FederalStateElectorateMapping {
 
 	private String state;
 	private String federalSeat;
+	private String stateSeat;
 	public String getState() {
 		return state;
 	}
@@ -22,6 +23,7 @@ public class FederalStateElectorateMapping {
 	public void setStateSeat(String stateSeat) {
 		this.stateSeat = stateSeat;
 	}
-	private String stateSeat;
+
+	
 
 }

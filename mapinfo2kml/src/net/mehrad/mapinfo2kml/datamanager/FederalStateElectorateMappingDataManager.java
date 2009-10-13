@@ -10,9 +10,9 @@ public class FederalStateElectorateMappingDataManager extends DataManager {
 	protected Map<String, String> getPropertyMap(Object obj) {
 		FederalStateElectorateMapping fse=(FederalStateElectorateMapping) obj;
 		Map<String, String> propMap=new HashMap<String, String>();
-		propMap.put("'State'","'"+fse.getState()+"'");
-		propMap.put("'FederalSeat'","'"+fse.getFederalSeat()+"'");
-		propMap.put("'StateSeat'","'"+fse.getStateSeat()+"'");
+		propMap.put("`State`","'"+fse.getState()+"'");
+		propMap.put("`FederalSeat`","'"+fse.getFederalSeat()+"'");
+		propMap.put("`StateSeat`","'"+fse.getStateSeat()+"'");
 		return propMap;
 	}
 

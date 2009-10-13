@@ -20,7 +20,7 @@ public class TestMapinfoParser extends TestCase{
 	 */
 	public void testParse() {
 		try {
-			Parser p = new MapinfoParser(ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/QLD_Federal_Electoral_Boundaries.mid"))), ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/QLD_Federal_Electoral_Boundaries.mif"))));
+			Parser p = new MapinfoParser(ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/Election/QLD_Federal_Electoral_Boundaries.mid"))), ParseStringUtils.getReadedLines(new FileInputStream(new File("testData/Election/QLD_Federal_Electoral_Boundaries.mif"))));
 			
 			MifModel model = (MifModel)p.parse();
 			
