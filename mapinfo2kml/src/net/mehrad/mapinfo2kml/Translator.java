@@ -221,7 +221,7 @@ public class Translator {
 	private ScreenOverlay getLegend() {
 		ScreenOverlay overlay=new ScreenOverlay();
 		Icon icon = new Icon();
-		icon.setHref("http://localhost:8080/legend.PNG");
+		icon.setHref("http://localhost:8080/KemlGenFrontEnd/legend.PNG");
 		overlay.setName("Legend");
 		overlay.setIcon(icon);
 		overlay.setOverlayX(1.0);
